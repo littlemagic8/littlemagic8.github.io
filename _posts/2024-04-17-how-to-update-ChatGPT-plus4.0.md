@@ -12,15 +12,6 @@ tags:
 
 > ChatGPTplus免排队升级,一分钟完成
 >
-> layout:     post
-> title:      GPT4暂停升级，ChatGPTPlus4.0升级教程-国内手段支付升级，开通升级ChatGPT详细指南
-> subtitle:   拥抱未来, 拥抱AI
-> date:       2024-04-17
-> author:     aicygg888
-> header-img: img/openai-hero-purple.jpg
-> catalog: true
-> tags:
->     - AI
 
 [TOC]
 
