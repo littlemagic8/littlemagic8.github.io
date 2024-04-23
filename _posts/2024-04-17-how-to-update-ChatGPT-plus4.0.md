@@ -4,7 +4,7 @@ title:      ChatGPT升级，ChatGPTPlus4.0升级教程-国内手段支付升级�
 subtitle:   拥抱未来, 拥抱AI
 date:       2024-04-17
 author:     aicygg888
-header-img: img/openai-hero-purple.jpg
+header-img: img/chatgptPlus.jpg
 catalog: true
 tags:
     - AI
@@ -49,7 +49,7 @@ sms购买连接：[sms](https://sms-activate.org/?ref=6648036) 在[激活]->[购
 
 目前ChatGPT的最新数据集以及到2024/04月了，如下图所示
 
-![](https://files.mdnice.com/user/57729/d3010655-cb5a-4c8a-be34-6e09f96411ca.png)
+![img](https://picx.zhimg.com/80/v2-84a18a82968e361f5620cabd95f2ef3d_720w.png)
 
 GPT-4优势如下：
 
@@ -74,7 +74,7 @@ GPT-4优势如下：
 
 不过方法总比困难多，经过一晚上的折腾，成功开通会员！
 
-![](https://files.mdnice.com/user/57729/3f685bb1-1d2b-4672-a4f7-1da48b9cb024.png)
+![img](https://pic1.zhimg.com/80/v2-ade99a4ff13209ffc1bdb7c65a089746_720w.png)
 
 ## 第一步：获取国外信用卡
 
@@ -90,7 +90,7 @@ GPT-4优势如下：
 
 打开官网之后选择【立即使用】，如图所示
 
-![](https://files.mdnice.com/user/57729/9c041c68-7910-4bc2-a677-2e70ed01d802.png)
+![img](https://picx.zhimg.com/80/v2-97dd16b11ab90e5ea23799436d623b3b_720w.png)
 
 然后服务总览需要选择【去使用】，这个是虚拟卡，已经稳定上线一年了，建议用虚拟卡自己订阅
 
@@ -110,14 +110,14 @@ GPT-4优势如下：
 
 ### 方式一：一键升级，无需手动绑卡（推荐：免排队，一分钟搞定）
 
-![](https://files.mdnice.com/user/57729/a14c47af-e878-4c25-a6ba-17ac573e1979.png)
+![img](https://picx.zhimg.com/80/v2-fd71aa263409ad8871ae3451f5b3eecf_720w.png)
 
 进入一键升级之后点击【去升级】->根据提示将ChatGPT升级支付页面的链接ctrl+c ctrl+v到提示框中，如图所示
 
-![](https://files.mdnice.com/user/57729/219455e3-a738-43d6-905e-2fd9666de9ea.png)
+![img](https://pic1.zhimg.com/80/v2-9065bc93d84b77b9f8872eb84a1ae1da_720w.png)
 
 
-![](https://files.mdnice.com/user/57729/cc36f88a-b56f-442a-b46f-9a9c7d727ecb.png)
+![img](https://pic1.zhimg.com/80/v2-365a0fa4503408f4734a20e37fa85c01_720w.png)
 
 到此等待排队升级完成即可！
 
@@ -131,11 +131,11 @@ https://chat.openai.com/invite/accepted
 #2 绑定 WildCard 卡片来升级 Plus
 在弹出的 Stripe 绑卡页面，依次填入您的 WildCard 卡号、有效月份/年份、CVC（即您的 CVV ）、姓名拼音（名字拼音在前，姓氏拼音在后，中间一定要有空格）和我们提供的美国账单地址。
 
-![](https://files.mdnice.com/user/57729/9df2bd7e-a277-44e7-88c8-c60c8fc6085d.png)
+![img](https://picx.zhimg.com/80/v2-e6214f9eeb333589fbf3f333554b3691_720w.png)
 
 一般点击「订阅」按钮即可成功。
 
-![](https://files.mdnice.com/user/57729/0f15963c-d428-45ad-9e2b-aeaf4d73a7dd.png)
+![img](https://picx.zhimg.com/80/v2-aa39d1aaa153cb6a0156cd3643eb19ca_720w.png)
 
 #3 绑定出现问题
 如果出现 unable to authorize/未能验证您的支付方式/card has been declined/银行卡被拒绝 这类错误，排除下，如果不是因为卡片余额不足，主要是因为使用的网络环境被太多人用来支付，被识别为了机器人或高风险操作导致了这个报错。
@@ -146,13 +146,13 @@ https://chat.openai.com/invite/accepted
 
 一个是支付页面的网址，需要您返回上一步，然后重新点击 Upgrade 进入一下 chatgpt 的付款页面，什么内容都不要填，直接把复制一下 pay.openai.com 开头的那个全部网址，发给客服。
 
-![](https://files.mdnice.com/user/57729/bdce6cd9-cd17-4cbc-9bc3-a18ec0f173aa.png)
+![img](https://pic1.zhimg.com/80/v2-bb0b23d69c9c4e7749d62263333cfbae_720w.png)
 
 另一个是卡片信息，点击卡片右上角的复制全部即可
 
-![](https://files.mdnice.com/user/57729/2a04a800-8bcd-46b0-96c6-19ce212c108a.png)
+![img](https://picx.zhimg.com/80/v2-358eb32523533772da0a86d03e841705_720w.png)
 
-![](https://files.mdnice.com/user/57729/f7b5d9dd-cc22-446c-bd7d-a2609f7f747b.png)
+![img](https://picx.zhimg.com/80/v2-de44185306c9e68d402bd71bc908f525_720w.png)
 
 现在可以开启你的ChatGPT之旅啦！
 
