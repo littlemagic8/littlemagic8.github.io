@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      GPT4暂停升级，ChatGPTPlus4.0升级教程-国内手段支付升级，开通升级ChatGPT详细指南
+title:      ChatGPT升级，ChatGPTPlus4.0升级教程-国内手段支付升级，开通升级ChatGPT详细指南
 subtitle:   拥抱未来, 拥抱AI
 date:       2024-04-17
 author:     aicygg888
@@ -74,16 +74,17 @@ GPT-4优势如下：
 
 不过方法总比困难多，经过一晚上的折腾，成功开通会员！
 
-![image-20240225171936641](E:\typoraPicture\image-20240225171936641.png)
+![](https://files.mdnice.com/user/57729/3f685bb1-1d2b-4672-a4f7-1da48b9cb024.png)
 
 ## 第一步：获取国外信用卡
 
 #1.1 绕过官方入口
 直接登录 ChatGPT 后，在同一浏览器新开一个标签页，点击以下链接即可进入升级页面：https://chat.openai.com/invite/accepted
+
 #1.2 获取国外信用卡
 当前我找到一个方式，全流程非常流畅，大概 2 分钟以内搞定！(可以放心开卡、充值，目前还可以用，不能用的话，我会及时同步的)
 
-完美解决缺乏国外信用卡银行卡的问题：地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/DW62)
+完美解决缺乏国外信用卡银行卡的问题：地址：[WildCard  一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/DW62)
 
 （PS：大家可以使用我的邀请链接: https://bewildcard.com/i/DW62，或者邀请码：DW62，这样你能有 88 折优惠，我也有一点返利，大家互利！
 
