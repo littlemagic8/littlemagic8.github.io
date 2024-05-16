@@ -34,6 +34,12 @@ sms购买连接：[sms](https://sms-activate.org/?ref=6648036) 在[激活]->[购
 
 **PS:如果您不想折腾这些账号 需要以下账号，请直接联系我微信：aicygg888 （适合多次注册不成功或不想折腾） ins、Gmail、Google、YouTube、ChatGPT、ChatGPT4.0/plus、TikTok、yahoo、fanckbook包括以上但不限于以上账号， 详情请咨询微信：aicygg888**
 
+
+
+### GPT-4o模型
+
+想要了解GPT-4o的童鞋，可以参考这篇文章[GPT4o简介和使用](https://littlemagic8.github.io/2021/03/29/KVO详解/)
+
 <p id = "build"></p>
 
 # **准备工作**:
