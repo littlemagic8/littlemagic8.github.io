@@ -45,14 +45,26 @@ Sora震撼发布！！！
 
 1.2 次月激活：使用激活码
 
-> ***PS 目前已新增ChatGPT Pro账号号码池（包含Sora）,赚翻了***
+> ***PS 目前已新增ChatGPT Pro账号号码池***
 
 
 ![img](https://pic1.zhimg.com/80/v2-c0eee8b47889db6df74d36a7555ce599_720w.jpeg)
 
-Sora被包含在ChatGPT共享会员套餐，会有对应的积分，不用花两份钱。
+
 
 ![img](https://pica.zhimg.com/80/v2-831ea190ebab9b29866318af99ca1573_720w.jpeg)
+
+
+
+![cover](https://pica.zhimg.com/80/v2-538a6191cbe5f9fbcb6bd58c7bb96afc_xl.jpg)
+
+
+
+>  sora 是单独需要开通的，不是 ChatGPT 开通了 PLUS，sora 能直接使用，还要额外开通，OpenAI 挺狗的
+
+>  需要 sora 官网号的再等等，目前产量低，官网 sora 也不给注册新号
+
+![preview](https://picx.zhimg.com/80/v2-649c238d91458ff49e191098236ebd5d_r.jpg)
 
 ### **第二步：登陆 点击“立即使用”**
 
