@@ -1,4 +1,5 @@
 ---
+
 layout:     post
 title:      Sora是什么、国内如何使用订阅升级Sora会员保姆级教程
 subtitle:   2024年12月最新Sora是什么、国内如何使用订阅升级Sora会员保姆级教程
@@ -18,9 +19,7 @@ Sora震撼发布！！！
 
 ## 正文
 
-
-
-![](https://files.mdnice.com/user/57729/7759321c-3a7f-4029-92ab-1352b5f3cf65.png)
+![img](https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4d5af64deaa446c7a0a41da9808fe3c1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56aP5a6dcGx1cw==:q75.awebp?rk3s=f64ab15b&x-expires=1735745610&x-signature=gK%2BgiaBw63To3s3qL9k%2FaJ20bBQ%3D)
 
 # Sora 概述
 官网地址：[Attention Required! | Cloudflare](https://sora.com/)
@@ -46,26 +45,28 @@ Sora 是理解和模拟现实世界的模型的基础，我们相信这一能力
 **人工数据：**来自 AI 培训师、红队成员和员工的反馈。 
 
 # Sora如何使用和订阅
-Sora 是 Plus 帐户的一部分，无需额外付费。您每月最多可以生成 50 个 480p 分辨率的视频，或更少的 720p 分辨率的视频。 对于那些想要更多 Sora 的用户，Pro 计划包括 10 倍的使用量、更高的分辨率和更长的持续时间。我们正在为不同类型的用户制定量身定制的定价，Sora计划于明年初推出
+Sora 是 Plus 帐户的一部分，无需额外付费。您每月最多可以生成 50 个 480p 分辨率的视频，或更少的 720p 分辨率的视频。 对于那些想要更多 Sora 的用户，Pro 计划包括 10 倍的使用量、更高的分辨率和更长的持续时间。我们正在为不同类型的用户制定量身定制的定价
 
-![](https://files.mdnice.com/user/57729/180d5d3b-1955-4271-9c79-dd1bd494db2f.png)
+- Plus套餐里面每个月包含Sora：生成视频个数上限50个 1000积分
+- Pro套餐里面每个月包含Sora：生成视频个数上限500个  10000积分
 
-> *PS: 目前呢Sora是Plus或者Pro的一部分，也就是升级的订阅账户就无需额外付费使用Sora,需要升级的同学可以参考本教程 [ChatGPTPro/plus国内订阅教程](https://littlemagic8.github.io/2024/12/08/how-to-update-ChatGPTPro-plus/)*
-
-> *tips: 目前Sora还需要账户，好像可以用ChatGPT的账号，但是目前是关闭的，大家可以等热度降一降*
+![image.png](https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/379b189df05942ef82821bc7525de9fa~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56aP5a6dcGx1cw==:q75.awebp?rk3s=f64ab15b&x-expires=1735745610&x-signature=0WptS3qEza6br1oif6HlqvweP1E%3D)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 
-![](https://files.mdnice.com/user/57729/e81e3450-e2b1-49c0-bcd7-baaf64adad34.jpg)
+
+> ***PS: 目前呢Sora是Plus或者Pro的一部分，也就是升级的订阅账户就无需额外付费使用Sora,只需升级ChatGPT即可，需要升级的同学可以参考本教程** [ChatGPTPro/plus国内订阅教程](https://littlemagic8.github.io/2024/12/08/how-to-update-ChatGPTPro-plus/)*
+
+
+![image.png](https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a52459b089be4acbbfa7ba410616fc11~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56aP5a6dcGx1cw==:q75.awebp?rk3s=f64ab15b&x-expires=1735745610&x-signature=aVNZ1vNz8y4lIQDQBxPFvEfliUc%3D)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 大家可以看看Sora官网发布的视频效果
 
+![视频封面](https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/105da4ed703147b38c84aa1d4fa556e2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56aP5a6dcGx1cw==:q75.awebp?rk3s=f64ab15b&x-expires=1735745610&x-signature=cPsEXox0ouHQdeWhGnTOVR883kI%3D)
 
-![](https://files.mdnice.com/user/57729/772e6035-8da0-431a-8220-76620b03ef21.png)
 
+![image.png](https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/7f4979b98c074375af723e2e66066035~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56aP5a6dcGx1cw==:q75.awebp?rk3s=f64ab15b&x-expires=1735745610&x-signature=Of0DcKMiTUTwVP705DfHmQE%2BQSA%3D)
 
-![](https://files.mdnice.com/user/57729/be49b2bf-8dd6-465a-aa9c-e2b442d644c3.png)
-
-END:大家可以发散自己的脑洞，开始尽情创作了!!!
+**END:大家可以发散自己的脑洞，开始尽情创作了!!!**
 
 ### **小提示：**
 
