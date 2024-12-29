@@ -12,7 +12,11 @@ tags:
 
 
 
-这是各个模型应用在Web的大比拼排名 ![img](https://files.mdnice.com/user/57729/8a41967d-f17f-4ea3-82e6-8886640788b7.png)
+这是各个模型应用在Web的大比拼排名 
+
+![img](https://pic1.zhimg.com/80/v2-3accde03022e098ba2a67ba0b9c72568_720w.png)
+
+
 
 > **PS: 需要订阅使用升级ClaudePro的童鞋可以参考**：[ClaudePro](https://littlemagic8.github.io/2024/09/24/use-ClaudePro-model/)
 
