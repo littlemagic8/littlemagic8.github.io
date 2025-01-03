@@ -31,7 +31,8 @@ tags:
 - 无需任何代理工具
 - 一张虚拟[信用卡](https://bewildcard.com/i/DW62)
 
-> **PS: 笔者使用的虚拟信用卡是wildcard，后续教程直接使用wildcard表示虚拟卡。wildcard具体的申请教程参考：[wildcard申请教程]([AI is all your need!](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/))**
+> **PS: 笔者使用的虚拟信用卡是wildcard，后续教程直接使用wildcard表示虚拟卡。wildcard具体的申请教程参考：[wildcard申请教程](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)  https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/**
+
 
 
 注意以下三点可以避免很多问题：
@@ -64,7 +65,7 @@ tags:
 **2.4 更改国家并填写 WildCard 卡片信息**
 在添加付款方式的页面里，把国家或地区更改成 美国，付款方式按标注的提示，填写在 [WildCard](https://bewildcard.com/i/DW62)(https://bewildcard.com/i/DW62) 申请的消费卡的具体卡号，有效期，CVV和账单地址即可。
 
-> **PS: wildcard具体的申请教程参考：[wildcard申请教程]([AI is all your need!](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/))**
+> **PS: wildcard具体的申请教程参考：[wildcard申请教程](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)** https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/
 >
 > **ChatGPT plus/pro订阅升级教程参考本文：**https://littlemagic8.github.io/2024/12/08/how-to-update-ChatGPTPro-plus/
 
