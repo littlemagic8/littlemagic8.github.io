@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      国内如何注册绑定Google Play【2025年 最新更新】
-subtitle:   国内如何注册绑定Google Play2025年 最新更新】
-date:       2024-01-03
+subtitle:   国内如何注册绑定Google Play【2025年 最新更新】
+date:       2025-01-03
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
 catalog: true
@@ -12,11 +12,13 @@ tags:
 
 
 
-**准备工作** 虚拟卡官网：[官网](https://link.zhihu.com/?target=https%3A//bewildcard.com/i/DW62)
+# **准备工作**
+
+ 虚拟卡官网：[官网](https://link.zhihu.com/?target=https%3A//bewildcard.com/i/DW62)
 
 申请一张[虚拟卡](https://zhida.zhihu.com/search?content_id=252234941&content_type=Article&match_order=2&q=虚拟卡&zhida_source=entity)[：参考教程](https://link.zhihu.com/?target=https%3A//littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)
 
-**绑卡教程如下：**
+# **绑卡教程如下：**
 
 第一步：打开 Google Play，点击右上角的个人头像
 
