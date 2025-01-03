@@ -14,9 +14,9 @@ tags:
 
 # **准备工作**
 
- 虚拟卡官网：[官网](https://link.zhihu.com/?target=https%3A//bewildcard.com/i/DW62)
+ 虚拟卡官网：[官网](https://bewildcard.com/i/DW62)
 
-申请一张[虚拟卡](https://zhida.zhihu.com/search?content_id=252234941&content_type=Article&match_order=2&q=虚拟卡&zhida_source=entity)[：参考教程](https://link.zhihu.com/?target=https%3A//littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)
+申请一张[虚拟卡](https://bewildcard.com/i/DW62)：[参考教程](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)  https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/
 
 # **绑卡教程如下：**
 
@@ -40,7 +40,7 @@ tags:
 
 ![img](https://pic1.zhimg.com/v2-f4cb679fe273f70b18fe6a8f14e28a6a_1440w.jpg)
 
-视频教程：[视频教程](https://link.zhihu.com/?target=https%3A//bewildcard.com/faq)：[https://bewildcard.com/faq](https://link.zhihu.com/?target=https%3A//bewildcard.com/faq)
+
 
 ### **小提示：**
 
