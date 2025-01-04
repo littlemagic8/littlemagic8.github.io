@@ -40,6 +40,10 @@ tags:
 
 （3）进入到订阅页面后，保留页面，不关闭。去申请一张 虚拟卡 进行绑定。
 
+选择支付方式为 ”银行卡“/"Card"：
+
+![img](https://pica.zhimg.com/80/v2-5895fc809e0300ea15af9dcf521d190f_720w.png)
+
 ![img](https://picx.zhimg.com/80/v2-ba3b95d8d9255bf8a09c7bb66b8e880a_720w.png)
 
 
