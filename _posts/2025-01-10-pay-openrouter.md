@@ -7,7 +7,7 @@ author:     aicygg888
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - API
+    - OpenRouter
 ---
 
 ## OpenRouter是什么？
