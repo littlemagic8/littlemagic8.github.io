@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      国内如何充值OpenRouter的教程，国内稳定访问OpenAI API 和 Claude3.5 API 的方式
+title:      (2025最新)国内如何充值OpenRouter的教程，国内稳定访问OpenAI API 和 Claude3.5 API 的方式
 subtitle:   国内稳定访问OpenAI API 和 Claude3.5 API 的方式【2025年 最新更新】
 date:       2025-01-10
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - OpenRouter
+    - API
 ---
 
 ## OpenRouter是什么？
@@ -89,7 +89,7 @@ Default Model选择你需要的模型
 
 
 > **PS:在充值之前需要绑卡哦，可以使用**[**虚拟卡**](https://bewildcard.com/i/DW62)**（**[**https://bewildcard.com/i/DW62**](https://bewildcard.com/i/DW62)**），笔者也是使用这种方式，待会我会详细介绍绑卡过程
-> **虚拟卡申请教程：[卡片申请教程](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)
+> **虚拟卡申请参考教程：[卡片申请教程](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)
 
 ![img](https://picx.zhimg.com/80/v2-e3dca58527077c84fe60a187042044a6_720w.png)
 
@@ -231,10 +231,6 @@ OpenRouter 有许多优点
 3. 提供不少免费的大语言模型，节省经费也能达到测试开发目的。
 
 本篇分享结束，希望大家透过语言模型开发顺利，有机会再多分享开发工具。
-
-
-
-
 
 ### **小提示：**
 
