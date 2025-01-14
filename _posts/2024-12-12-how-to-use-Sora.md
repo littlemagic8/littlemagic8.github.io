@@ -47,7 +47,7 @@ Sora 是 Plus 帐户的一部分，无需额外付费。您每月最多可以生
 
 ![img](https://picx.zhimg.com/80/v2-37a7aad1c60219109ab4720bf47ef6ca_720w.webp?source=2c26e567)
 
-> ***PS: 目前呢Sora是Plus或者Pro的一部分，也就是升级的订阅账户就无需额外付费使用Sora,需要升级的同学可以参考本教程** [ChatGPTPro/plus国内订阅教程](https:://littlemagic8.github.io/2024/12/08/how-to-update-ChatGPTPro-plus/)*
+> ***PS: 目前呢Sora是Plus或者Pro的一部分，也就是升级的订阅账户就无需额外付费使用Sora,需要升级的同学可以参考本教程** [ChatGPTPro/plus国内订阅教程](https://littlemagic8.github.io/2024/12/08/how-to-update-ChatGPTPro-plus/)*
 > *tips: 目前Sora还需要账户，好像可以用ChatGPT的账号，但是目前是关闭的，大家可以等热度降一降*
 
 ![img](https://picx.zhimg.com/80/v2-07adaa6afe43de60fc11d41885a33dc1_720w.webp?source=2c26e567)
