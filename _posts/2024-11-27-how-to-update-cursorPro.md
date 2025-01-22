@@ -50,7 +50,7 @@ tags:
 
 （4）访问WildCard官网，并点击右上角的”登录/注册”按钮。
 
-> [WildCard官网](https://bewildcard.com/i/DW62)： [官网](https://bewildcard.com/i/DW62)
+> [WildCard官网](https://yeka.ai/i/DW62)： [官网](https://yeka.ai/i/DW62)
 
 ![img](https://picx.zhimg.com/80/v2-6085a2e5b44193cb8a029ea4fdb9fec5_720w.png)
 
@@ -66,7 +66,7 @@ tags:
 
 ![img](https://picx.zhimg.com/80/v2-6b6526a1f36a8bf533849ea350f1ab08_720w.png)
 
-> 注意：通过本文提供的链接 https://bewildcard.com/i/DW62 进入WildCard官网，或使用 [邀请码](https://bewildcard.com/i/DW62)”DW62” ，可以优惠！
+> 注意：通过本文提供的链接 https://yeka.ai/i/DW62 进入WildCard官网，或使用 [邀请码]https://yeka.ai/i/DW62)”DW62” ，可以优惠！
 
 
 

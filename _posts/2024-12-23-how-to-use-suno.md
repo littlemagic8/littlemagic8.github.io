@@ -26,7 +26,7 @@ Suno是一款基于AI的音乐生成工具，不仅适合小白玩音乐，也�
 
 ## **订阅步骤**
 
-笔者接下来介绍如何使用[虚拟卡](https://bewildcard.com/i/DW62)进行订阅Suno
+笔者接下来介绍如何使用[虚拟卡](https://yeka.ai/i/DW62)进行订阅Suno
 
 ### **步骤1：注册虚拟信用卡Wildcard**
 

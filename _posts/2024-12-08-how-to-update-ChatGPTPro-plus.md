@@ -48,7 +48,7 @@ ChatGPT Team 计划中提到的“GPT-4.5 模型”，不过目前已经被删�
 
 可以通过申请一张国外虚拟卡进行解决，当前我使用的是wildcard虚拟卡，目前稳定使用了一年多，有需要的朋友可以通过这种方式解决国内无法升级ChatGPT Plus Pro的问题。
 
->  wildcard官网：https://bewildcard.com/i/DW62 
+>  wildcard官网：https://yeka.ai/i/DW62
 
 （1） 进入后台，点击左侧导航栏中的“我的卡片”。选择卡片使用期限，并扫码支付虚拟卡年费。
 

@@ -20,7 +20,7 @@ PS：本教程亲测真实有效，我已经稳定使用ChatGPT Plus一年多了
 
 - 一个稳定的魔（科）法（学）上网工具
 - 一个ChatGPT账号
-- 一张国外[虚拟信用卡](https://bewildcard.com/i/DW62)（国内信用卡无法使用）
+- 一张国外[虚拟信用卡](https://yeka.ai/i/DW62)（国内信用卡无法使用）
 
 众所周知，ChatGPT Plus的费用为20美元/月。但非常遗憾的是，OpenAI暂时未对中国用户开放，所以即便使用国内双币信用卡也无法支付费用。接下来我将一步一步教大家如何仅使用支付宝支付方式来获取一张可以长期稳定使用的国外虚拟信用卡！
 
@@ -40,7 +40,7 @@ PS：本教程亲测真实有效，我已经稳定使用ChatGPT Plus一年多了
 
 ![img](https://pic1.zhimg.com/80/v2-632e51e5aac14a7ac67164c983d7e60f_720w.png)
 
-**WildCard[官网地址](https://bewildcard.com/i/DW62)：https://bewildcard.com/i/DW62 （复制该网址，或点击本文末左下角的“查看原文”进行跳转）**
+**WildCard[官网地址](https://yeka.ai/i/DW62)：https://yeka.ai/i/DW62 （复制该网址，或点击本文末左下角的“查看原文”进行跳转）**
 
 ## **2、使用+86手机号码完成账号注册。**
 
@@ -58,7 +58,7 @@ PS：本教程亲测真实有效，我已经稳定使用ChatGPT Plus一年多了
 
 ![img](https://pica.zhimg.com/80/v2-5e1d0a4418a14cea0972c7c11cb96382_720w.png)
 
-**PS：通过本文提供的[链接](https://bewildcard.com/i/DW62)（https://bewildcard.com/i/DW62）进入WildCard官网，或者使用邀请码“DW62”，可以立减2美金！即2年的年费为9.99美金，3年的年费为14.99美金。**
+**PS：通过本文提供的[链接](https://yeka.ai/i/DW62)（https://yeka.ai/i/DW62）进入WildCard官网，或者使用邀请码“DW62”，可以立减2美金！即2年的年费为9.99美金，3年的年费为14.99美金。**
 
 ## **6、填写个人信息进行实名认证(不强制)**
 
@@ -116,7 +116,7 @@ PS：进入到ChatGPT Plus订阅费用支付页面之后，无需填写任何信
 
 - 使用+86手机号完成WildCard账号注册。
 
-- 申请并开通国外[虚拟信用卡](https://bewildcard.com/i/DW62)（使用邀请码“DW62”立减2美金）。
+- 申请并开通国外[虚拟信用卡](https://yeka.ai/i/DW62)（使用邀请码“DW62”立减2美金）。
 
 - 使用支付宝为国外虚拟信用卡充值（最少充值20美金）。
 

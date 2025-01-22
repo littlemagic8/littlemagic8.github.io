@@ -17,7 +17,7 @@ tags:
 
 ## 前言:ChatGPT升级会员，ChatGPTPlus升级教程-支付宝支付国内手段支付升级，开通升级ChatGPT详细指南
 
-笔者经历了淘宝、苹果礼品卡升级ChatGPT,现在终于找到了一个合适自认为最简单便捷的升级ChatGPT的方式，使用虚拟卡的方式[wildcard](https://bewildcard.com/i/DW62)
+笔者经历了淘宝、苹果礼品卡升级ChatGPT,现在终于找到了一个合适自认为最简单便捷的升级ChatGPT的方式，使用虚拟卡的方式[wildcard](https://yeka.ai/i/DW62)
 
 如果没有使用过ChatGPT 和 Claude 3的伙伴，可以去官方直接尝试对比国内大模型，现在的GPT3已经是无需注册就可以使用，但是不注册的话，官方称，聊天记录无法保持，并且数据会被拿来训练。 如果需要拿OpenAI的GPT3的API进行二次开发的话，还是需要注册账号的开通的。 
 
@@ -45,7 +45,7 @@ sms购买连接：[sms](https://sms-activate.org/?ref=6648036) 在[激活]->[购
 
 1. **能使用谷歌的节点**
 2. **准备好一个3.5的账号**（ gmail邮箱注册的最好了~）
-3. **开卡[链接](https://bewildcard.com/i/DW62)： https://bewildcard.com/i/DW62**
+3. **开卡[链接](https://yeka.ai/i/DW62)：https://yeka.ai/i/DW62**
 4. **openAI官网：https://chat.openai.com/**
 
 （PS：如果不会操作，也可以提供代充、GPT 账号注册等服务，有需要加微信：aicygg888，备注：chatgpt
@@ -67,7 +67,7 @@ GPT-4优势如下：
 ## 二、如何注册 ChatGPT
 
 点这个链接注册：
-https://bewildcard.com/i/DW62（PS：邀请码记得填上 DW62，这样有后续信用卡支付会有 88 折优惠
+https://yeka.ai/i/DW62（PS：邀请码记得填上 DW62，这样有后续信用卡支付会有 88 折优惠
 
 注册完后，网站上有 浏览器代理(科学访问openai) + 海外手机号(注册openai需要) + 海外邮箱(注册需要)，这三个都有了之后，就可以很快注册 ChatGPT 账号
 
@@ -102,9 +102,9 @@ OpenAI 账号[免费注册教程](https://help.bewildcard.com/zh-CN/articles/812
 #1.2 获取国外信用卡
 当前我找到一个方式，全流程非常流畅，大概 2 分钟以内搞定！(可以放心开卡、充值，目前还可以用，不能用的话，我会及时同步的)
 
-完美解决缺乏国外信用卡银行卡的问题：地址：[WildCard  一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/DW62)
+完美解决缺乏国外信用卡银行卡的问题：地址：[WildCard  一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/DW62)
 
-（PS：大家可以使用我的邀请链接: https://bewildcard.com/i/DW62，或者邀请码：DW62，这样你能有 88 折优惠，我也有一点返利，大家互利！
+（PS：大家可以使用我的邀请链接: https://yeka.ai/i/DW62，或者邀请码：DW62，这样你能有 88 折优惠，我也有一点返利，大家互利！
 
 打开官网之后选择【立即使用】，如图所示
 
