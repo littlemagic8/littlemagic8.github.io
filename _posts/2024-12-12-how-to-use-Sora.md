@@ -23,7 +23,7 @@ Sora震撼发布！！！
 
 ## Sora 概述
 
-官网地址：[Attention Required! | Cloudflare](https://link.zhihu.com/?target=https%3A//sora.com/)
+官网地址：[Attention Required! | Cloudflare](https://sora.com/)
 
 Sora 是 [OpenAI](https://zhida.zhihu.com/search?content_id=703772480&content_type=Answer&match_order=1&q=OpenAI&zhida_source=entity) 的视频生成模型，旨在接收文本、图像和视频输入并生成新视频作为输出。用户可以创建各种格式的分辨率高达 1080p（最长 20 秒）的视频，从文本生成新内容，或增强、混音和融合自己的资产。用户将能够探索精选和最新动态，这些动态展示了社区创作并为新想法提供灵感。
 
