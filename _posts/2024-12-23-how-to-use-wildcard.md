@@ -22,7 +22,7 @@ WildCard 虚拟信用卡提供快速、安全的在线支付解决方案，支�
 
 开通步骤如下：
 
-首先点击链接进入：[**WildCard 一分钟开卡，轻松订阅海外软件服务**](https://yeka.ai/i/DW62)
+首先点击链接进入：[**WildCard 一分钟开卡，轻松订阅海外软件服务**](https://littlemagic8.github.io/pay/)
 
 进入网站首页之后，点击立即体验
 
@@ -66,7 +66,7 @@ WildCard 虚拟信用卡提供快速、安全的在线支付解决方案，支�
 
 **总结**
 
-开卡网站：[WildCard 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/DW62)
+开卡网站：[WildCard 一分钟开卡，轻松订阅海外软件服务](https://littlemagic8.github.io/pay/)
 
 总费用：
 
