@@ -1,16 +1,16 @@
 ---
 layout:     post
-title:      (2025最新)Cline（原Claude Dev）如何搭配OpenRouter实现cursor功能，Cline怎么使用
-subtitle:   Cline怎么使用附ChatGPT/ClaudePro购买使用教程
+title:      如何使用Gemini模型，国内如何订阅购买Gemini Pro的教程，Gemini Pro 免费试用操作步骤， 谷歌 aistudio 使用入口
+subtitle:   国内如何订阅购买Gemini Pro
 date:       2025-01-11
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - Cline
+    - Gemini Pro
 ---
 
-## [如何使用Gemini模型，国内如何订阅购买Gemini Pro的教程，Gemini Pro 免费试用操作步骤， 谷歌 aistudio 使用入口](https://zhuanlan.zhihu.com/p/22000107274)
+## 
 
 [![福宝plus](https://pic1.zhimg.com/v2-9472e102cd8137f7cad5044e0faf2f35_l.jpg?source=d16d100b)](https://www.zhihu.com/people/plus-90-77)
 
@@ -121,3 +121,7 @@ wildcard虚拟卡官网：wildcard官网入口：https://littlemagic8.github.io/
 公众号也可以哦
 
 ![img](https://pic1.zhimg.com/80/v2-4e622b64238b20948a02e0c988ca5704_720w.png)
+
+
+
+### 子弹飞一会儿，反正看戏不收费。  
