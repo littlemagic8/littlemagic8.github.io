@@ -23,7 +23,7 @@ tags:
 尽管Claude的优势明显，但很多人还不知道如何申请使用。实际上，申请过程并不复杂，主要障碍在于获取海外手机号码。以下是申请Claude账号的关键步骤：
 
 1. 一个海外邮箱，可以用Google邮箱就行
-2. 一个海外手机号码（可以用SMS平台，也可以使用第三方专用平台）如果需要SMS注册谷歌可以参考：[注册谷歌]([保证有效]注册gmail时，国内（+86）无法用于验证，解决方法 - 福宝plus的文章 - 知乎 https://zhuanlan.zhihu.com/p/719635797)
+2. 一个海外手机号码（可以用SMS平台，也可以使用第三方专用平台）如果需要SMS注册谷歌可以参考：[注册谷歌](https://mdnice.com/writing/612944e5f7474862bc5dc73708ac3a56)
 
 ### **一、Claude 账号注册步骤：**
 
@@ -35,7 +35,7 @@ tags:
 
 ![img](https://pic1.zhimg.com/80/v2-139fc1292e8d9eff042b73fce07c35a5_720w.png)
 
->  **wildcard官网：**https://yeka.ai/i/DW62
+>  **wildcard官网：**https://littlemagic8.github.io/pay/
 
 （3） 申请时，选择Claude服务，成功率非常高，几乎不封号！**「你选择虚拟卡服务，就可以获得3个手机号码，我使用一个就可以成功注册了！」** 另外，虚拟卡服务，是可以用来**升级订阅Claude Pro**的，你进入官网会看到Claude和ChatGPT镜像网站，可以免费体验。
 
@@ -89,7 +89,7 @@ tags:
 
 （1）访问WildCard官网，并点击右上角的“登录”按钮。
 
->  **WildCard官网地址：**[官网地址](https://yeka.ai/i/DW62) 
+>  **WildCard官网地址：**[官网地址](https://littlemagic8.github.io/pay/) 
 
 ![img](https://pic1.zhimg.com/80/v2-587ffc41493cfe6a19e364fbc6604bd9_720w.png)
 
@@ -103,7 +103,7 @@ tags:
 
 
 
->  **注意：通过本文提供的链接 \****https://yeka.ai/i/DW62 **进入WildCard官网，填入DW62**，可以优惠！ 
+>  **注意：通过本文提供的链接 \****https://littlemagic8.github.io/pay/ **进入WildCard官网，填入DW62**，可以优惠！ 
 
 （4） 再次点击“我的卡片”查看虚拟信用卡的全部信息。
 
