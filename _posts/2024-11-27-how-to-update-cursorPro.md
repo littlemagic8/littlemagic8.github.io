@@ -14,7 +14,7 @@ tags:
 
 # 一、如何使用Cursor 
 
-目前要使用Cursor，直接去下载安装就可以了，不过基础版只能用两周，如果需要继续使用，就要订阅 pro plus 或者企业版了。
+目前要使用*[Cursor](https://www.cursor.com/downloads)*，直接官网（https://www.cursor.com/downloads）去下载安装就可以了，不过基础版只能用两周，如果需要继续使用，就要订阅 pro plus 或者企业版了。
 
 ![img](https://pica.zhimg.com/80/v2-0153cfde34b06f7e50efbc844ca48fbe_720w.png)
 
@@ -26,7 +26,7 @@ tags:
 
 ## **订阅步骤：**
 
-（1） 打开Cursor官网，点击Pricing.
+（1） 打开Cursor（https://www.cursor.com/）[官网](https://www.cursor.com/)，点击Pricing.
 
 ![img](https://pica.zhimg.com/80/v2-6a225f1864b3de9ab2d51796194fb5ba_720w.png)
 
