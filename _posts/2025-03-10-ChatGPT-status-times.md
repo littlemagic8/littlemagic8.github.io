@@ -1,0 +1,266 @@
+---
+layout:     post
+title:      (2025最新)OpenAI API模型ChatGPT各模型功能对比，o1、o3Pro、o1Pro、GPT-4o、GPT-4.5调用次数限制附ChatGPT订阅教程
+subtitle:   ChatGPT使用次数限制
+date:       2025-03-10
+author:     aicygg888
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - ChatGPT
+---
+
+## 前言
+
+本文包含OpenAI API模型对比页面以及ChatGPT各模型功能对比表 - 截至2025最新整理数据：包含模型分类及描述；调用次数限制；
+
+包含模型的类型有：
+
+- **Chat 模型**（如 GPT-4o、GPT-4.5、GPT-4）专注于对话，支持多种附件和功能，适合通用用途。
+- **Reasoning 模型**（如 o1、o3-mini）专注于推理任务，部分支持附件和数据分析。
+- **Agent 模型**（如 GPTs with tasks、Deep Research）适合特定任务处理，功能因模型而异。
+- **Voice 模型**（Voice）提供高级语音功能，限制基于账户类型。
+- **Video 模型**（Sora）专注于视频生成，当前功能尚未
+
+每类模型包含的信息包括类似：
+
+GPT-4o
+
+- 类型：聊天
+- 账户类型：Pro (无限), Team (50/周), Plus (50/周)
+- 访问权限：免费版 ❌, 英国/欧盟 ✅
+- 附件：图片 ✅, PDF ✅, 电子表格 ✅
+- 功能:......
+
+## OpenAI API模型对比
+
+OpenAI推出一个模型对比页面，可以轻松查看每个模型的功能细分，并并排比较模型。
+
+这个页面就像是 OpenAI 模型的“产品说明书”，告诉用户有哪些“工具”、每个工具适合干什么、以及怎么用它们。
+
+![img](https://pic1.zhimg.com/80/v2-3683a5e3a9fa4877dac8adf4926722e0_720w.png)
+
+- **介绍模型种类**
+- 列出 OpenAI 提供的所有 AI 模型（如 GPT-4、GPT-3.5、嵌入模型等），并说明它们的特点和用途。
+- 帮助用户了解每个模型的能力，比如文本生成、对话、语义嵌入，甚至多模态（文本+图像）处理。
+- 通过比较不同模型的性能、成本和限制，帮助用户根据需求（例如预算、任务复杂度）选择合适的模型。
+- 比如，简单的聊天任务可以用 gpt-3.5-turbo，而复杂推理可能需要 gpt-4。
+- 标注哪些模型是最新版本，哪些已被淘汰（如 text-davinci-002），确保用户使用当前支持的工具。   
+- **指导开发者使用**
+- 为开发者提供技术参考，说明如何通过 OpenAI 的 API 调用这些模型。
+- 包括模型名称、参数设置（如上下文长度、温度）、输入输出格式等细节。
+
+### **传送门**：https://platform.openai.com/docs/models
+
+![img](https://picx.zhimg.com/80/v2-41d43eefbc114f4c590e79221ae393bf_720w.png)
+
+## ChatGPT 不同模型描述对比
+
+一图看清 ChatGPT 不同模型和订阅之间的差别，总结来说就是
+
+ \- GPT-4o 是目前功能最全面的模型。
+
+ \- GPT-4.5 紧随其后，可能是因为它与 GPT-4o 存在很多相似的机制。
+
+ \- 推理（Reasoning）类的模型特别不一致，各种功能的开启情况也比较随机。
+
+ \- 目前自定义 GPT（Custom GPT）功能只能使用 GPT-4o。
+
+![img](https://pic1.zhimg.com/80/v2-c4bea57bf016a91a72d2f5cf7716f5f3_720w.png)
+
+### ChatGPT各模型详细调用次数限制
+
+接下来是ChatGPT各模型调用次数限制的数据整理，截至2025年03月10号。文章末尾有汇总图片。
+
+- **标记说明**：
+- ✅ 表示支持
+- ❌ 表示不支持
+- 数字（如 160/3小时）表示限制（如每3小时160次）
+- N/A 表示不适用
+- 绿色 ✅ 表示明确支持
+- 红色 ❌ 表示明确不支持
+
+模型分类及描述
+
+### 1. Chat 模型
+
+- **GPT-4o**
+- 类型：聊天
+- 账户类型：Pro (无限), Team (160/3小时), Plus (80/3小时)
+- 访问权限：免费版 ✅, 英国/欧盟 ✅
+- 附件：图片 ✅, PDF ✅, 电子表格 ✅
+- 功能：画布 ✅, 搜索 ✅, 数据分析 ✅, DALL-E ✅, 项目✅, 记忆 ✅, 自定义指令 ✅, 自定义GPTs ✅
+- **GPT-4.5**
+- 类型：聊天
+- 账户类型：Pro (无限), Team (50/周), Plus (50/周)
+- 访问权限：免费版 ❌, 英国/欧盟 ✅
+- 附件：图片 ✅, PDF ✅, 电子表格 ✅
+- 功能：画布 ✅, 搜索 ✅, 数据分析 ✅, DALL-E ✅, 项目 ✅, 记忆 ✅, 自定义指令 ✅, 自定义GPTs ❌
+- **GPT-4**
+- 类型：聊天
+- 账户类型：Pro (无限), Team (80/3小时), Plus (40/3小时)
+- 访问权限：免费版 ❌, 英国/欧盟 ✅
+- 附件：图片 ✅, PDF ✅, 电子表格 ✅
+- 功能：画布 ❌, 搜索 ❌, 数据分析 ✅, DALL-E ✅, 项目 ✅, 记忆 ✅, 自定义指令 ✅, 自定义GPTs ❌
+- **GPT-4o-mini**
+- 类型：聊天
+- 账户类型：Pro (无限), Team (无限), Plus (无限)
+- 访问权限：免费版 ✅, 英国/欧盟 ✅
+- 附件：图片 ✅, PDF ✅, 电子表格 ✅
+- 功能：画布 ❌, 搜索 ✅, 数据分析 ✅, DALL-E ✅, 项目 ✅, 记忆 ✅, 自定义指令 ✅, 自定义GPTs ✅
+
+### 2. Reasoning 模型
+
+- **o1 pro mode**
+- 类型：推理
+- 账户类型：Pro (无限), Team (X), Plus (X)
+- 访问权限：免费版 ❌, 英国/欧盟 ✅
+- 附件：图片 ✅, PDF ❌, 电子表格 ❌
+- 功能：画布 ❌, 搜索 ❌, 数据分析 ❌, DALL-E ❌, 项目 ✅, 记忆 ❌, 自定义指令 ❌, 自定义GPTs ❌
+- **o1**
+- 类型：推理
+- 账户类型：Pro (无限), Team (50/周), Plus (50/周)
+- 访问权限：免费版 ❌, 英国/欧盟 ✅
+- 附件：图片 ✅, PDF ✅, 电子表格 ✅
+- 功能：画布 ✅, 搜索 ❌, 数据分析 ✅, DALL-E ❌, 项目 ✅, 记忆 ❌, 自定义指令 ❌, 自定义GPTs ❌
+- **o3-mini**
+- 类型：推理
+- 账户类型：Pro (无限), Team (150/天), Plus (150/天)
+- 访问权限：免费版 ✅, 英国/欧盟 ✅
+- 附件：图片 ✅, PDF ✅, 电子表格 ✅
+- 功能：画布 ❌, 搜索 ✅, 数据分析 ✅, DALL-E ❌, 项目 ❌, 记忆 ❌, 自定义指令 ❌, 自定义GPTs ❌
+- **o3-high**
+- 类型：推理
+- 账户类型：Pro (无限), Team (50/天), Plus (50/天)
+- 访问权限：免费版 ❌, 英国/欧盟 ✅
+- 附件：图片 ✅, PDF ✅, 电子表格 ✅
+- 功能：画布 ❌, 搜索 ✅, 数据分析 ✅, DALL-E ❌, 项目 ❌, 记忆 ❌, 自定义指令 ❌, 自定义GPTs ❌
+
+### 3. Agent 模型
+
+- **GPTs with tasks (任务型GPT)**
+- 类型：代理
+- 账户类型：Pro (无限), Team (160/3小时), Plus (80/3小时)
+- 访问权限：免费版 ❌, 英国/欧盟 ✅
+- 附件：图片 ❌, PDF ❌, 电子表格 ❌
+- 功能：画布 ❌, 搜索 ✅, 数据分析 ❌, DALL-E ✅, 项目 ❌, 记忆 ✅, 自定义指令 ✅, 自定义GPTs ❌
+- **Deep Research (深度研究)**
+- 类型：代理
+- 账户类型：Pro (120/月), Team (10/月), Plus (10/月)
+- 访问权限：免费版 ❌, 英国/欧盟 ✅
+- 附件：图片 ✅, PDF ✅, 电子表格 ✅
+- 功能：画布 ❌, 搜索 N/A, 数据分析 ❌, DALL-E ❌, 项目 N/A, 记忆 ❌, 自定义指令 ❌, 自定义GPTs ❌
+- **Operator (操作员)**
+- 类型：代理
+- 账户类型：Pro (✓), Team (X), Plus (X)
+- 访问权限：**仅限英国**
+- 附件：N/A
+- 功能：N/A
+
+### 4. Voice 模型
+
+- **Voice (高级语音)**
+- 类型：语音
+- 账户类型：Pro (高级无限), Team (高级60/天), Plus (高级60/天)
+- 访问权限：免费版 ✅, 英国/欧盟 ✅
+- 附件：N/A
+- 功能：搜索 ✅, 记忆 ✅, 自定义指令 ✅
+
+### 5. Video 模型
+
+- **Sora (视频)**
+- 类型：视频
+- 账户类型：Pro (1080p 20秒 + 500/月), Team (720p 5秒 + 50c/月), Plus (720p 5秒 + 50/月)
+- 访问权限：免费版 ❌, 英国/欧盟 ✅
+- 附件：N/A
+- 功能：N/A
+
+### ChatGPT 升级教程
+
+国内用户直接使用国内银行卡支付可能会失败，常见错误是“Your card has been declined”（您的银行卡被拒绝）。可以参考解决方法：[(最新)国内如何订阅升级购买ChatGPT Pro Plus会员教程](https://littlemagic8.github.io/2024/12/08/how-to-update-ChatGPTPro-plus/)
+
+## ChatGPT 解决降智问题
+
+当你高频使用ChatGPT时，比如调用o1模型，一天调用的次数超过每日平均数，通常会被降智，所以，建议不要共享账号去高频调用各个模型。 **另一种降智的问题，就是网络问题**，使用泛滥的魔法，多人共享很容易被判断滥用，也会造成降智的情况。 具体怎么解决和原因可以查看这篇：[AI is all your need!](https://littlemagic8.github.io/2025/03/03/solve-GPT-not-work/)
+
+### 总结
+
+但是OpenAI流氓的地方就是它不按照这个表来运行；这里说两点：
+
+  \1. PLUS/Team 如果连续两天顶格使用模型次数，99.9%会面临封号。
+
+ \2. Pro各模型都有数量限制而非无限制，例如o1大约每周500次；次数超标后会限制使用或直接降智。
+
+很多人因此抛弃使用ChatGPT，更多的解决方式为**：使用包含ChatGPT模型的工具（类似：Cursor）；[使用原生镜像**](https://littlemagic8.github.io/2024/05/15/how-to-use-ai/)
+
+
+
+
+
+# **额外提示**
+
+上面ChatGPT Plus/Pro订阅升级使用的卡片是：https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/
+
+# 这个卡片还能来干什么，支持支付哪些服务？
+
+https://littlemagic8.github.io/pay/ 的虚拟卡
+
+还可以用来升级订阅SuperGrok 或者 Claude 和 ChatGPT 这些服务～
+
+> ****支持的服务(最常问的)： ChatGPT/OpenAI API Claude/Anthropic API Apple Store(美区) Google Play(美区)**
+
+> **Youtube Cursor（需美国网络全局模式） Windsurf/Github Microsoft Azure/Store Poe Suno（需美国网络全局模式） Patreon/pixivFanbox CloudFlare**
+
+> **OpenRouter Facebook**
+
+> **Perplexity MidJourney Telegram（对网络有要求） X/Twitter/Grok Netflix/Hulu/Spotify**
+
+> **AWS(需自己解决地址证明)**
+
+## 小提示：
+
+> **PS:如果你需要开通自己的ChatGPT Plus、Claude Pro的个人独享账号可以参考教程：**[**使用支付方式订阅开通ChatGPT Plus、Claude Pro教程**](https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/) ***PS：国内直接使用chatGPT/Claude镜像账号可以通过两种方式获取：*
+
+方式一：通过教程自行购买：
+
+> *1、*[**镜像账号购买**](https://littlemagic8.github.io/2024/12/09/ChatGPT-and-Cluade/)*：https://littlemagic8.github.io/2024/12/09/ChatGPT-and-Cluade/* *2、*[**镜像账号购买参考**](https://littlemagic8.github.io/2024/05/15/how-to-use-ai/) [*https://littlemagic8.github.io/2024/05/15/how-to-use-ai/*](https://littlemagic8.github.io/2024/05/15/how-to-use-ai/)
+
+不想自己注册账号，可以用方式二
+
+> *方式二：添加微信购买 微信：***aicygg888** *(备注镜像账号哦)*
+
+欢迎加微信
+
+![img](https://picx.zhimg.com/80/v2-46f7cfd62d1e94381388ab08b0fea3af_720w.png)
+
+公众号也可以哦
+
+![img](https://pic1.zhimg.com/80/v2-4e622b64238b20948a02e0c988ca5704_720w.png)
+
+
+
+
+
+添加图片注释，不超过 140 字（可选）
+
+### **小提示：**
+
+>  **PS:如果你需要开通自己的ChatGPT Plus、Claude Pro的个人独享账号可以参考教程：**[使用支付方式订阅开通ChatGPT Plus、Claude Pro教程](https://littlemagic8.github.io/2024/12/09/ChatGPT-and-Cluade/)
+
+> **PS：国内直接使用chatGPT/Claude镜像账号可以通过两种方式获取：
+>
+> > 方式一：通过教程自行购买：
+> > [镜像账号购买参考](https://littlemagic8.github.io/2024/05/15/how-to-use-ai/) https://littlemagic8.github.io/2024/05/15/how-to-use-ai/
+>
+> 不想自己注册账号，可以用方式二
+>
+> > 方式二：添加微信购买
+> > 微信：**aicygg888** (备注镜像账号哦)
+
+欢迎加微信
+
+![img](https://picx.zhimg.com/80/v2-b1c8f90bffc8b2f4f32ab07a08a4ede6_720w.png)
+
+公众号也可以哦
+
+![img](https://pic1.zhimg.com/80/v2-4e622b64238b20948a02e0c988ca5704_720w.png)
