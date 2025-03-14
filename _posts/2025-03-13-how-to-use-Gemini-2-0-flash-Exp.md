@@ -20,6 +20,8 @@ Gemini模型更新了！gemini-2.0-flash-exp可以体验了
 
 Gemini 2.0 Flash 结合多模式输入、增强推理和自然语言理解来创建图像。
 
+![img](https://picx.zhimg.com/80/v2-88965d3b7e42d36fc83d61c4a4145370_720w.png?source=d16d100b)
+
 ## Gemini 2.0 Flash 多模式输出的特点
 
 **1、图文并茂：故事中插图片**
@@ -37,10 +39,6 @@ Gemini 2.0 Flash 结合多模式输入、增强推理和自然语言理解来创
 
 
 ![img](https://pic1.zhimg.com/80/v2-cfd7218b611c28b58ad00d21d6427e92_720w.png?source=d16d100b)
-
-
-
-![img](https://picx.zhimg.com/80/v2-88965d3b7e42d36fc83d61c4a4145370_720w.png?source=d16d100b)
 
 
 
@@ -76,17 +74,17 @@ Gemini 2.0 Flash 结合多模式输入、增强推理和自然语言理解来创
 
 
 
-## **哪里可以使用体验**gemini-2.0-flash-exp :**
+## **哪里可以使用体验**gemini-2.0-flash-exp 
 
 目前在 Google AI Studio（aistudio.google.com） 里面免费使用。需要你选择这个模型：**gemini-2.0-flash-exp** 和 **输出模式 选择 Images And Text**。
 
 ![img](https://pica.zhimg.com/80/v2-d1666ba1c447bc8558cb4493de5e57ca_720w.png)
 
+![img](https://pic1.zhimg.com/80/v2-fa9305274f44056a93703522d11439d3_720w.png)
+
 ### **Google AI Studio**
 
 传送门：https://aistudio.google.com/welcome
-
-![img](https://pic1.zhimg.com/80/v2-fa9305274f44056a93703522d11439d3_720w.png)
 
 
 
@@ -136,7 +134,7 @@ Gemini2.0不支持国内卡进行充值和订阅的，你可以通过申请国�
 
 
 
-（3）接着添加卡，然后把申请之后的wildscard卡号信息填入即可绑定。
+（3）接着添加卡，然后把申请之后的wildcard卡号信息填入即可绑定。
 
 ![img](https://picx.zhimg.com/80/v2-4d1a40f74748f0256bfef7829155e946_720w.png)
 
