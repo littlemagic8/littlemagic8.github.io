@@ -118,13 +118,13 @@ Gemini2.0不支持国内卡进行充值和订阅的，你可以通过申请国�
 
 **2、Gmail邮箱（**[Gmail注册教程](https://www.mdnice.com/writing/612944e5f7474862bc5dc73708ac3a56)**）**
 
-**3、用于订阅Gemini的wildcard：**[**WildCard | 一分钟注册，轻松订阅海外线上服务**](https://bewildcard.com/i/DW62)
+**3、用于订阅Gemini的wildcard：**[**WildCard | 一分钟注册，轻松订阅海外线上服务**](https://littlemagic8.github.io/pay/)
 
 按照下面的图文教程方式，大概需要5～10分钟左右就可以完成！
 
-（1）首先申请一张虚拟Master卡：[bewildcard](https://bewildcard.com/i/DW62) 直接注册之后就可以进行申请，目前是比较稳定的虚拟卡，已经使用了一年多。
+（1）首先申请一张虚拟Master卡：[bewildcard](https://littlemagic8.github.io/pay/) 直接注册之后就可以进行申请，目前是比较稳定的虚拟卡，已经使用了一年多。
 
-虚拟Master卡官网：[bewildcard.com](https://bewildcard.com/i/DW62)
+虚拟Master卡官网：[bewildcard.com](https://littlemagic8.github.io/pay/)
 
 ![img](https://pic1.zhimg.com/80/v2-906c39bbd98fa704ac79ca79c7bd57aa_720w.png)
 
