@@ -21,6 +21,8 @@ tags:
 
 ![img](https://pic1.zhimg.com/80/v2-2b3f67004bed0078df0a58055f5c1ef4_720w.png)
 
+> **PS: 上图使用的镜像站生成的，无限使用次数，大家感兴趣的可以参考文末(小提示)镜像站购买方式（或者加我微信：aicygg888进行购买）**
+
 **需要体验的话，可以升级为Plus，升级教程可以参考文末教程。**
 
 收到下面海报的推送，就是证明你有这个GPT-4o 绘画权限：
@@ -50,13 +52,13 @@ GPT-4o 支持丰富的图像风格，包括：
 ### **案例1：四格漫画**
 
 > **prompt：**Make an image of a four‑panel strip, with some padding around the border:
-
+>
 > A little snail is at the counter of a flashy car showroom. The salesman has leaned way over the desk to even see him.
-
+>
 > Close‑up on the snail looking very serious. He says, “I want your fastest sports car… and I want you to paint big letter ‘S’s on the doors, the hood and the roof.”
-
+>
 > The salesman is scratching his head. “Um… we can do that, but why the S’s?”
-
+>
 > Smash cut to a red blur roaring down the highway. The sports car is covered in giant S’s. People on the sidewalk are pointing and laughing: “WOW! LOOK AT THAT S‑CAR GO!”
 
 ![img](https://picx.zhimg.com/80/v2-6ed76de0b5d944850c1b6005d765e22f_720w.png)
@@ -94,9 +96,21 @@ GPT-4o 支持丰富的图像风格，包括：
 ### **案例4：词语**
 
 > **prompt：**magnetic poetry on a fridge in a mid century home:
-
-> Line 1: "A picture" Line 2: "is worth" Line 3: "a thousand words," Line 4: "but sometimes"Large gapLine 5: "in the right place" Line 6: "can elevate" Line 7: "its meaning.
-
+>
+> Line 1: "A picture" 
+>
+> Line 2: "is worth"
+>
+>  Line 3: "a thousand words,"
+>
+>  Line 4: "but sometimes"Large gap
+>
+> Line 5: "in the right place"
+>
+>  Line 6: "can elevate"
+>
+>  Line 7: "its meaning.
+>
 > "The man is holding the words "a few" in his right hand and "words" in his left.
 
 ![img](https://picx.zhimg.com/80/v2-7927502ec98da8e84961f2c61466dcf6_720w.png)
