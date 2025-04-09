@@ -38,33 +38,13 @@ tags:
 
 
 
-
-
-添加图片注释，不超过 140 字（可选）
-
 ![img](https://pic1.zhimg.com/80/v2-020e13d97196b5baada885ddda6ac29f_720w.png)
 
-
-
-
-
-添加图片注释，不超过 140 字（可选）
-
 ![img](https://picx.zhimg.com/80/v2-617cbfce0ce9f235502f80f14888486c_720w.png)
-
-
-
-
-
-添加图片注释，不超过 140 字（可选）
 
 ![img](https://pica.zhimg.com/80/v2-ffcc744a4761e327dd04a9a8efd794a3_720w.png)
 
 
-
-
-
-添加图片注释，不超过 140 字（可选）
 
 ## 如何使用？
 
@@ -86,17 +66,7 @@ tags:
 
 
 
-
-
-添加图片注释，不超过 140 字（可选）
-
 ![img](https://picx.zhimg.com/80/v2-bd5e8ce3146ff5e8034f8bde15bf9b10_720w.png)
-
-
-
-
-
-添加图片注释，不超过 140 字（可选）
 
 ### **第二步：登陆 点击“立即使用”**
 
@@ -104,27 +74,11 @@ tags:
 
 
 
-
-
-添加图片注释，不超过 140 字（可选）
-
 ### **第三步：**使用新版入口（推荐）或者点击旧版**负载较小的节点使用（推荐、正常的状态的节点）**
 
 ![img](https://pica.zhimg.com/80/v2-bd5e8ce3146ff5e8034f8bde15bf9b10_720w.png)
 
-
-
-
-
-添加图片注释，不超过 140 字（可选）
-
 ![img](https://picx.zhimg.com/80/v2-27f201ee250b0033d5e2601ba6c64524_720w.png)
-
-
-
-
-
-添加图片注释，不超过 140 字（可选）
 
 ### **第四步：选择你需要的模型进行对话**
 
@@ -132,29 +86,13 @@ tags:
 
 
 
-
-
-添加图片注释，不超过 140 字（可选）
-
 ### **第五步：如果出现消息发送达到上限导致的失败，点击“换号”，点击左边的新建对话，继续提问**
 
 ![img](https://pic1.zhimg.com/80/v2-89a0b85725b7922e719a2910b8515fdd_720w.png)
 
-
-
-
-
-添加图片注释，不超过 140 字（可选）
-
 ### **END:到期续费，使用激活码激活**
 
 ![img](https://pica.zhimg.com/80/v2-da9bb9645ec193aa2de3a50520b868ee_720w.png)
-
-
-
-
-
-添加图片注释，不超过 140 字（可选）
 
 ![img](https://picx.zhimg.com/80/v2-6fb442ffcc5edc820e7118f97dd1536e_720w.png)
 
@@ -162,7 +100,7 @@ tags:
 
 ### 小提示：
 
-### 上面订阅ChatGPT的虚拟卡还能来干什么，支持支付哪些服务？
+### 自行订阅[ChatGPT](https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/)（https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/）的[虚拟卡](https://littlemagic8.github.io/pay/)（https://littlemagic8.github.io/pay/）还能来干什么，支持支付哪些服务？
 
 https://littlemagic8.github.io/pay/ 的虚拟卡
 
