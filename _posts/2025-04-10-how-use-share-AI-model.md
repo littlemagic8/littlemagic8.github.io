@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      如何使用本地网络使用GPT-4o、o1模型、ChatGPTPlus、Claude Pro、Grok、GPT-4o、Gemini、Grok、DeepSeek？如何突破chatgptplus o1 使用次数限制
+title:      如何使用本地网络使用GPT-4o、o1模型、ChatGPTPlus、Claude Pro、Grok、GPT-4o、Gemini、Grok、DeepSeek？如何突破chatgptplus、o1使用次数限制
 subtitle:   国内使用主流AI
 date:       2025-04-10
 author:     aicygg888
@@ -50,7 +50,7 @@ tags:
 
 ## **准备工作：**
 
-官网：[官网地址](https://chatshare.biz/)（需账号登陆）
+官网：[官网地址](https://chatshare.biz/)(https://chatshare.biz/)（需账号登陆）
 
 ## **二、如何使用 ChatGPTPlus、Claude Pro GeminiPro Grok DeepSeek？**
 
