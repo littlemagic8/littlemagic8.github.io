@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:     国内如何订阅使用ChatGPTPlus的GPT-4o创建图像，GPT-4o创建图像Q版手办提示词效果展示
+title:      国内如何订阅使用ChatGPTPlus的GPT-4o创建图像，GPT-4o创建图像Q版手办提示词效果展示
 subtitle:   如何使用GPT-4o创建图像
 date:       2025-04-09
 author:     aicygg888

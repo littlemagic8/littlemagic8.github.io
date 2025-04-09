@@ -30,7 +30,7 @@ Gemini 2.5 Pro 现已在Google AI Studio和Gemini app中面向 Gemini Advanced �
 
 今天我也去体验了一把2.5 Pro，真的不错，就像雇佣了一个Google内部的员工来完成代码，**还是老规矩，先教大家白嫖免费一个月的Gemini Advanced。然后再给出我们的实际例子！**
 
-## **如何**如何免费使用Gemini-2.5-Pro模型？
+## 如何免费使用Gemini-2.5-Pro模型？
 
 **关于Gemini 2.5 Pro 这个模型，需要是Gemini Advanced会员才能使用，如果你是新用户或者老用户，都可以参考下面的教程。**
 
