@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      如何使用本地网络访问GPT-4o、o1模型、ChatGPTPlus、ClaudePro、GPT-4o、Gemini、Grok、DeepSeek？如何突破chatgptplus、o1使用次数限制
-subtitle:   国内网络使用主流AI
+title:      教你国内访问使用ChatGPT、Claude方式？教你一招突破chatgptplus对话限制
+subtitle:   国内网络使用主流AI模型
 date:       2025-04-10
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
@@ -12,13 +12,11 @@ tags:
 
 ## **前言**
 
-本文介绍共享账号的方式使用OpenAI o1模型、Claude Pro、Gork、 GeminiPro组合套餐，同时使用拥有地表最强AI,无惧Claude封号，随时随地使用
+本文介绍共享账号的方式使用OpenAI o1模型、Claude Pro、Gork、 GeminiPro等，使用本地网络即可访问GPT-4o、o1、GPT-4.5、o3、Claude Pro、Grok、Gemini2.5、Grok3、DeepSeek组合套餐，同时使用地表最强AI，无惧Claude封号，随时随地使用
 
 ## **正文**
 
-## **一、如何使用本地网络使用GPT-4o、o1模型、ChatGPTPlus、Claude Pro、Grok、GPT-4o、Gemini、Grok、DeepSeek、Sora？**
-
-本地网络使用使用镜像方式（绝非套壳网站，原生AI）
+## 一、本地网络镜像方式访问ChatGPT（绝非套壳网站，原生AI）
 
 有以下三个特点：
 
@@ -28,11 +26,11 @@ tags:
 
 3、无需担心网络环境，均能无障碍使用服务，也无需担心封号问题。
 
-## 介绍一下我们的镜像站
+## 镜像站有哪些模型
 
-本镜像站（https://chatshare.biz/）集成了chatgptplus/pro可以使用的相关模型（**GPT-4.5、GPT-4o、可规划任务的GPT-4o、o3-mini、o3-mini-high、o1、o1-pro-mode）、Claude3.7模型、Grok3模型、GeminiPro模型、DeepSeek模型**
+本[镜像站](https://chatshare.biz/)（https://chatshare.biz/）集成了chatgptplus/pro可以使用的相关模型（**GPT-4.5、GPT-4o、可规划任务的GPT-4o、o3-mini、o3-mini-high、o1、o1-pro-mode）、Claude3.7模型、Grok3模型、GeminiPro模型、DeepSeek模型**
 
-> **PS:下面突破展示了GPT-4o的生成图像已经介入、各个集成模型展示**
+> **PS:下图展示了GPT-4o的生成图像已经接入、各个集成模型展示**
 
 ![img](https://pica.zhimg.com/80/v2-84f79acd978968c719dbc41d244d5076_720w.png)
 
@@ -44,29 +42,19 @@ tags:
 
 ![img](https://pica.zhimg.com/80/v2-ffcc744a4761e327dd04a9a8efd794a3_720w.png)
 
-
-
-## 如何使用？
+## **二、如何使用 ChatGPTPlus、Claude Pro GeminiPro Grok DeepSeek？**
 
 ## **准备工作：**
 
 官网：[官网地址](https://chatshare.biz/)(https://chatshare.biz/)（需账号登陆）
 
-## **二、如何使用 ChatGPTPlus、Claude Pro GeminiPro Grok DeepSeek？**
+只需五步即可轻松顺利使用镜像站
 
-### **第一步：购买账号（可添加我微信：aicygg888 （PS:加微信备注：共享账号））进行购买，88/每月，分为**
+### **第一步：购买账号/激活码（可添加我微信：aicygg888 （PS:加微信备注：共享账号））进行购买，88/每月，分为**
 
-1.1 首次使用：需要申请账号进行登陆 
+1.1 首次使用需要申请账号 
 
-1.2 次月激活：使用激活码
-
-> **下面第一张是号码池展示，目前推荐新版入口，取消了手动选号**
-
-![img](https://pic1.zhimg.com/80/v2-893e7fe208dc53cd89ba0ac732bd2936_720w.png)
-
-
-
-![img](https://picx.zhimg.com/80/v2-bd5e8ce3146ff5e8034f8bde15bf9b10_720w.png)
+1.2 使用激活码进行激活
 
 ### **第二步：登陆 点击“立即使用”**
 
@@ -100,9 +88,11 @@ tags:
 
 ### 小提示：
 
-### 自行订阅[ChatGPT](https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/)（https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/）的[虚拟卡](https://littlemagic8.github.io/pay/)（https://littlemagic8.github.io/pay/）还能来干什么，支持支付哪些服务？
+如果需要自行升级订阅独享账号的童靴可以参考本文：[ChatGPT](https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/)（https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/）的
 
-https://littlemagic8.github.io/pay/ 的虚拟卡
+> 自行升级订阅AI服务需要使用到的支付卡片式[虚拟卡](https://littlemagic8.github.io/pay/)（https://littlemagic8.github.io/pay/）还能来干什么，支持支付哪些服务？
+>
+> ![img](https://picx.zhimg.com/80/v2-517e18ac3d978395017ff8e3e4bb0b44_720w.png)
 
 还可以用来升级订阅SuperGrok 或者 Claude 和 ChatGPT 这些服务～
 
