@@ -7,7 +7,7 @@ author:     aicygg888
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - grok
+    - Grok API
 ---
 
 ## **前言**
