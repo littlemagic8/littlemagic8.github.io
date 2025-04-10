@@ -14,6 +14,10 @@ tags:
 
 本文介绍共享账号的方式使用OpenAI o1模型、Claude Pro、Gork、 GeminiPro等，使用本地网络即可访问GPT-4o、o1、GPT-4.5、o3、Claude Pro、Grok、Gemini2.5、Grok3、DeepSeek组合套餐，同时使用地表最强AI，无惧Claude封号，随时随地使用
 
+![img](https://pic1.zhimg.com/80/v2-c178648526f0a2c44b44eafe1d79ee37_720w.png)
+
+![img](https://picx.zhimg.com/80/v2-b2b7c871b485988683724b0259bafc72_720w.png)
+
 ## **正文**
 
 ## 一、本地网络镜像方式访问ChatGPT（绝非套壳网站，原生AI）
