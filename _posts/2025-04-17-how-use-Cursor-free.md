@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      【有效】教你订阅Lenny’s Newsletter年度计划（200美元/年）并免费使用白嫖价值超过15,000美元的十大AI产品，包括Perplexity Pro、Cursor、Notion、v0
-subtitle:   Lenny’s Newsletter年度计划
+title:      【有效】教你订阅LennyNewsletter年度计划（200美元/年）并免费使用白嫖价值超过15,000美元的十大AI产品，包括Perplexity Pro、Cursor、Notion、v0
+subtitle:   LennyNewsletter年度计划
 date:       2025-04-17
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
