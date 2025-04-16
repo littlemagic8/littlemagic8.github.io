@@ -18,7 +18,7 @@ tags:
 
 在本教程之前学生.edu购买是优惠50%,只需要100刀就可享受，但是截至目前为止，官方已经修改为优惠15%了，170刀了，学生确实还有有优惠的！
 
-先说说Lenny’s Newsletter吧。（lennysnewsletter.com）是一个由‌Lenny Rachitsky创办的网站，主要面向产品经理和营销人员，提供有关产品管理、增长营销和创业分析的内容。Lenny Rachitsky是一位经验丰富的产品经理，曾就职于Airbnb，他的newsletter涵盖了这些领域的最新动态和实用技巧‌，该网站提供两种类型的newsletter：免费的每月一封和付费的每周一封。此外，Lenny’s Newsletter还有一个配套的播客，名为"Lenny’s Podcast”，内容涉及产品、增长和职业发展的相关话题‌。
+先说说Lenny’s Newsletter吧。（lennysnewsletter.com）是一个Lenny Rachitsky创办的网站，主要面向产品经理和营销人员，提供有关产品管理、增长营销和创业分析的内容。Lenny Rachitsky是一位经验丰富的产品经理，曾就职于Airbnb，他的newsletter涵盖了这些领域的最新动态和实用技，该网站提供两种类型的newsletter：免费的每月一封和付费的每周一封。此外，Lenny’s Newsletter还有一个配套的播客，名为"Lenny’s Podcast”，内容涉及产品、增长和职业发展的相关话。
 
 ### Lenny’s Newsletter年度计划
 
@@ -51,9 +51,9 @@ tags:
 
 1. 确保网络环境
 
-   ：使用稳定的网络连接，建议避免频繁切换IP以免触发支付限制。
+   使用稳定的网络连接，建议避免频繁切换IP以免触发支付限制。
 
-   - 如果在国内，可能需要VPN以访问Stripe支付页面或某些产品网站。
+   如果在国内，可能需要VPN以访问Stripe支付页面或某些产品网站。
 
 2. 准备支付工具：
 
@@ -81,11 +81,11 @@ tags:
 
 1. 前往[Lenny's Newsletter订阅页面](https://www.lennysnewsletter.com/subscribe)：https://www.lennysnewsletter.com/subscribe
 
-   ![img](https://picx.zhimg.com/80/v2-28d25c6575dd9588af66bdea4843ba7c_720w.png)
+![img](https://picx.zhimg.com/80/v2-28d25c6575dd9588af66bdea4843ba7c_720w.png)
 
    注册账号
 
-   ![img](https://pica.zhimg.com/80/v2-93bb0ab0fd381430d0e7d49a1b5ce8b1_720w.png)
+![img](https://pica.zhimg.com/80/v2-93bb0ab0fd381430d0e7d49a1b5ce8b1_720w.png)
 
 ![img](https://pica.zhimg.com/80/v2-dd0c21b3af87c0b21f2b84cc088d8954_720w.png)
 
@@ -107,7 +107,7 @@ tags:
 
    **注意**：记录您使用的电子邮件地址，稍后兑换某些产品（如Notion）时需要一致的邮箱。
 
-   ![img](https://pic1.zhimg.com/80/v2-dc7936b265a8a33611eb3614aa7960b9_720w.png)
+![img](https://pic1.zhimg.com/80/v2-dc7936b265a8a33611eb3614aa7960b9_720w.png)
 
 ### 步骤3：完成支付
 
