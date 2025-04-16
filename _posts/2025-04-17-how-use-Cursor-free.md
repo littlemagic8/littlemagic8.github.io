@@ -7,7 +7,7 @@ author:     aicygg888
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - Lenny’s Newsletter
+    - LennyNewsletter
 ---
 
 ## **前言**
