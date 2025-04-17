@@ -80,6 +80,7 @@ tags:
 ### 步骤1：访问Lenny's Newsletter订阅页面
 
 1. 前往[Lenny's Newsletter订阅页面](https://www.lennysnewsletter.com/subscribe)：https://www.lennysnewsletter.com/subscribe
+2. edu学生邮箱走这里：https://lennysnewsletter.com/studentdiscount
 
 ![img](https://picx.zhimg.com/80/v2-28d25c6575dd9588af66bdea4843ba7c_720w.png)
 
