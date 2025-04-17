@@ -137,7 +137,7 @@ tags:
 
    - 支付成功后，页面会显示“Subscription Confirmed”或类似提示。
 
-   - 您会收到一封确认邮件，包含订阅详情和下一步指示。
+   - 您会收到一封确认邮件，包含订阅详情和下一步指示，最后兑换权益 [https://lennysbundle.com](https://lennysbundle.com)
 
      ![img](https://picx.zhimg.com/80/v2-33aee1dd9606b3bb91213b22a5497a43_720w.png)
 
