@@ -196,9 +196,13 @@ OpenAI不支持向国内的用户开放直接支付功能，因此即使使用�
 
 方式一：通过教程自行购买：
 
+（遇到问题，联系微信：aicygg888
+登录地址：https://chatshare.biz/ (复制到浏览器打开）用购买成功后的账号密码登录
+自动购买地址，买完即可用 购买地址：https://fk.yfk66.top//links/3C9CE3BA ）
+
 > *1、*[**镜像账号购买**](https://littlemagic8.github.io/2024/12/09/ChatGPT-and-Cluade/)：[https://littlemagic8.github.io/2024/12/09/ChatGPT-and-Cluade/](https://littlemagic8.github.io/2024/12/09/ChatGPT-and-Cluade/ ) 
 >
-> *2、*[**镜像账号购买参考**](https://littlemagic8.github.io/2024/05/15/how-to-use-ai/) [https://littlemagic8.github.io/2024/05/15/how-to-use-ai/](https://littlemagic8.github.io/2024/05/15/how-to-use-ai/)
+> *2、*[**镜像账号购买参考**](https://littlemagic8.github.io/2025/04/10/how-use-share-AI-model/) https://littlemagic8.github.io/2025/04/10/how-use-share-AI-model/
 
 不想自己注册账号，可以用方式二
 
@@ -211,6 +215,8 @@ OpenAI不支持向国内的用户开放直接支付功能，因此即使使用�
 公众号也可以哦
 
 ![img](https://pic1.zhimg.com/80/v2-4e622b64238b20948a02e0c988ca5704_720w.png)
+
+
 
 
 
@@ -353,4 +359,11 @@ Dn ⁣(x，1)  −  Dn ⁣(y，1)  =  (x−y) ∏j=1n−12
 \5. 通过与当地文化机构（例如大阪国立美术馆、雅典SNFCC）合作，营造开业前的宣传氛围，从而从众多品牌连锁店中脱颖而出。
 
 *（上图：2024 年入住率对比以及入住率▸乘客增长散点图——表格中列出了所有基础数据和来源。）*
+
+
+
+
+
+
+
 
