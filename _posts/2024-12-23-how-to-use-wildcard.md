@@ -92,7 +92,59 @@ WildCard 虚拟信用卡提供快速、安全的在线支付解决方案，支�
 
 # 更多手把手使用教程
 
-1. 进入官网，点击右上角的【登录/注册】按钮
+## 野卡是什么？
+
+ 简单讲就是当你需要订阅海外产品时，国内的支付方式无法支付（如支付宝、银行卡），但是使用野卡虚拟卡就可以帮你完成支付订阅。具体一点就是，订阅OpenAI ChatGPT，就可以使用野卡进行支付，你只需要用支付宝往野卡虚拟卡充值相应的金额即可，非常方便
+
+> PS:WildCard 虚拟卡为 Mastercard 卡类型，支持几乎所有接受 Mastercard 的商家平台支付。
+
+## 支持的产品
+
+支持订阅以下特定产品：
+
+| 订阅服务   |            |           |            |             |
+| ---------- | ---------- | --------- | ---------- | ----------- |
+| ChatGPT    | OpenAI API | Claude    | Google     | Apple Store |
+| Poe        | Cursor     | Suno      | Midjourney | Amazon      |
+| Github     | Facebook   | X/Twitter | Adobe      | Perplexity  |
+| Openrouter | Webshare   | Windsurf  |            |             |
+
+| 产品/服务             | 备注               |
+| --------------------- | ------------------ |
+| ChatGPT/OpenAI API    | 无特殊说明         |
+| Claude/Anthropic API  | 无特殊说明         |
+| Apple Store (美区)    | 美国地区           |
+| Google Play (美区)    | 美国地区           |
+| Youtube               | 无特殊说明         |
+| Cursor                | 需美国网络全局模式 |
+| Windsurf/Github       | 无特殊说明         |
+| Microsoft Azure/Store | 无特殊说明         |
+| Poe                   | 无特殊说明         |
+| Suno                  | 需美国网络全局模式 |
+| Patreon/pixivFanbox   | 无特殊说明         |
+| CloudFlare            | 无特殊说明         |
+| OpenRouter            | 无特殊说明         |
+| Facebook              | 无特殊说明         |
+| Perplexity            | 无特殊说明         |
+| MidJourney            | 无特殊说明         |
+| Telegram              | 对网络有要求       |
+| X/Twitter/Grok        | 无特殊说明         |
+| AWS                   | 需自己解决地址证明 |
+
+## 不支持的产品
+
+| 产品/服务               | 备注                     |
+| ----------------------- | ------------------------ |
+| DeepL                   | 对网络有要求，成功率极低 |
+| GiffGaff                | 成功率低                 |
+| Temu/Amazon 等实体电商  | 买退不支持               |
+| Google Cloud Platform   | 对网络有要求，成功率极低 |
+| Oracle Cloud            | 对网络有要求，成功率极低 |
+| Wise                    | 无特殊说明               |
+| Blizzard/EA 游戏类      | 无特殊说明               |
+| 各类土耳其/阿根廷区支付 | 无特殊说明               |
+
+1、进入官网，点击右上角的【登录/注册】按钮
 
 ![img](https://picx.zhimg.com/80/v2-860a1b2f7295c5de0d3053a4ea711eec_720w.jpg)
 
@@ -209,6 +261,4 @@ WildCard 虚拟信用卡提供快速、安全的在线支付解决方案，支�
 野卡卡片余额提现回支付宝 随便点击一个要订阅的产品，来到如下页面，然后点击【提现】即可提现回支付宝
 
 ![img](https://picx.zhimg.com/80/v2-ec25043ea63c2b03ca25072f98a7d24d_720w.jpg)
-
-
 
