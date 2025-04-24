@@ -109,7 +109,7 @@ Step 4. 成功获得 Gemini Advanced
 
 
 
-![img](E:\typoraPicture\v2-e0ff77776240fdb1f94a5504e8339c44_720w.png)
+![img](https://picx.zhimg.com/80/v2-e05b3dd5d09309b792bbd3cd1abafea2_720w.png)
 
 END: 最后补充一点想说的话，其实这波可以等一等的
 
