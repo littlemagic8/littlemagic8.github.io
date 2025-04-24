@@ -84,11 +84,15 @@ https://littlemagic8.github.io/2025/03/03/solve-GPT-not-work/
 
 准备工作：
 
-官网：[官网地址](https://chatshare.biz/)（需账号登陆）
+遇到问题，联系微信：aicygg888
+登录地址：https://chatshare.biz/ (复制到浏览器打开）用购买成功后的账号密码登录
+**自动购买地址，买完即可用** 购买地址：https://fk.yfk66.top//links/3C9CE3BA 
+
+操作使用手册请继续阅读
 
 ### 二、如何使用 ChatGPTPlus、Claude Pro？
 
-### 第一步：购买账号（可添加我微信：aicygg888 （PS:加微信备注：共享账号））进行购买，88/每月，分为
+### 第一步：购买账号（也可添加我微信：aicygg888 （PS:加微信备注：共享账号））进行购买，88/每月，分为
 
 1.1 首次使用：需要账号进行登陆
 
