@@ -327,7 +327,7 @@ completion = client.chat.completions.create(
 
 ## 小提示：如果你想使用更多AI产品，可以联系V: aicygg888
 
-> **PS:如果你需要开通自己的ChatGPT Plus、Claude Pro的个人独享账号可以参考教程：**[**使用支付方式订阅开通ChatGPT Plus、Claude Pro教程**](https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/) 
+> **PS:如果你需要开通自己的ChatGPT Plus、Claude Pro的个人独享账号可以参考教程：**[**使用支付方式订阅开通ChatGPT Plus、Claude Pro教程**](https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/) （https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/）
 >
 > *PS：国内直接使用chatGPT/Claude镜像账号可以通过两种方式获取：*
 
