@@ -18,7 +18,7 @@ sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     GPT-4o共享账号自助下单平台：https://fk.i6ls.com//links/3C9CE3BA
 zhihu_username:     福宝plus
 github_username:    littlemagic8
 # facebook_username:  baiying.qiu.7
@@ -102,8 +102,8 @@ friends: [
         title: "zhihu",
         href: "https://www.zhihu.com/people/plus-90-77"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "ChatGPT/Claude共享账号自助下单平台",
+        href: "https://fk.i6ls.com//links/3C9CE3BA"
     },{
         title: "Apple",
         href: "https://apple.com"

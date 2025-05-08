@@ -86,7 +86,7 @@ https://littlemagic8.github.io/2025/03/03/solve-GPT-not-work/
 
 遇到问题，联系微信：aicygg888
 登录地址：https://chatshare.biz/ (复制到浏览器打开）用购买成功后的账号密码登录
-**自动购买地址，买完即可用** 购买地址：https://fk.yfk66.top//links/3C9CE3BA 
+**自动购买地址，买完即可用** 购买地址：https://fk.i6ls.com//links/3C9CE3BA
 
 操作使用手册请继续阅读
 
