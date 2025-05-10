@@ -16,7 +16,7 @@ tags:
 
 **遇到问题，联系微信**：aicygg888
 **ChatGPT镜像站登录地址**：https://chatshare.biz/ (复制到浏览器打开）用购买成功后的账号密码登录
-**自动购买地址，买完即可用 购买地址**：https://fk.yfk66.top//links/3C9CE3BA 
+**自动购买地址，买完即可用 购买地址**：https://littlemagic8.github.io/buychat/
 
 ## **1. 什么是虚拟信用卡**
 
@@ -178,11 +178,11 @@ WildCard 虚拟信用卡提供快速、安全的在线支付解决方案，支�
 
 此外，填写我的邀请码：**DW62** 可以享受减免1美元的优惠
 
-![img](https://picx.zhimg.com/80/v2-8aa3671704375af82e107d445a172d11_720w.jpg)
+![img](https://pic1.zhimg.com/80/v2-2b5d103ecaa4afe39a065b7f48112cee_720w.png)
 
 8、输入邀请码DW62，点击确认后，重新计算开卡费用，可减1美元
 
-![img](https://pic1.zhimg.com/80/v2-67a0a5e6e9ed3070343e632273515d5d_720w.jpg)
+![img](https://pic1.zhimg.com/80/v2-04f15791fcf747682c62f6922b5a8955_720w.png)
 
 9、野卡平台的服务说明，需要注意野卡明确指出野卡不支持Wise, Google Cloud, Oracle Cloud ，看完点击【下一步】
 

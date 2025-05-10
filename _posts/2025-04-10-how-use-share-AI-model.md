@@ -34,7 +34,7 @@ tags:
 
 本[镜像站](https://chatshare.biz/)（https://chatshare.biz/）集成了chatgptplus/pro可以使用的相关模型（**GPT-4.5、GPT-4o、可规划任务的GPT-4o、o3-mini、o3-mini-high、o1、o1-pro-mode）、Claude3.7模型、Grok3模型、GeminiPro模型、DeepSeek模型**
 
-自动购买地址，买完即可用 购买地址：https://fk.yfk66.top//links/3C9CE3BA 
+自动购买地址，买完即可用 购买地址：https://littlemagic8.github.io/buychat/
 
 > **PS:下图展示了GPT-4o的生成图像已经接入、各个集成模型展示**
 

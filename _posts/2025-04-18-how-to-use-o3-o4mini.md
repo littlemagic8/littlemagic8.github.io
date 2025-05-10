@@ -198,7 +198,7 @@ OpenAI不支持向国内的用户开放直接支付功能，因此即使使用�
 
 （遇到问题，联系微信：aicygg888
 登录地址：https://chatshare.biz/ (复制到浏览器打开）用购买成功后的账号密码登录
-自动购买地址，买完即可用 购买地址：https://fk.i6ls.com//links/3C9CE3BA ）
+自动购买地址，买完即可用 购买地址：https://littlemagic8.github.io/buychat/ ）
 
 > *1、*[**镜像账号购买**](https://littlemagic8.github.io/2024/12/09/ChatGPT-and-Cluade/)：[https://littlemagic8.github.io/2024/12/09/ChatGPT-and-Cluade/](https://littlemagic8.github.io/2024/12/09/ChatGPT-and-Cluade/ ) 
 >
