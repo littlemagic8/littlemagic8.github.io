@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      国内如何轻松使用 Claude 的方法，如何解决ChatGPTplus使用次数限制？ 教你解决Claude容易被封号的问题（附带ChatShare官方激活码）
-subtitle:   ChatShare官方激活码
+subtitle:   chatgptplus和grok3无限制使用方法
 date:       2025-05-10
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
