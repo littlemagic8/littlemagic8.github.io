@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      ChatGPT 使用次数限制汇总（2025 年 5 月）附教你国内如何订阅chatgptplus/pro会员
+title:      ChatGPTplus ChatGPTPro 使用次数限制汇总（2025 年 5 月）附教你国内如何订阅chatgptplus/pro会员
 subtitle:   chatgptplus使用次数限制
 date:       2025-05-13
 author:     aicygg888
