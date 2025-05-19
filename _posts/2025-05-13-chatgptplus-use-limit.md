@@ -78,7 +78,7 @@ ChatGPT Pro 用户享有最高级别的访问权限：
 | Plus | GPT-4           | 不可用                          | 无        | 已于 2025 年 4 月 30 日退役，仅通过 [OpenAI API](https://openai.com/api/) 可用 |
 | Plus | GPT-4o          | 每 3 小时 80 条消息             | 每 3 小时 |                                                              |
 | Plus | GPT-4.5         | 每 3 小时 60 条消息             | 每 3 小时 | 2025 年 3 月引入，优化多模态任务                             |
-| Plus | o1              | 每周 50 条消息（待确认）        | 每周      |                                                              |
+| Plus | o1              | 每周 50 条消息                  | 每周      |                                                              |
 | Plus | ChatGPT-o3      | 每周 100 条消息                 | 每周      |                                                              |
 | Plus | o4-mini         | 每日 300 条消息                 | 每日      |                                                              |
 | Plus | o4-mini-high    | 每日 100 条消息                 | 每日      |                                                              |
