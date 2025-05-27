@@ -2,7 +2,7 @@
 layout:     post
 title:      2025国内如何使用支付宝的方式注册Claude账号以及升级Claude Pro的教程以及Claude免费版和专业版的限制次数说明
 subtitle:   如何使用Claude4
-date:       2025-05-28
+date:       2025-05-27
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
 catalog: true
