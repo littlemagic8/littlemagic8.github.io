@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      倒计时5天，Google 最近悄悄放宽了「Google AI Pro 学生计划」的申请条件，手把手教你如何订阅Google AI Pro 学生计划
-subtitle:   Google AI Pro 会员
+subtitle:   Google AI Pro学生计划获取
 date:       2025-06-26
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
@@ -116,7 +116,7 @@ Google 为大学生用户推出的 AI Pro 学生方案，原本只针对美国�
 
 通过谷歌认证地址进入注册，如果你的IP质量是家宽或者比较干净的，不是共享的！可以直接注册成功，并且可以先跳过手机号认证。
 
-**关于如何认证 Google One AI Pro 免费使用 15个月的教程，可以参考这篇文章，同时有教你如何获取edu邮箱：**https://littlemagic8.github.io/2025/04/22/how-to-use-GeminiPro-15-month-free/
+>  **PS：关于如何认证 Google One AI Pro 免费使用 15个月的教程，可以参考这篇文章，同时有教你如何获取edu邮箱**：https://littlemagic8.github.io/2025/04/22/how-to-use-GeminiPro-15-month-free/
 
 认证和注册挺玄学的，可以通过多个不同IP进行注册尝试，只要一个认证通过之后，后面使用什么IP都没有关系。
 
