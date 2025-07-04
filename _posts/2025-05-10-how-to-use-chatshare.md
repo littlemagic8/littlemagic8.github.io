@@ -34,7 +34,57 @@ tags:
 
 想要体验的话，没有激活码的伙伴，可以在这边获取就行，不确定的伙伴，可以弄个日卡试试。 体验下来不错了，直接上月卡。
 
-> ChatShare的官方激活码: https://littlemagic8.github.io/buychat/
+## 如何购买激活码
+
+> ChatShare的官方激活码购买地址: https://littlemagic8.github.io/buychat/ 
+>
+> **本站提供服务类型包括 ：**
+>
+> ChatGPT Team/Plus共享账号或激活码；
+>
+> ClaudePro共享账号或激活码；
+>
+> Claude Code共享账号激活码；
+>
+> ChatGPTplus独享账号自助升级充值会员。
+>
+> **特别说明：**ChatGPTplus独享账号的自助订阅升级（无需开通visa、master等支付卡片、无痛解决chatGPTplus支付问题）
+>
+> **ChatGPTplus独享账号使用说明**：选择："ChatGPT独享账号升级充值会员" 购买充值需要的卡密即可；
+>
+> **ChatGPTplus独享账号自助充值视频教程**：http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/514196921671.mp4 
+>
+>  **ChatGPTplus独享账号所需要的充值网站**：[OpenAI代充系统](https://gptplus.biz/) （https://gptplus.biz/）
+
+### 第一步：注册或者使用”（新号）“账号密码登录
+
+在[ChatShare官网](https://chatshare.biz/)：[**https://chatshare.biz**](https://chatshare.biz/) **点击“立即使用”然后进行注册（或者直接在激活码界面选择带有（新号）字样进行购买账号密码）**
+
+![img](https://pica.zhimg.com/80/v2-08777c36be62f1d38ed996ce6582db93_720w.png)
+
+![img](https://pica.zhimg.com/80/v2-b061318893c578c7c958eab907801575_720w.png)
+
+![img](https://picx.zhimg.com/80/v2-7f19db253fea344094def4816b3693ee_720w.png)
+
+> PS:如果是购买了”（新号）“的童鞋可以直接使用账号密码登录即可
+
+![img](https://pica.zhimg.com/80/v2-d42b8af9c860579b337cb765b82c1a1c_720w.png)
+
+### 第二步：去购买新号的账号密码或者激活码
+
+购买地址：ChatShare的官方激活码购买地址: https://littlemagic8.github.io/buychat/
+
+![img](https://pica.zhimg.com/80/v2-b7691c80b9abd2fc4e79797830ffe5e9_720w.png)
+
+### 最后一步：登录chatshare
+
+登录chatshare，然后点击“使用激活码”把购买的激活码输入兑换即可使用，**如果是新号则自动兑换激活码，登录成功即可开始使用！**
+
+![img](https://pic1.zhimg.com/80/v2-b93ef372caa0b341488ca7272cc6b443_720w.png?source=d16d100b)
+
+**反正我是直接上月卡了，因为有效期15天以上的话**，是可以使用 Claude Pro的。 以后就不用担心 Claude Pro 被封这种情况啦～
+
+*因为笔者已经用了大半年了，镜像账号已经成了我的必须支出项，同时我这边只要购买了的用户，都无限续杯~ 品质值得信赖*
 
 ![img](https://pica.zhimg.com/80/v2-b93ef372caa0b341488ca7272cc6b443_720w.png)
 
