@@ -20,7 +20,12 @@ tags:
 
 用的是**ChatShare的镜像站**，o3、o1-pro、Claude 3.7 Sonnet 都可以用，也可以GPT-4o绘画，也不会降智。
 
-**看下去，就知道我为什么推荐它的原因～**
+## 准备工作：
+
+1. ChatShare官网：[**https://chatshare.biz**](https://chatshare.biz/)
+2. 购买激活码官网：**[https://littlemagic8.github.io/buychat/](https://littlemagic8.github.io/buychat/ )** 
+
+**接着看下去，就知道我为什么推荐它的原因～ 同时详细给大家介绍使用流程**
 
 > ChatShare官网：[**https://chatshare.biz**](https://chatshare.biz/)
 
