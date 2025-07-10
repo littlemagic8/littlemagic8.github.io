@@ -78,6 +78,14 @@ tags:
 
 ## **小提示：如果你想使用更多AI产品，可以联系V: aicygg888**
 
+> **如果不想开通信用卡可以参考：无需开通信用卡完成ChatGPT订阅教程：ChatGPTplus独享账号的自助订阅升级（无需开通visa、master等支付卡片、无痛解决chatGPTplus支付问题）**
+>
+> > ***ChatGPTplus独享账号使用说明\***：选择：”ChatGPT独享账号升级充值会员” 购买充值需要的卡密即可；*
+>
+> > *ChatGPTplus独享账号自助充值视频教程*：http://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/514196921671.mp4*
+>
+> > ***ChatGPTplus独享账号所需要的充值网站**\*：*[*OpenAI代充系统](https://gptplus.biz/) （https://gptplus.biz/）
+>
 > **PS:如果你需要开通自己的ChatGPT Plus、Claude Pro的个人独享账号可以参考教程：**[**使用支付方式订阅开通ChatGPT Plus、Claude Pro教程**](https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/) （https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/） *PS：国内直接使用chatGPT/Claude镜像账号可以通过两种方式获取：*
 
 方式一：通过教程自行购买：
