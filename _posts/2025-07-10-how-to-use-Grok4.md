@@ -76,24 +76,6 @@ tags:
 
 
 
-不过，要使用chatshare是需要找管理员要激活码的，如果需要激活码的话，可以在这里获取：
-
-> 激活码：*https://littlemagic8.github.io/buychat/*
-
-可以先弄一张日卡激活码尝试一下新版Plus入口内的功能之后，再决定要不要弄月卡去体验Claude Pro等服务。
-
-## 关于国外Claude Pro 封号情况
-
-Claude对于网络要求比较高，所以建议不要使用纯净值差的网络，并且建议使用家宽固定原生IP，它就不会变化IP。
-
-你使用的魔法，大部分都是千人骑的IP，也大部分时动态IP，所以容易被Claude风控封号之类的。
-
-纯净值和测试自己的网络是不是好的，可以在ping0.cc上检查，比如我的，如果想稳定长期使用国外官网的Claude的话，推荐美区+原生IP。
-
-![img](https://pic1.zhimg.com/80/v2-6075cc06f6244eb147013322aee57260_720w.png)
-
-纯净度越低，代表越干净。另外原生IP也很关键，地区和属性也很关键。
-
 ## **小提示：如果你想使用更多AI产品，可以联系V: aicygg888**
 
 > **PS:如果你需要开通自己的ChatGPT Plus、Claude Pro的个人独享账号可以参考教程：**[**使用支付方式订阅开通ChatGPT Plus、Claude Pro教程**](https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/) （https://littlemagic8.github.io/2024/09/04/update-ChatGPT-Plus/） *PS：国内直接使用chatGPT/Claude镜像账号可以通过两种方式获取：*
