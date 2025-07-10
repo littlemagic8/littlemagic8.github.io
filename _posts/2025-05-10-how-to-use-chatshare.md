@@ -174,3 +174,67 @@ o1-pro 之前ChatGPT官方可是要充值 200 刀才能使用的模型呀！所�
 公众号也可以哦
 
 ![img](https://pic1.zhimg.com/80/v2-4e622b64238b20948a02e0c988ca5704_720w.png)
+
+
+
+Youtube：
+
+title:ChatGPT | Claude会员镜像网站推荐|国内直连|教你在国内如何购买使用ChatGPT Plus、ChatGPTTeam、ClaudePro共享账号
+
+视频中所需要的两个网站
+
+1. ChatShare官网：[**https://chatshare.biz**](https://chatshare.biz/)
+2. 购买激活码官网：**[https://littlemagic8.github.io/buychat/](https://littlemagic8.github.io/buychat/ )** 
+
+文字教程直达：https://littlemagic8.github.io/2025/05/10/how-to-use-chatshare/
+
+相信很多国内的伙伴都想使用ChatGPT或者Claude，但是Claude封号又很严格，次数也容易上限。所以，我推荐一个自用了挺久，并且稳定的镜像站，同时支持 ChatGPT Plus 和 Claude Pro 的体验。用的是**ChatShare的镜像站**，o3、o1-pro、Claude 4.0 Sonnet（Thinking） 、Grok、DeepSeek、Gemini都可以用，也可以GPT-4o绘画，也不会降智。
+
+> **PS: 激活码网站还提供了ChatGPTplus会员自助充值服务，使用方法：选择”ChatGPT独享账号升级充值会员“ 购买卡密，然后到** [OpenAI代充系统](https://gptplus.biz/)进行充值:https://gptplus.biz/；教程视频传送门：https://youtu.be/Lzv__jcCcJQ
+
+大家赶紧去试试吧！
+
+
+
+**视频中所需要的两个网站** 
+
+1. ChatShare官网：[https://chatshare.biz](https://chatshare.biz/) 
+2. 购买激活码官网：[https://littlemagic8.github.io/buychat/](https://littlemagic8.github.io/buychat/ ) 
+
+
+
+**文字教程传送门** https://littlemagic8.github.io/2025/05/10/how-to-use-chatshare/ 
+
+相信很多国内的伙伴都想使用ChatGPT或者Claude，但是Claude封号又很严格，次数也容易上限。所以，我推荐一个自用了挺久，并且稳定的镜像站，同时支持 ChatGPT Plus 和 Claude Pro 的体验。
+
+用的是**ChatShare的镜像站**，o3、o1-pro、Claude 4.0 Sonnet（Thinking） 、Grok、DeepSeek、Gemini都可以用，也可以GPT-4o绘画，也不会降智。
+
+> **PS: 激活码网站还提供了ChatGPTplus会员自助充值服务 
+>
+> ** 使用方法：选择”ChatGPT独享账号升级充值会员“ 购买卡密，然后到** [OpenAI代充系统](https://gptplus.biz/)进行充值:https://gptplus.biz/；教程视频传送门：https://youtu.be/Lzv__jcCcJQ 
+
+有任何问题，大家可以添加VX:aicygg888  大家赶紧去试试吧！
+
+
+
+
+
+国内用户必看！2025最新Eleven Labs国内订阅指南 ｜ 支付宝可用，超简单订阅方法
+
+"2025年最新更新！本视频为大家整理了最简单的Eleven  Labs国内支付订阅方法，手把手教你如何在国内为订阅Eleven  Labs！ ----------------------------------- 本视频涉及🔗：  bolt.new官网：https://elevenlabs.io/ 野卡(wildcard)官网：https://littlemagic8.github.io/pay/ 如果本期视频对你有帮助，记得点赞+订阅，后续会继续给大家呈现更多实用的海外软件使用技巧！
+
+
+
+[#spotifypremium](https://www.youtube.com/hashtag/spotifypremium) [#教程](https://www.youtube.com/hashtag/教程) [#音乐](https://www.youtube.com/hashtag/音乐)
+
+关于野卡更多用法参考教程：https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/
+
+想畅听Spotify海量无广告音乐，却在国内支付订阅时遇到障碍？信用卡被拒，礼品卡难买？本视频手把手教你，如何利用“野卡”成功订阅Spotify Premium！告别听歌限制。 ----------------------------------- 
+
+本视频传送门：  
+
+Netflix官网：[https://www.overleaf.com/]野卡(wildcard)官网：[https://yeka.ai/i/2233AI](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazBia0ZRTlIyMVl6ZU95MDF6MW1wYm9LLW9kQXxBQ3Jtc0trSWJYeXNnc2FOMjgzZEtWamtxRnVFeV9OdzBjcHVSc0tNTjRWTFlKbnFfcGJKaWVkZ294VTZhTTJKYUMzSkNIMmpsMlViZWViMEFwdl9xSnR6a3lQNUs5TW9ZanczdXowZ0FkSVhfYU11NWY5VnFjaw&q=https%3A%2F%2Fyeka.ai%2Fi%2F2233AI&v=Cm7nls4loB4)
+
+
+
+#spotify #spotifypremium #spotify订阅 #国内用spotify #支付宝 #野卡 #海外支付 #音乐 #教程
