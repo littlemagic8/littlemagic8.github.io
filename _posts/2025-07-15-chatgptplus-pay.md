@@ -71,4 +71,3 @@ Wildcard野卡已经停止服务了，但是目前卡内有余额的，之前记
 公众号也可以哦
 
 ![img](https://pic1.zhimg.com/80/v2-4e622b64238b20948a02e0c988ca5704_720w.png)
-
