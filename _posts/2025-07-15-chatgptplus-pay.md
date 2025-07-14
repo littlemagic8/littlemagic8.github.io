@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Wildcard野卡停止服务了！国内如何升级 ChatGPT Plus的平替方案
+title:      Wildcard野卡停止服务了？国内如何升级ChatGPTPlus的平替方案
 subtitle:   Wildcard
 date:       2025-07-15
 author:     aicygg888
