@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Cursor区域限制解决方法，Cursor 提示：“Model not available” 的原因，提供CursorPro代充
+title:      Cursor区域限制解决方法，Cursor 提示：“Model not available” 的原因，提供wildcard平替代充CursorPro
 subtitle:   Cursor
 date:       2025-07-23
 author:     aicygg888
