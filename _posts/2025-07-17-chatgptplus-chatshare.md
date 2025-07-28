@@ -18,11 +18,13 @@ tags:
 
 **https://littlemagic8.github.io/buychat/**
 
+>  使用说明：登录地址：https://chatshare.biz/  (复制到浏览器打开）用购买成功后的账号密码登录
+
 商品如下：
 
 ![img](https://pic1.zhimg.com/80/v2-f85caf1d615041ec81b7f2e981c6d719_720w.png)
 
-建议直接购买月卡，如果想体验可以购买周卡或者日卡，日卡/周卡/月卡用完后，觉得好用，都可以继续购买激活卡进行续费，聊天记录等都保留。
+建议直接购买月卡，如果想体验可以购买周卡，日卡/周卡/月卡用完后，觉得好用，都可以继续购买 “续费” 激活卡进行续费，**聊天记录等都保留**。
 
 **有任何问题欢迎咨询: aicygg888**
 
@@ -99,6 +101,8 @@ tags:
 ## 购买链接:
 
 **https://littlemagic8.github.io/buychat/**
+
+
 
 ### PS:本站还提供ChatGPTplus独享账号升级充值自助平台
 
