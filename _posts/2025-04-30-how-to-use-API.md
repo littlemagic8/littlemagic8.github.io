@@ -13,7 +13,7 @@ tags:
 ## **前言**
 
 
-官网：https://2233.ai/i/DW62
+官网：https://littlemagic8.github.io/pay/
 
 
 

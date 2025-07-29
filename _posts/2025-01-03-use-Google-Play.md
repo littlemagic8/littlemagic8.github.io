@@ -14,9 +14,9 @@ tags:
 
 # **准备工作**
 
- 虚拟卡官网：[官网](https://yeka.ai/i/DW62)
+ 虚拟卡官网：[官网](https://littlemagic8.github.io/pay/)
 
-申请一张[虚拟卡](https://yeka.ai/i/DW62)：[参考教程](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)  https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/
+申请一张[虚拟卡](https://littlemagic8.github.io/pay/)：[参考教程](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)  https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/
 
 # **绑卡教程如下：**
 

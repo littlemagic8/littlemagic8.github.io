@@ -79,7 +79,7 @@ ChatGPTPro 这就有点这种感觉了！！！
 
 ![img](https://picx.zhimg.com/80/v2-3fda13cfb2fdd03a9f5db5cac00f6093_720w.png)
 
- WildCard官网地址：https://yeka.ai/i/DW62 （复制该网址，或点击本文末尾左下角的“[阅读原文](https://yeka.ai/i/DW62)”进行跳转）。 
+ WildCard官网地址：https://littlemagic8.github.io/pay/ （复制该网址，或点击本文末尾左下角的“[阅读原文](https://littlemagic8.github.io/pay/)”进行跳转）。 
 
 （2） 使用+86手机号码完成账号注册。
 
@@ -89,7 +89,7 @@ ChatGPTPro 这就有点这种感觉了！！！
 
 ![img](https://picx.zhimg.com/80/v2-68de8f012136620c1c96a6f41dcf43d0_720w.png)
 
-> 注意：通过本文提供的链接 https://yeka.ai/i/DW62 进入WildCard官网，或使用邀请码“DW62”，可以优惠！ 
+> 注意：通过本文提供的链接 https://littlemagic8.github.io/pay/ 进入WildCard官网，或使用邀请码“DW62”，可以优惠！ 
 
 （4） 再次点击“我的卡片”查看虚拟信用卡的全部信息。
 

@@ -29,7 +29,7 @@ tags:
 - 一个能接收短信的国内手机号
 - 一个全新邮箱（指从没注册过 Apple ID 的邮箱），目前 QQ 不行，163 和 gmail 可行。
 - 无需任何代理工具
-- 一张虚拟[信用卡](https://yeka.ai/i/DW62)
+- 一张虚拟[信用卡](https://littlemagic8.github.io/pay/)
 
 > **PS: 笔者使用的虚拟信用卡是wildcard，后续教程直接使用wildcard表示虚拟卡。wildcard具体的申请教程参考：[wildcard申请教程](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)  https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/**
 
@@ -63,7 +63,7 @@ tags:
 ![img](https://pic1.zhimg.com/v2-0c7485fc28cc78b38e8cd6a22af2b4e2_1440w.jpg)
 
 **2.4 更改国家并填写 WildCard 卡片信息**
-在添加付款方式的页面里，把国家或地区更改成 美国，付款方式按标注的提示，填写在 [WildCard](https://yeka.ai/i/DW62)(https://yeka.ai/i/DW62) 申请的消费卡的具体卡号，有效期，CVV和账单地址即可。
+在添加付款方式的页面里，把国家或地区更改成 美国，付款方式按标注的提示，填写在 [WildCard](https://littlemagic8.github.io/pay/)(https://littlemagic8.github.io/pay/) 申请的消费卡的具体卡号，有效期，CVV和账单地址即可。
 
 > **PS: wildcard具体的申请教程参考：[wildcard申请教程](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)** https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/
 >

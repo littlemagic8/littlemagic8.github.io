@@ -88,7 +88,7 @@ Default Model选择你需要的模型
 
 
 
-> **PS:在充值之前需要绑卡哦，可以使用**[**虚拟卡**](https://bewildcard.com/i/DW62)**（**[**https://bewildcard.com/i/DW62**](https://bewildcard.com/i/DW62)**），笔者也是使用这种方式，待会我会详细介绍绑卡过程
+> **PS:在充值之前需要绑卡哦，可以使用**[**虚拟卡**](https://littlemagic8.github.io/pay/)**（**https://littlemagic8.github.io/pay/**），笔者也是使用这种方式，待会我会详细介绍绑卡过程
 > **虚拟卡申请参考教程：[卡片申请教程](https://littlemagic8.github.io/2024/12/23/how-to-use-wildcard/)
 
 ![img](https://picx.zhimg.com/80/v2-e3dca58527077c84fe60a187042044a6_720w.png)
@@ -121,7 +121,7 @@ Default Model选择你需要的模型
 
 如果没有这种类型的卡的话，可以申请一张虚拟海外卡，我当前使用的虚拟卡是bewildcard。如果你也需要可以通过官网进行申请一张，目前是2年10.9刀乐的年费。 （**我之前是1年9.9刀乐**）
 
-> **虚拟卡官网入口：** [卡片](https://bewildcard.com/i/DW62)
+> **虚拟卡官网入口：** [卡片](https://littlemagic8.github.io/pay/)
 
 开通申请之后，就可以获得对应的卡号信息和地址。（有了虚拟visa卡，就可以搞定很多事情啦！）
 

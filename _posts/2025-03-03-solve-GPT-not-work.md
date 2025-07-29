@@ -106,7 +106,7 @@ tags:
 
 用自己专注于chatgpt工具，无需烦恼因为网络或者环境带来的小烦恼
 
-镜像站1：https://2233.ai/ （记得使用邀请码：DW62 有优惠噢）
+镜像站1：https://littlemagic8.github.io/pay/（记得使用邀请码：DW62 有优惠噢）
 
 镜像站2：https://chatshare.biz/ （账号找：aicygg888）
 
