@@ -20,6 +20,14 @@ tags:
 
 > GPT升级系统：https://littlemagic8.github.io/gptplus/
 
+
+
+### **升级plus温馨提示**
+
+> PS：重要提示！！！！注意本plus升级系统只支持**plus会员账号过期或者本身没有会员(free)才能充值**
+
+![img](https://pica.zhimg.com/80/v2-dc08d9d78d542dee5da4599c76935cc2_720w.png)
+
 ![img](https://picx.zhimg.com/80/v2-2837d713ef511d94fab903e8c3cd4aca_720w.png)
 
 进入之后，可以查看对应的视频教程，然后再回来进行操作升级。
