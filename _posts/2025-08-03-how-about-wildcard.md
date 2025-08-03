@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      最近的wildcard野卡又暂停服务了，**原因是监管未结束！** 野卡官网都开着，写着没有「跑路」几个字,那有哪些平替可以升级chatgptplus
+title:      最近的wildcard野卡又暂停服务了，原因是监管未结束！野卡官网都开着，写着没有「跑路」几个字,那有哪些平替可以升级chatgptplus
 subtitle:   ChatGPT Agent
 date:       2025-08-03
 author:     aicygg888
