@@ -32,7 +32,7 @@ GPT-5马上发布了，大家想要第一时间用上GPT-5的可以参考本文�
 
 ## 二、充值网址
 
- 1、 兑换卡密（购买激活码）： https://sc.i6ls.com//details/31A1EAC9 
+ 1、 兑换卡密（购买激活码）： https://sc.i6ls.com//details/31A1EAC9  遇到卡密库存不足的情况请联系微信：aicygg888 进行补货
 
 2、 充值系统（真正充值的页面）： https://chongzhi.pro/?lang=zh-CN&site=aicygg888 (站内有视频教程，购买激活码之后可以直接打开充值系统进行充值)
 
