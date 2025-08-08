@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      GPT-5 即将凌晨1点进行发布，免费用户可以使用 GPT-5、GPT-5-Pro开放给pro和team用户了,如何升级GPT-5,wildcard平替解决方案
+title:      GPT-5 即将凌晨1点进行发布，免费用户可以使用 GPT-5、GPT-5-Pro开放给pro和team用户了,如何升级GPT-5,GPT-5使用次数限制说明，wildcard平替解决方案
 subtitle:   GPT-5
 date:       2025-08-07
 author:     aicygg888
@@ -27,6 +27,28 @@ tags:
 不过，从GPT官网的代码来看，目前我看到的模型是：GPT-5、GPT-5-auto、GPT-5-Pro、GPT-5-thinking 等模型。
 
 **GPT-5-auto 更可能是面对免费用户。而 GPT-5-Pro 从代码上看，是开放给了 Team 和 Pro 两个级别的用户。**
+
+
+
+# 谁能用 GPT-5？如何使用GPT-5
+
+简单总结：ChatGPT 所有用户都能用！
+
+
+
+**免费用户：**10 条/5 小时 GPT-5，触达上限后自动切换为 GPT-5 mini + 1 条/天 GPT-5 Thinking；
+
+**Plus 用户：**80 条/3 小时 GPT-5，触达上限后自动切换为 GPT-5 mini + 200 条/周 GPT-5 Thinking；
+
+**Pro 用户：**无限 GPT-5 + 无限 GPT-5 Thinking + GPT-5 pro；
+
+**Team 用户：**无限 GPT-5 + 200 条/周 GPT-5 Thinking + GPT-5 pro（下周开放）。
+
+
+
+**国内用户想要国内直达使用可以使用共享账号或者镜像**（目前节点已经被推送了GPT-5）,镜像图文使用教程：https://littlemagic8.github.io/2025/05/10/how-to-use-chatshare/ 同时也可以添加我微信(aicygg888)，了解实时信息
+
+> **目前除了pro用户能够自由选择模型**，其余用户都只能使用GPT-5统一模型，意味着GPT-5变成了黑盒了，模型也不透明了！需要自由选择模型的可以氪金使用Pro会员，或者找Sam理论！！！
 
 PS：想要体验GPT-5-Pro可以通过原生镜像站，可参考教程：https://littlemagic8.github.io/2025/07/17/chatgptplus-chatshare/
 
