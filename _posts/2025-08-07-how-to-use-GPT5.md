@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      GPT-5 即将凌晨1点进行发布，免费用户可以使用 GPT-5、GPT-5-Pro开放给pro和team用户了,如何升级GPT-5,GPT-5使用次数限制说明，wildcard平替解决方案
+title:      GPT-5 发布了，4.1、o3、GPT-4.5、4o-mini-high都没了，免费用户可以使用 GPT-5、GPT-5-Pro开放给pro和team用户了,如何升级GPT-5,GPT-5使用次数限制说明，wildcard平替解决方案
 subtitle:   GPT-5
 date:       2025-08-07
 author:     aicygg888
