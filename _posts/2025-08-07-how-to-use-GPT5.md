@@ -68,11 +68,13 @@ tags:
 
 解决方案：**用原生镜像**
 
-**国内用户想要国内直达使用可以使用共享账号或者镜像**（目前节点已经被推送了GPT-5）,镜像图文使用教程：https://littlemagic8.github.io/2025/05/10/how-to-use-chatshare/ 同时也可以添加我微信(aicygg888)，了解实时信息
+**国内用户想要国内直达使用可以使用共享账号或者镜像**（目前节点已经被推送了GPT-5）,
+
+镜像图文使用教程：[https://littlemagic8.github.io/2025/05/10/how-to-use-chatshare/](https://littlemagic8.github.io/2025/05/10/how-to-use-chatshare/) 同时也可以添加我微信(aicygg888)（PS:提示添加频繁，可通过文末扫二维码添加），了解实时信息
 
 > **目前除了pro用户能够自由选择模型**，其余用户都只能使用GPT-5统一模型，意味着GPT-5变成了黑盒了，模型也不透明了！需要自由选择模型的可以氪金使用Pro会员，或者找Sam理论！！！
 
-PS：想要体验GPT-5-Pro可以通过原生镜像站，可参考教程：https://littlemagic8.github.io/2025/07/17/chatgptplus-chatshare/
+PS：想要体验GPT-5-Pro可以通过原生镜像站，可参考教程：[https://littlemagic8.github.io/2025/07/17/chatgptplus-chatshare/](https://littlemagic8.github.io/2025/07/17/chatgptplus-chatshare/)
 
 ![img](https://picx.zhimg.com/80/v2-998d60c61dc57ebe4de725e50c5f29e9_720w.png)
 
