@@ -12,7 +12,7 @@ tags:
 
 ## 一、简介
 
-今晚凌晨1点的OpenAI发布会，估计会发布GPT-5模型。最近 Sam Altman 也是做足了营销，发布会前，已经有很多泄露代码和消息。
+今晚凌晨1点的OpenAI发布会发布了GPT-5，估计会发布GPT-5模型。最近 Sam Altman 也是做足了营销，发布会前，已经有很多泄露代码和消息。
 
 比如，已经泄露的几张图片，可以通过OpenAI的CDN接口查看到，修改一下模型名字就行。
 
@@ -46,6 +46,28 @@ tags:
 
 
 
+# 如何订阅chatgptplus并使用GPT-5
+
+最近很多伙伴的野卡已经无法进行使用了，都在找平替的方式升级GPT Plus，**如果需要在国内升级GPT PLUS的话，可以使用这个代升级系统就行了，大概2分钟就完成。**
+
+> **代升级系统**：[**https://littlemagic8.github.io/gptplus/**](https://littlemagic8.github.io/gptplus/)*（网站下方有购买卡密和使用教程参考）*
+
+> *图文教程参考：* [https://littlemagic8.github.io/2025/08/07/how-to-update-plus/](https://littlemagic8.github.io/2025/08/07/how-to-update-plus/)
+
+![img](https://pica.zhimg.com/80/v2-5019fa27bcfb3266ebafb1707b270a7b_720w.png)
+
+不用担心什么跑路之类的，**原理就是使用20刀的礼品卡一次性充值1个月的PLUS会员，前提是PLUS已经到期的伙伴，才可以进行升级。**
+
+喜欢折腾的伙伴，可以弄个苹果手机，申请个美区ID，再去支付宝购买一张20刀的礼品卡就可以升级。 不喜欢折腾的伙伴，直接用代充系统就行，原理一致。 
+
+>  [https://littlemagic8.github.io/gptplus/](https://littlemagic8.github.io/gptplus/)
+
+
+
+# 想要直接体验GPT-5，不想升级怎么办？
+
+解决方案：**用原生镜像**
+
 **国内用户想要国内直达使用可以使用共享账号或者镜像**（目前节点已经被推送了GPT-5）,镜像图文使用教程：https://littlemagic8.github.io/2025/05/10/how-to-use-chatshare/ 同时也可以添加我微信(aicygg888)，了解实时信息
 
 > **目前除了pro用户能够自由选择模型**，其余用户都只能使用GPT-5统一模型，意味着GPT-5变成了黑盒了，模型也不透明了！需要自由选择模型的可以氪金使用Pro会员，或者找Sam理论！！！
@@ -70,33 +92,9 @@ PS：想要体验GPT-5-Pro可以通过原生镜像站，可参考教程：https:
 
 
 
-## **GPT-5 哪些用户可以使用？**
+# 最后：
 
-根据目前的销售计划曝光，免费用户、Plus、Team、Pro等均可使用。具体如下：
-
-- 免费用户：可使用旗舰模型 GPT-5
-- Plus 用户：可使用 GPT-5 进行高级推理
-- Pro / team用户：可以使用 GPT-5-pro，可以使用更多的 GPT-5 模型调用次数。
-
-套路跟之前的差不多一致，如果想要用更多的GPT-5模型的次数，建议冲 Plus 会员就行了，大部分情况下次数比免费的高很多。
-
-根据以往的其他模型的上下文对比，Plus用户的上下文有 32k，免费用户的上下文有 8k，Pro用户的上下文有 128k。
-
-最近很多伙伴的野卡已经无法进行使用了，都在找平替的方式升级GPT Plus，**如果需要在国内升级GPT PLUS的话，可以使用这个代升级系统就行了，大概2分钟就完成。**
-
-> **代升级系统**：[*https://littlemagic8.github.io/gptplus/*](https://littlemagic8.github.io/gptplus/)*（网站下方有购买卡密和使用教程参考）*
-
-> *图文教程参考：* https://littlemagic8.github.io/2025/08/07/how-to-update-plus/
-
-![img](https://pica.zhimg.com/80/v2-5019fa27bcfb3266ebafb1707b270a7b_720w.png)
-
-不用担心什么跑路之类的，**原理就是使用20刀的礼品卡一次性充值1个月的PLUS会员，前提是PLUS已经到期的伙伴，才可以进行升级。**
-
-喜欢折腾的伙伴，可以弄个苹果手机，申请个美区ID，再去支付宝购买一张20刀的礼品卡就可以升级。 不喜欢折腾的伙伴，直接用代充系统就行，原理一致。
-
-> [*https://littlemagic8.github.io/gptplus/*](https://littlemagic8.github.io/gptplus/)
-
-*不过有一说一，GPT的版本号是有点多~*
+*不过有一说一，GPT的版本号是有点多~* 结果现在他给统一了，但是变成黑盒了，4o、4.5、o3模型只能pro用户才有选择的自由了
 
 ![img](https://pic1.zhimg.com/80/v2-6a8370e7b1343fd1cd223c428c6e41c8_720w.png)
 
