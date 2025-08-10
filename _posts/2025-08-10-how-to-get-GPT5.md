@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      GPT-5 免费可使用多少次数的说明，解决 GPT-5 没有推送的问题?教你如何从 GPT-5 切换到 GPT-4o，Plus 用户也可以显示传统模型?升级GPT-5plus wildcard平替解决方案
+title:      GPT-5 免费可使用多少次数的说明，解决 GPT-5 没有推送的问题?教你如何从 GPT-5 切换到 GPT-4o，Plus 用户也可以显示传统模型?升级GPT-5plus使用 wildcard平替解决方案
 subtitle:   GPT-5
 date:       2025-08-10
 author:     aicygg888
