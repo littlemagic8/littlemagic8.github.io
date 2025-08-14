@@ -16,6 +16,26 @@ ChatGPT 提供多种订阅计划，包括免费、Plus（每月 20 美元）、P
 
 
 
+## 国内如何订阅升级 GPT-5 plus会员呢？
+
+最近wildcard野卡虚拟卡已经暂停服务了，不知道什么时候能恢复。
+
+而 OpenAI 升级 GPT PLUS 时，需要国际的 Master卡，但是大部分伙伴都没有，就算有了国内的 Visa 卡，也不一定能支付。
+
+其中wildcard平替包括apple store、google pay，可以通过注册美区AppleID，使用苹果设备，在支付宝购买20刀的礼品卡进行升级PLUS，喜欢折腾的可以这么搞哈。
+
+不喜欢折腾的，就使用这个[GPT PLUS](https://littlemagic8.github.io/gptplus/) 代升级系统（简单方便、三步即可搞定升级），也是一样的原理，通过20刀的礼品卡一次性充值。就可以**在国内升级自己的GPT PLUS**啦，**国内用户需要升级 GPT PLUS 的话，可以使用这个GPT代升级系统，大概2分钟就完成。**
+
+> **代升级系统：**https://littlemagic8.github.io/gptplus/
+
+> 网页有视频教程和卡密购买传送门，先购买激活码（卡密）再观看视频，然后升级GPT plus即可！
+
+![img](https://pic1.zhimg.com/80/v2-f1fe2416ef091947de3b0611c0b4d218_720w.png)
+
+系统操作简洁并上手容易，2分钟左右就可以完成升级，用了几个月，没有什么问题。
+
+
+
 ## 免费、chatgptplus、chatgptpro各计划使用次数限制
 
 ### 免费用户
