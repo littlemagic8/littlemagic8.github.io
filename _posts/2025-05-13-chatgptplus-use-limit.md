@@ -28,7 +28,9 @@ ChatGPT 提供多种订阅计划，包括免费、Plus（每月 20 美元）、P
 
 > **代升级系统：**https://littlemagic8.github.io/gptplus/
 
-> 网页有视频教程和卡密购买传送门，先购买激活码（卡密）再观看视频，然后升级GPT plus即可！
+> 网页有视频教程和卡密购买传送门，先购买（或者添加微信：aicygg888 获取）激活码（卡密）再观看视频，然后升级GPT plus即可！
+>
+> **提示：添加好友频繁时，请网页结束的二维码！**
 
 ![img](https://pic1.zhimg.com/80/v2-f1fe2416ef091947de3b0611c0b4d218_720w.png)
 
