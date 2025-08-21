@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:     wildcard跑路了，wildcard平替解决方式提供，【国内支付手段】两种方法助力订阅ChatGPTplus会员，轻松使用GPT-5
+title:     【国内支付手段】wildcard跑路了，wildcard 平替解决方式提供，教你如何使用支付宝礼品卡的方式完成ChatGPT Plus 的订阅升级教程，两种方法助力订阅ChatGPTplus会员，轻松使用GPT-5
 subtitle:   GPT-5
 date:       2025-08-19
 author:     aicygg888
