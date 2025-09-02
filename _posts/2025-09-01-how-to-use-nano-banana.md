@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:     【wildcard替代】nano-banana如何使用保姆级教程，五大应用实例供你参考， -助你代订阅gemini-advanced，轻松使用nano-banana模型附自助充值chatgptplus
+title:      nano-banana如何使用保姆级教程，五大应用实例供你参考， -助你代订阅gemini-advanced，轻松使用nano-banana模型附自助充值chatgptplus
 subtitle:   nano-banana使用保姆级教程
 date:       2025-09-01
 author:     aicygg888
