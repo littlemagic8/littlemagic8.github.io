@@ -10,43 +10,43 @@ tags:
     - nano-banana
 ---
 
-这几天，你们有没有听说最近AI圈的“香蕉风暴”？
+最近被香蕉刷屏了，google悄咪咪干大事~
 
-Google的Gemini Nano-Banana（正式名Gemini 2.5 Flash Image）横空出世，一夜之间碾压全球图像编辑模型，成为LMArena的顶级选手！
+Google的Gemini Nano-Banana（正式名Gemini 2.5 Flash Image）横空出世，一夜之间碾压全球图像编辑模型，成为竞技场的number one！
 
 ![img](https://picx.zhimg.com/80/v2-3bf959238a7dd36e3dd996f16f12c85e_720w.png)
 
-这个“纳米香蕉”不光速度飞快（1-2秒出图），还能保持人物一致性、融合多图、智能编辑，简直是创作者的梦想工具。
+这个“纳米香蕉”听说不光出图飞快，而且在人物一致性、融合多图、智能编辑更是一绝，简直是创作者的神器。
 
 无论是产品摄影师、社交达人还是设计师，都在疯狂安利！
 
-今天，我来手把手教你如何上手，还附上5大应用场景的提示词+实例演示。读完这篇，保证你能立刻变身AI高手，创作出爆款内容！（文末有福利，记得点赞+关注哦~）
+今天，我来手把手教你如何上手，还附上5大应用场景的提示词+实例演示。读完这篇，助力你创作出更多爆款内容！（文末有福利，记得点赞+关注哦~）
 
-## **Gemini Nano-Banana是什么？为什么这么火？**
+## Gemini Nano-Banana是什么？
 
 Gemini Nano-Banana是Google DeepMind推出的AI图像生成与编辑模型，基于Gemini 2.5 Flash架构，专攻高效、低成本的创意编辑。
 
 它能融合多张图片、保持人物一致性、用自然语言精准修改（如“模糊背景”或“换衣服”），甚至利用“世界知识”生成语义准确的图像。
 
-相比传统工具，它响应超快、成本低（每张图约0.039美元），还内置水印防伪。为什么叫“Nano-Banana”？这是Google的内部昵称，源自测试时的匿名代号，现在已正式集成到Gemini app和API中。
+**为什么叫“Nano-Banana”？**
 
-用户反馈：编辑质量提升30%，适合从新手到专业人士！
+这是Google的内部昵称，源自测试时的匿名代号，现在已正式集成到Gemini app和API中。
 
-如果你是新手，别担心——它支持免费试用！接下来，我一步步教你如何使用，包括官方地址和实际流程。
+接下来和小编一起来体验使用一下纳米香蕉，有官方使用地址传送门和详细使用流程。
 
 ## **超详细教程：如何使用Gemini Nano-Banana（含地址+实际流程）**
 
 Gemini Nano-Banana可以通过多种方式访问：
 
-1、Google AI Studio（网页免费试用）；
+1、Google AI Studio
 
-2、Gemini （网页或者移动端）；
+2、Gemini
 
 3、API集成（开发者）（也可以直接使用我们接入API的现成的镜像站）**接下来也是用镜像站进行演示**
 
 >  PS：需要镜像站使用图文教程参考：https://littlemagic8.github.io/2025/07/17/chatgptplus-chatshare/
 
-4、第三方平台如Imogen app、Bylo.ai、Freepik。
+4、第三方平台如Imogen app、Bylo.ai、Freepik
 
 tips: 免费版有水印，付费（Gemini Advanced）无限使用。
 
@@ -63,7 +63,12 @@ tips: 免费版有水印，付费（Gemini Advanced）无限使用。
 
 - 在AI Studio首页，点击“New prompt”或“Start chatting”。
 - 选择模型：切换到“Gemini 2.5 Flash Image”（或搜索“nano-banana”）。
-- 如果用Gemini app：打开app，进入图像编辑模式（点击相机图标）。
+
+![img](https://picx.zhimg.com/80/v2-189934b91deee9d0bc31c80cb161ce88_720w.png)
+
+- 如果用Gemini ：进入图像编辑模式（点击相机图标）。
+
+![img](https://pic1.zhimg.com/80/v2-5dd9102e708a8d85819a1b3647cc7069_720w.png)
 
 镜像站入口，选择“备用plus入口”->"画图系列模型"
 
@@ -71,22 +76,17 @@ tips: 免费版有水印，付费（Gemini Advanced）无限使用。
 
 ### **步骤3：上传图像并输入提示**
 
-- 点击附件图标上传图片（支持PNG/JPG，单张或多张）。
-- 输入提示词：用自然语言描述编辑，如“将这个人换成中世纪公主服装，背景换成田野”。
-- 点击“Generate”或发送：AI会在1-2秒内输出编辑后图像。
-- 多轮编辑：不喜欢？回复“简化背景”或“添加花朵”，AI会基于上图迭代。
-
 类似下图
 
 ![img](https://picx.zhimg.com/80/v2-4027b8fdd6916c7c4823619ba0b682d4_720w.png)
 
-### **步骤4：下载与优化**
+### **步骤4：优化**
 
 - 优化Tips：提示要具体（如“保持面部一致性”）；
 - 多图融合时，指定“融合A图的沙发到B图的客厅”；
-- 免费版限额小，升级Gemini Advanced（19.99美元/月）无限用。
+- 免费版限额小，升级Gemini Advanced无限用 需要升级可以找我：aicygg888。
 
-示例：在镜像站（镜像站要抽卡，我就用Google AI Studio试试吧~）中上传自拍照，提示“把我放到太空，穿宇航服”，输出后迭代“添加地球背景”——boom，一张科幻头像就诞生了！
+示例：在镜像站（镜像站要抽卡，我就用Google AI Studio试试吧~）中上传自拍照，提示“把我放到太空，穿宇航服”，输出后迭代“添加地球背景” 一张科幻头像就诞生了！
 
 ![img](https://pic1.zhimg.com/80/v2-b72bd66383657e0382fb7ff831b76caf_720w.png)
 
@@ -164,11 +164,7 @@ Gemini Nano-Banana的强大在于多场景适应。下面我选了5个热门领�
 
 就这种感觉~
 
-Gemini Nano-Banana不只是工具，更是你的创意引擎！
-
-从零基础到高手，只需几步，就能产出专业级作品。（只是有抽卡的几率，有条件的还是订阅Gemini advanced会员吧）
-
-试试看，你会爱上这种“多轮编辑”的魔力。
+Gemini Nano-Banana 有抽卡的几率，有条件的还是订阅Gemini advanced会员吧！
 
 有疑问评论区见，一起脑洞大开~ 🚀🍌
 
