@@ -156,9 +156,11 @@ Gemini Nano-Banana的强大在于多场景适应。下面我选了5个热门领�
 
 
 
-## **结语：Nano-Banana，让你的创意“香蕉”起来！**
+## END：Nano-Banana，让你的创意“NB”起来！
 
-**这个教学用户的3D模型用来教学一个小白是不现实的，所以对于教学方面暂时不可用的感觉，对于商家和设计师来讲应该还挺不错的，后续简单的ps完全不用了，用嘴就行，包括证件照，完全不在话下~**
+**这个教学用户的3D模型用来教学一个小白是不现实的，所以对于教学方面暂时不可用的感觉，对于商家和设计师来讲应该还挺不错的，毕竟人物一致性真的很不错！！！**
+
+后续简单的ps完全不用了，用嘴就行，包括证件照，完全不在话下~
 
 ![img](https://picx.zhimg.com/80/v2-7e6ba6ac28908a2ccbf01dcbae284782_720w.png)
 
@@ -196,7 +198,30 @@ Gemini Nano-Banana 有抽卡的几率，有条件的还是订阅Gemini advanced�
 
 大家还需要Grok、Gemini、Claude、Cursor等AI工具均可代充，可以直接找我微信：aicygg888
 
+1. 出Midjourney 30刀 质保/不质保
 
+2. 出ChatGPT pro200刀质保
+
+3. 低价出3个月90天plus现货，带RT
+
+4. 出Grok 30刀/300刀 质保/不质保
+
+5. 出GPT Plus 20刀 质保/不质保
+
+6. 低价出 gemini ultra  veo3  质保/不质保，25000积分
+
+**低价代打以下Ai产品，全部比官网价格低 (无质保)**
+1️⃣gptplus成品/链接代充
+2️⃣pika10/35成品/代充
+3️⃣flowith20成品/代充
+4️⃣manus39代充
+5️⃣ naturalreader21刀
+6️⃣runway35刀
+7️⃣minimax39刀
+8️⃣ bolt.new 25刀
+9️⃣lovart19刀
+🔟 krea 35刀
+🎉ponde30刀
 
 ## **小提示：如果你想使用更多AI产品，可以联系V: aicygg888**
 
