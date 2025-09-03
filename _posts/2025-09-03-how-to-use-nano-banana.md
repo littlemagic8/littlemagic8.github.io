@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      谷歌nano-banana保姆级使用教程，手把手超详细使用教程，帮你代订阅gemini-advanced轻松使用nano-banana
+title:      谷歌nano-banana手把手超详细使用教程，教你如何使用gemini-advanced
 subtitle:   nano-banana使用保姆级教程
 date:       2025-09-03
 author:     aicygg888
