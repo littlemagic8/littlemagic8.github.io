@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      nano-banana如何使用保姆级教程，五大应用实例供你参考， -助你代订阅gemini-advanced，轻松使用nano-banana模型附自助充值chatgptplus
+title:      谷歌nano-banana保姆级使用教程，手把手超详细使用教程，帮你代订阅gemini-advanced轻松使用nano-banana
 subtitle:   nano-banana使用保姆级教程
-date:       2025-09-01
+date:       2025-09-03
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
 catalog: true
@@ -83,8 +83,12 @@ tips: 免费版有水印，付费（Gemini Advanced）无限使用。
 ### **步骤4：优化**
 
 - 优化Tips：提示要具体（如“保持面部一致性”）；
+
 - 多图融合时，指定“融合A图的沙发到B图的客厅”；
-- 免费版限额小，升级Gemini Advanced无限用 需要升级可以找我：aicygg888。
+
+- 免费版限额小，升级Gemini Advanced无限用 
+
+  > **ps：需要升级订阅Gemini Advanced可以找我**：**aicygg888。
 
 示例：在镜像站（镜像站要抽卡，我就用Google AI Studio试试吧~）中上传自拍照，提示“把我放到太空，穿宇航服”，输出后迭代“添加地球背景” 一张科幻头像就诞生了！
 
@@ -124,31 +128,31 @@ image.save("output.png")
 
 Gemini Nano-Banana的强大在于多场景适应。下面我选了5个热门领域，每个给出实用提示词和实例（基于真实输出模拟）。这些都能在AI Studio或app中直接试！
 
-### **1. 时尚与自拍编辑（适合社交达人）**
+### **场景1. 时尚与自拍编辑**
 
 - **提示词**："Change my outfit to a medieval Indian princess saree with flowers in hair, deep center parting. 你穿着纱丽，站在田野中，面部细节完美保留 Keep my face realistic and consistent."
 
 ![img](https://picx.zhimg.com/80/v2-caf38ba7a7aca8e501bbcaed7397efb4_720w.png)
 
-### **2. 产品摄影与电商（适合商家）**
+### **场景2. 产品摄影与电商**
 
 - **提示词**："A model is posing and leaning against a pink bmw. She is wearing the following items, the scene is against a light grey background. The green alien is a keychain and it's attached to the pink handbag. The model also has a pink parrot on her shoulder. There is a pug sitting next to her wearing a pink collar and gold headphones."
 
 ![img](https://pica.zhimg.com/80/v2-789f98fb66435d52fa473aefe374f6f5_720w.png)
 
-### **3. 室内设计可视化（适合设计师）**
+### **场景3. 室内设计可视化**
 
 - **提示词**："empty room photo. Paint walls blue, add bookshelf, coffee table, and sofa from this color palette. Keep lighting natural."
 
 ![img](https://pic1.zhimg.com/80/v2-43b7f3b4b37bcdd72e984ff526b7559f_720w.png)
 
-### **4. 教育与图表生成（适合老师/学生）**
+### **场景4. 教育与图表生成**
 
 - **提示词**："绘制一幅展示公鸡的3D立体剖面设计图，以高度还原的方式精细呈现其内部结构。每个零部件被拆解并有序排列，各部分均配有清晰中文标注，注明结构名称与功能说明，整体布局兼具专业性与视觉逻辑性，呈现出清晰、整洁且极具真实性的解析示意图。"
 
 ![img](https://picx.zhimg.com/80/v2-bb1fe9d90381c601049d4ffa61405acc_720w.png)
 
-### **5. 游戏与头像设计（适合游戏爱好者）**
+### **场景5. 游戏与头像设计**
 
 - **提示词**："Generate avatar from this photo: Make me a space explorer with helmet, add alien pet on shoulder. Multiple angles for consistency."
 
@@ -156,9 +160,11 @@ Gemini Nano-Banana的强大在于多场景适应。下面我选了5个热门领�
 
 
 
-## **结语：Nano-Banana，让你的创意“香蕉”起来！**
+## END：Nano-Banana，让你的创意“NB”起来！
 
-**这个教学用户的3D模型用来教学一个小白是不现实的，所以对于教学方面暂时不可用的感觉，对于商家和设计师来讲应该还挺不错的，后续简单的ps完全不用了，用嘴就行，包括证件照，完全不在话下~**
+**这个教学用户的3D模型用来教学一个小白是不现实的，所以对于教学方面暂时不可用的感觉，对于商家和设计师来讲应该还挺不错的，毕竟人物一致性真的很不错！！！**
+
+后续简单的ps完全不用了，用嘴就行，包括证件照，完全不在话下~
 
 ![img](https://picx.zhimg.com/80/v2-7e6ba6ac28908a2ccbf01dcbae284782_720w.png)
 
@@ -172,19 +178,8 @@ Gemini Nano-Banana 有抽卡的几率，有条件的还是订阅Gemini advanced�
 
 因为wildcard跑路，很多童鞋想要订阅使用ChatGPTplus可以参考下面教程
 
-#  升级 ChatGPT 详细步骤 （推荐✨）
 
-有客户使用礼品卡的方式进行升级，礼品卡对网络和 Apple ID 还是比较严格的，**个人如果操作不当，可能会被风控到自己的 Apple ID 之类的**。
-
-如果喜欢折腾的还是可以尝试一下的礼品卡，不喜欢花这个时间的话，可以通过下面这种方式进行升级 GPT PLUS。**（已经使用了5个月，稳定、靠谱的代升级方式！）**
-
-下面的原理也是跟礼品卡的一样，通过20刀的礼品卡一次性充值 GPT的方式，前提都是需要你的 GPT 已经到期了，**处于 free 的账号状态**。
-
-> **GPT升级系统：** *https://littlemagic8.github.io/gptplus/* （使用浏览器打开）
-
-进入之后，可以查看对应的视频教程，然后再回来进行操作升级。
-
-**整个升级流程大概如下（2分钟就可以完成升级）
+整个升级流程大概如下（2分钟就可以完成升级）
 
 ![img](https://pic1.zhimg.com/80/v2-b706045d6bd0b1c2dafa91f22dd3bcdf_720w.png)
 
@@ -196,7 +191,30 @@ Gemini Nano-Banana 有抽卡的几率，有条件的还是订阅Gemini advanced�
 
 大家还需要Grok、Gemini、Claude、Cursor等AI工具均可代充，可以直接找我微信：aicygg888
 
+1. 出Midjourney 30刀 质保/不质保
 
+2. 出ChatGPT pro200刀质保
+
+3. 低价出3个月90天plus现货，带RT
+
+4. 出Grok 30刀/300刀 质保/不质保
+
+5. 出GPT Plus 20刀 质保/不质保
+
+6. 低价出 gemini ultra  veo3  质保/不质保，25000积分
+
+**低价代打以下Ai产品，全部比官网价格低 (无质保)**
+1️⃣gptplus成品/链接代充
+2️⃣pika10/35成品/代充
+3️⃣flowith20成品/代充
+4️⃣manus39代充
+5️⃣ naturalreader21刀
+6️⃣runway35刀
+7️⃣minimax39刀
+8️⃣ bolt.new 25刀
+9️⃣lovart19刀
+🔟 krea 35刀
+🎉ponde30刀
 
 ## **小提示：如果你想使用更多AI产品，可以联系V: aicygg888**
 
