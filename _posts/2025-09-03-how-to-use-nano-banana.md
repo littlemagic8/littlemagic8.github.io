@@ -40,9 +40,7 @@ Gemini Nano-Banana可以通过多种方式访问：
 
 2、Gemini
 
-3、API方式（也可以直接使用我们接入API的现成的镜像站）**接下来也是用镜像站进行演示**
-
->  PS：需要镜像站使用图文教程参考：https://littlemagic8.github.io/2025/07/17/chatgptplus-chatshare/
+3、API方式（也可以直接使用我们接入了Nano Banana API的现成chatshare.biz镜像站，使用图文教程参考 https://littlemagic8.github.io/2025/07/17/chatgptplus-chatshare/ ）
 
 4、第三方平台如Imogen app、Bylo.ai、Freepik
 
@@ -57,7 +55,7 @@ tips: 免费版有水印，付费（Gemini Advanced）无限使用。
 - 第三方选项：镜像(chatshare.biz)。
 - 开发者，可用API密钥（从[ai.google.dev](https://ai.google.dev/)获取）。
 
-### **使用nano-banana**
+### **三个姿势去使用nano-banana**
 
 **方式一：AI Studio**
 
@@ -102,7 +100,7 @@ tips: 免费版有水印，付费（Gemini Advanced）无限使用。
 
 代码示例：
 
-```
+```python
 from google import genai
 from PIL import Image
 from io import BytesIO
@@ -114,7 +112,7 @@ image = Image.open(BytesIO(response.candidates[0].content.parts[0].inline_data.d
 image.save("output.png")
 ```
 
-开发者地址：[ai.google.dev/gemini-api/docs/image-generation](https://ai.google.dev/gemini-api/docs/image-generation)。
+开发者地址传送门：[ai.google.dev/gemini-api/docs/image-generation](https://ai.google.dev/gemini-api/docs/image-generation)。
 
 
 
@@ -166,7 +164,7 @@ Gemini Nano-Banana的强大在于多场景适应。下面我选了5个热门领�
 
 就这种感觉~
 
-Gemini Nano-Banana 有抽卡的几率，有条件的还是订阅Gemini advanced会员吧！
+Gemini Nano-Banana 有抽卡的几率，有条件的还是订阅Gemini advanced会员吧！**需要订阅gemini 会员可以找我：aicygg888** 
 
 有疑问评论区见，一起脑洞大开~ 🚀🍌
 
@@ -244,3 +242,4 @@ Gemini Nano-Banana 有抽卡的几率，有条件的还是订阅Gemini advanced�
 
 官方宣传提示词：https://developers.googleblog.com/en/how-to-prompt-gemini-2-5-flash-image-generation-for-the-best-results/
 
+ 
