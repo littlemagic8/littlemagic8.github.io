@@ -64,7 +64,7 @@ tags:
 
 > *图文教程参考：* [https://littlemagic8.github.io/2025/08/07/how-to-update-plus/](https://littlemagic8.github.io/2025/08/07/how-to-update-plus/)
 
-![img](https://pica.zhimg.com/80/v2-5019fa27bcfb3266ebafb1707b270a7b_720w.png)
+![img](https://pic1.zhimg.com/80/v2-b706045d6bd0b1c2dafa91f22dd3bcdf_720w.png)
 
 不用担心什么跑路之类的，**原理就是使用20刀的礼品卡一次性充值1个月的PLUS会员，前提是PLUS已经到期的伙伴，才可以进行升级。**
 
