@@ -32,9 +32,7 @@ OpenAI 在发布页把 GPT-5.2 定位得很直接：这是“为专业工作和�
 
 ### **本次OpenAI推出了三种模型：**提供了四个模型选项
 
-![img](https://i-blog.csdnimg.cn/direct/ba62d8ea61554c0abadc1638e15fdfd7.png)
-
-
+![img](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/20251214-1.png)
 
 
 
@@ -44,15 +42,15 @@ Instant 更适合信息检索、how-to、技术写作和翻译，同时保持更
 
 2）GPT-5.2 Thinking：更适合“把事做完”的深度工作
 
-发布页把它当“专业知识工作王牌”：在 GDPval（覆盖 44 职业的明确知识型工作任务）上，Thinking 达到 **70.9% 胜出或持平**，任务输出速度比专家快 11 倍以上、成本不到 1%（在有人类监督的前提下）。([OpenAI](https://openai.com/zh-Hans-CN/index/introducing-gpt-5-2/))  Cookbook 也强调 5.2 相比 5⁄5.1：更强指令遵循、更低冗长、更稳的计划结构（但仍建议你明确“范围纪律”和“输出长度”）。([OpenAI Cookbook](https://cookbook.openai.com/examples/gpt-5/gpt-5-2_prompting_guide))
+发布页把它当“专业知识工作王牌”：在 GDPval（覆盖 44 职业的明确知识型工作任务）上，Thinking 达到 **70.9% 胜出或持平**，任务输出速度比专家快 11 倍以上、成本不到 1%（在有人类监督的前提下）。Cookbook 也强调 5.2 相比 5⁄5.1：更强指令遵循、更低冗长、更稳的计划结构（但仍建议你明确“范围纪律”和“输出长度”）。
 
 3）GPT-5.2 Pro：更“研究级可靠”，但在 ChatGPT 有功能限制
 
-帮助中心写得很直白：**Pro 不支持 Canvas 和图像生成**。([OpenAI Help Center](https://help.openai.com/en/articles/11909943-gpt-52-in-chatgpt))
+帮助中心写得很直白：**Pro 不支持 Canvas 和图像生成**。
 
 4）Auto（自动换挡）：默认会在 Instant/Thinking 间切换
 
-帮助中心说明：付费用户可手动选 Instant/Thinking；但默认都能用 GPT-5.2 系列，系统会自动切换以平衡速度与深度。([OpenAI Help Center](https://help.openai.com/en/articles/11909943-gpt-52-in-chatgpt))
+帮助中心说明：付费用户可手动选 Instant/Thinking；但默认都能用 GPT-5.2 系列，系统会自动切换以平衡速度与深度。
 
 ### API 命名与推理档位
 
@@ -70,23 +68,23 @@ Pro 对应 `gpt-5.2-pro`；
 
 **GDPval 测试展示：**
 
-
-
-![img](https://pic-out.zhimg.com/v2-f25c060cc6abfc8c7995ad7f8538c55b~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1765563983-0-0-5b7c703ac3f9b2a67ce5bbe6a87469f9&bizSceneCode=article_draft&expiration=1765563983&incremental=false&mid=6cd6f565645b0fd304a5126702bc566b&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1)
+![image](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20251214134246817.png)
 
 
 
 **SWE-Bench Pro（公开版） 软件工程：**
 
+![image-20251214144049292](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20251214144049292.png)
 
-
-![img](https://pic-out.zhimg.com/v2-0eb49d728a9cd64003ff4bc05f99d64a~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1765563983-0-0-31e3634a56f09b51933f1e1dd3180199&bizSceneCode=article_draft&expiration=1765563983&incremental=false&mid=6cd6f565645b0fd304a5126702bc566b&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1)
+![image-20251214144136637](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20251214144136637.png)
 
 
 
 ### 长上下文
 
-![img](https://pic-out.zhimg.com/v2-3895fc8cb067781e3793091643766e5c~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1765563983-0-0-f8d31b5a2e5a5fc6c6a6f536d75c9b71&bizSceneCode=article_draft&expiration=1765563983&incremental=false&mid=6cd6f565645b0fd304a5126702bc566b&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1)![img](https://pic-out.zhimg.com/v2-b379e650865384d401d7876208352f1d~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1765563983-0-0-84df0b70a9f10f2871c3db62f97c548b&bizSceneCode=article_draft&expiration=1765563983&incremental=false&mid=6cd6f565645b0fd304a5126702bc566b&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1)
+![](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20251214144209006.png)
+
+![image-20251214144236733](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20251214144236733.png)
 
 
 
@@ -127,7 +125,7 @@ Pro 对应 `gpt-5.2-pro`；
 
 结果展示：给了我一整套脚本，大家也可以用上面提示词去试试~
 
-![img](https://pic-out.zhimg.com/v2-bbcf2fea8563a918f354ba80f9f82685~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1765563983-0-0-66df2a3b99e8ab40e8132420ba8fa944&bizSceneCode=article_draft&expiration=1765563983&incremental=false&mid=6cd6f565645b0fd304a5126702bc566b&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1)
+![image-20251214144316227](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20251214144316227.png)
 
 ------
 
@@ -143,11 +141,13 @@ Pro 对应 `gpt-5.2-pro`；
 
 累计1K+代码量，第一次因为上下文满了，重来了一次，两次搞定todo list
 
-![img](https://pic-out.zhimg.com/v2-ccfba02a049b8dda271ba3d94a7abc3a~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1765563983-0-0-e750fc3c76e79933e758560a82ab0df2&bizSceneCode=article_draft&expiration=1765563983&incremental=false&mid=6cd6f565645b0fd304a5126702bc566b&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1)
+![image-20251214144348659](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20251214144348659.png)
+
+
 
 **成品展示**
 
-![img](https://pic-out.zhimg.com/v2-8e91820ef3366b4ac14cfe940106d4e0~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1765563983-0-0-5ec7e4acfab1984ff2c907fd1dbea636&bizSceneCode=article_draft&expiration=1765563983&incremental=false&mid=6cd6f565645b0fd304a5126702bc566b&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1)
+![image-20251214144412800](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20251214144412800.png)
 
 需要代码可以call我：aicygg888
 
@@ -180,7 +180,7 @@ Pro 对应 `gpt-5.2-pro`；
 
 跑不出来根本跑不出来。。。
 
-![img](https://pic-out.zhimg.com/v2-516c670a8636e805abc820a09a534e3d~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1765563983-0-0-d19bb7c6f688e423c9331a81367207ea&bizSceneCode=article_draft&expiration=1765563983&incremental=false&mid=6cd6f565645b0fd304a5126702bc566b&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1)
+![image-20251214144441928](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20251214144441928.png)
 
 ------
 
@@ -191,9 +191,7 @@ Pro 对应 `gpt-5.2-pro`；
 >  **tips：需要充值GPTplus或者其它AI可以在这里进行自助下单订阅升级：**
 >  [自助充值系统](https://littlemagic8.github.io/gptplus/)：https://littlemagic8.github.io/gptplus/ (使用浏览器打开)
 
-
-
-![img](https://pic-out.zhimg.com/v2-eabda925e764f405de681049767d887b~resize:1440:q75.png?animatedImageAutoPlay=false&animatedImagePlayCount=1&auth_key=1765563983-0-0-69e33b46aa5ce6acf2f5fc9200ebbf24&bizSceneCode=article_draft&expiration=1765563983&incremental=false&mid=6cd6f565645b0fd304a5126702bc566b&overTime=60&precoder=false&protocol=v2&retryCount=3&sampling=false&sceneCode=editor_copy_outbound&source=bfcaadb1)
+![image-20251214144500359](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20251214144500359.png)
 
 
 
