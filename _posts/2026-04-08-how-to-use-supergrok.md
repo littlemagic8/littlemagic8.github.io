@@ -10,15 +10,21 @@ tags:
     - SuperGrok代充
 ---
 
-以下是**2026年4月最新版**国内注册 Grok + 升级 **SuperGrok** 的完整实用教程。手把手在几分钟之内教你如何订阅充值supergrok。
+以下是**2026年4月最新版**国内注册 Grok + 升级 **SuperGrok** 的完整实用教程。手把手在几分钟之内教你成功订阅充值supergrok。
 
 ### 为什么很多人升级 SuperGrok？
-Grok 是目前政策相对宽松的 AI 之一，尤其适合**AI 小说、AI 漫画、网文创作**等创意场景。相比 Claude（容易封号）和 ChatGPT（内容限制较多），Grok 对敏感/创意内容的审查较少(比较open)，支持长上下文、多轮对话，这对写网文的伙伴是巨大优势。
+Grok 是目前政策相对宽松的 AI 之一，尤其适合**AI 小说、AI 漫画、网文创作、视频生成**等创意场景。相比 Claude（容易封号）和 ChatGPT（内容限制较多），Grok 对敏感/创意内容的审查较少(比较open)，支持长上下文、多轮对话，这对写网文的伙伴是巨大优势。
 
 - **免费版**：只能满足轻度文本聊天，**生图（Imagine）和视频生成已基本不可用**（2026年3月19日后收紧，免费用户几乎被移到付费墙后）。
 - **SuperGrok（$30/月）**：更高消息额度、更长上下文、大量生图/视频生成（支持更高分辨率、720p 视频等）、优先访问新功能（DeepSearch、Big Brain 长链推理、增强 Voice Mode），峰值时段不卡顿。
 
-如果你主要需求是 **AI 创作 + 图片/视频生成**，免费版基本无法使用图片/视频生成了，此时升级 SuperGrok 的性价比很高。
+如果你主要需求是 **AI 创作 + 图片/视频生成，最近这两天出了一个Quality生图模式**，**免费版基本无法使用图片/视频生成了，此时升级 SuperGrok 的性价比很高**。
+
+> PS: **Quality 模式** 牺牲了一些生成速度，换来电影级/摄影级的细节、通透感和整体艺术性，非常适合需要高品质输出的创作（如概念艺术、产品渲染、专业设计）
+
+![image-20260409190223428](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260409190223428.png)
+
+然后根据比较满意的图片直接生成视频，图片和视频一站式完成![image-20260409190446672](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260409190446672.png)
 
 **注意**：Grok 有两个独立体系——**grok.com 官网**（推荐，$30）和 **X（原 Twitter）**（Premium+ 要约 $40 ，更贵，额度独立）。纯用 Grok 建议走官网。
 
@@ -42,18 +48,18 @@ Grok 是目前政策相对宽松的 AI 之一，尤其适合**AI 小说、AI 漫
 
 在 x 上，想要用 grok 的高级功能，你需要升级 40 刀的会员才能满足，比官网的 supergrok 30刀 贵了 10刀。
 
-如果你是专门要用grok，可以直接在官网升级 SuperGrok 就可以，不知道如何升级订阅 supergrok，可以看下方的教程。
+如果你是专门要用grok，可以直接在grok官网升级 SuperGrok 就可以，不知道如何升级订阅 supergrok，可以看下方的教程。
 
 ### 一、国内如何快速注册 Grok（1-2 分钟）
 
 1. 准备一个邮箱（QQ、163、Gmail、Outlook 等均可）。
 2. 使用稳定上网工具访问官网：**https://grok.com**
-3. 点击注册/登录，支持邮箱注册、Google、Apple 或 X 账号一键登录（推荐邮箱，避免绑定 X 体系）。
-4. 注册成功后即可使用免费 Grok（文本对话有额度限制）。
+3. 点击注册/登录，支持邮箱注册、Google、Apple 或 X 账号一键登录（推荐邮箱，避免绑定 X 账号）。
+4. 注册成功后即可使用免费 Grok（文本对话有额度限制，无生图/视频额度）。
 
 **小贴士**：
-- 官网和 X 上的 Grok 额度相互独立，可同时使用。
-- 手机用户可下载 Grok App，体验相同。
+- grok官网和 X 上的 Grok 额度相互独立，可同时使用。
+- 手机用户可下载 Grok App，体验更好。
 
 ### 二、免费版 vs SuperGrok 对比（2026年4月最新）
 
@@ -102,20 +108,20 @@ Grok 是目前政策相对宽松的 AI 之一，尤其适合**AI 小说、AI 漫
 
 ### 三、国内如何升级 SuperGrok（最稳妥代充方式）
 
-官方订阅需要国际 Visa/Master 卡，国内支付方式不支持。目前最简单、安全的方式是**第三方代充平台**（无需提供账号密码，只需 Grok 用户 ID，平台后台内购升级，成功率高）。
+官方订阅需要国际 Visa/Master 卡，国内支付方式不支持。目前最简单、安全的方式是**第三方代充平台**（无需提供账号密码，只需 Grok 用户 ID，平台后台内购升级，成功率高）仅需两步搞定SuperGrok充值。
 
 #### 步骤1：准备充值码和Grok用户ID
 
-1.1 **购买 SuperGrok 充值码/卡密**：
+##### 1.1  **购买 SuperGrok 充值码/卡密**：
 
-- 访问代充平台：**https://littlemagic8.github.io/gptplus/purchase-grok.html**。
+- **访问[代充平台](**https://littlemagic8.github.io/gptplus/purchase-grok.html**)购买 SuperGrok 充值码/卡密**：**https://littlemagic8.github.io/gptplus/purchase-grok.html**。
 
   ![image-20260408225721410](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260408225721410.png)
 
-1.2  **获取你的 Grok 用户 ID**：
+##### 1.2  **获取你的 Grok 用户 ID**：
 
 - 登录 **https://grok.com**
-- 在 网页左下角Account / 设置页面找到用户 ID（通常是灰色长字符串），复制即可。
+- 在 网页左下角Account ->设置页面找到用户 ID（通常是灰色长字符串），复制即可。
 
 ![image-20260408205137097](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260408205137097.png)
 
@@ -123,24 +129,22 @@ Grok 是目前政策相对宽松的 AI 之一，尤其适合**AI 小说、AI 漫
 
 #### 步骤2：开始使用SuperGrok代充平台充值
 
-- 回到[代充平台](**https://littlemagic8.github.io/gptplus/purchase-grok.html**)，粘贴 Grok 用户 ID + 购买的卡密。
+- 回到[代充平台](**https://littlemagic8.github.io/gptplus/purchase-grok.html**)，点击“第二步：系统充值”按钮，进入代充系统粘贴 购买的卡密和Grok 用户 ID。详细步骤参考请往下翻
 
 ![image-20260408205500398](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260408205500398.png)
 
-##### 2.1：输入购买的充值码然后输入Grok用户ID
+##### 2.1：输入购买的充值码（激活卡密）然后输入Grok用户ID（绑定账号）
 
 ![image-20260408205623069](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260408205623069.png)
 
-##### 2.2：点击确定并升级 按钮，等待充值界面完成（几分钟左右）
-
-
+##### 2.2：点击 “确定并升级” 按钮，等待充值界面完成（几分钟左右）
 
 ![image-20260408221859411](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260408221859411.png)
 
 - 提交后等待 2～5 分钟。
 - 成功后刷新 grok.com（或重新登录），页面会显示 “SuperGrok” 标识。
 
-##### 2.3： 检查supergrok是否成功充值**：
+##### 2.3： 检查supergrok是否成功充值：
 
 - 若未立即显示，清除浏览器缓存、等待几分钟，或重新登录（延迟正常）。
 
