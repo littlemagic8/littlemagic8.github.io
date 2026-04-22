@@ -114,7 +114,7 @@ Grok 是目前政策相对宽松的 AI 之一，尤其适合**AI 小说、AI 漫
 
 ##### 1.1  **购买 SuperGrok 充值码/卡密**：
 
-- **访问[代充平台](**https://littlemagic8.github.io/gptplus/purchase-grok.html**)购买 SuperGrok 充值码/卡密**：**https://littlemagic8.github.io/gptplus/purchase-grok.html**。
+- 访问[代充平台](https://littlemagic8.github.io/gptplus/purchase-grok.html) 购买 SuperGrok 充值码/卡密**：**https://littlemagic8.github.io/gptplus/purchase-grok.html 。
 
   ![image-20260408225721410](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260408225721410.png)
 
