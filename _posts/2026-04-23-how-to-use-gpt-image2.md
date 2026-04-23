@@ -75,9 +75,13 @@ OpenAI 于 2026 年 4 月 21 日正式推出 **ChatGPT Images 2.0**，其底层�
 
 **Nano-banana2效果**
 
-![1](https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/2638b9a0-6c71-4f61-a678-b89724f6c261/1776952151668-019dba99-39f1-7c5c-8f58-6d4e9c750d58.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=b33de61d4f22a31b59b25364ab5037c5%2F20260423%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260423T134911Z&X-Amz-Expires=3600&X-Amz-Signature=4ef8ebada8198e87dfaa04e343e709fcc9aefe4fed5e592c439793eca5cbfa6d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![image-20260423231812972](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260423231812972.png)
 
-**GPT-iamge-2效果**![img](https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/2638b9a0-6c71-4f61-a678-b89724f6c261/1776952184989-019dba99-39f1-72f7-86a8-674437a16523.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=b33de61d4f22a31b59b25364ab5037c5%2F20260423%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260423T134945Z&X-Amz-Expires=3600&X-Amz-Signature=96b0888a5c1957be2a722bcecb34c25e89963e3316116d9fee7192d16c2f09a6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+**GPT-iamge-2效果**
+
+![image-20260423231702854](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260423231702854.png)
 
 **案例 2：多格漫画 / 故事板（Comic Strip）**  
 
@@ -129,12 +133,14 @@ Thinking 模式下可生成更连贯的多页故事。
 
 ![img](https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/2638b9a0-6c71-4f61-a678-b89724f6c261/1776953153776-019dbaa8-ea05-73d9-b3cd-f2aaee80ecae.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=b33de61d4f22a31b59b25364ab5037c5%2F20260423%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260423T140554Z&X-Amz-Expires=3600&X-Amz-Signature=9d341d5de00bccd839a163efdaa78c655ee2c76555744f49e89f14d447a0bb0c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
-
+![中文版](https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/2638b9a0-6c71-4f61-a678-b89724f6c261/1776956198552-019dbad7-44ad-7a7c-8e64-d6040a597ce0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=b33de61d4f22a31b59b25364ab5037c5%2F20260423%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260423T145639Z&X-Amz-Expires=3600&X-Amz-Signature=434ef74fc31f0d8304f2a1d2ba0ec4af91b59c3e81e4a0e32b2898b7305a670d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 ### 
 **GPT-iamge-2效果**
 
 ![img](https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/2638b9a0-6c71-4f61-a678-b89724f6c261/1776953168400-019dbaa8-ea05-78a3-828d-2fd4035d6061.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=b33de61d4f22a31b59b25364ab5037c5%2F20260423%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260423T140608Z&X-Amz-Expires=3600&X-Amz-Signature=d9c3002367515f7d02abb592df2e761b4cca635255eb27eca59d14f3cc6ca9bd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+![中文版](https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/2638b9a0-6c71-4f61-a678-b89724f6c261/1776956213015-019dbad7-44ad-7ce1-b1b2-23fc876f4b00.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=b33de61d4f22a31b59b25364ab5037c5%2F20260423%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260423T145654Z&X-Amz-Expires=3600&X-Amz-Signature=141dc245454d177808f1ca42ee901b4d999b884c8ad7f96daa3c8c0f10ef71a6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 想看官方示例参考官方链接：  
 
