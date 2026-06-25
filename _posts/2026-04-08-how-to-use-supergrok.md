@@ -121,11 +121,10 @@ Grok 是目前政策相对宽松的 AI 之一，尤其适合**AI 小说、AI 漫
 ##### 1.2  **获取你的 Grok 用户 ID**：
 
 - 登录 **https://grok.com**
-- 在 网页左下角Account ->设置页面找到用户 ID（通常是灰色长字符串），复制即可。
+- 进入 [https://grok.com/api/auth/session](https://grok.com/api/auth/session) → 复制字段对应的内容值"userId": 格式示例：ea297950-79e4-466a-be73-dd3f8efbd29c
+- ![202606151949549876808.png](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/202606151949549876808.png)
 
-![image-20260408205137097](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260408205137097.png)
 
-![image-20260408205427799](https://raw.githubusercontent.com/littlemagic8/img-repo/refs/heads/main/img/image-20260408205427799.png)
 
 #### 步骤2：开始使用SuperGrok代充平台充值
 
