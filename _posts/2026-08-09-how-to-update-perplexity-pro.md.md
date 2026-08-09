@@ -22,13 +22,13 @@ Perplexity Pro（20美元/月）提供扩展的 Pro Search、多种高级AI模�
 
 1、**获取 Perplexity 用户id：**(在登录perplexity的同一浏览器页面打开 [perplexity.ai/api/auth/session](https://www.perplexity.ai/api/auth/session)，复制其中的 user.id 或整段内容粘贴即可)
 
-2、**获取卡密：**卡密购买链接传送门（浏览器打开即可，支付微信支付宝支付）
+2、**获取卡密：**卡密购买链接传送门：https://littlemagic8.github.io/gptplus/purchase-perplexity.html（浏览器打开即可，支付微信支付宝支付）
 
 ## 如何订阅Perplexity Pro
 
 ### 第一步：登录https://www.perplexity.ai/
 
->  ps: 如果没有perplexity账号,可以参考本教程：
+>  ps: 如果没有perplexity账号,可以参考本教程：https://littlemagic8.github.io/2026/08/09/how-to-register-perplexity/
 
 ![image-20260809175953851](/img/image-20260809175953851.png)
 
@@ -40,7 +40,9 @@ Perplexity Pro（20美元/月）提供扩展的 Pro Search、多种高级AI模�
 
 ### 第三步：购买卡密
 
-点击充值系统：（浏览器打开，按步骤购买充值perplexitypro所需的卡密）
+[点击充值系统](https://littlemagic8.github.io/gptplus/purchase-perplexity.html)：https://littlemagic8.github.io/gptplus/purchase-perplexity.html（浏览器打开，按步骤购买充值perplexitypro所需的卡密）
+
+![image-20260809185224192](/img/image-20260809185224192.png)
 
 ### 第四步：激活卡密 --填充【第三步购买的卡密】
 

@@ -73,7 +73,7 @@ Perplexity对于国内用户使用A社Claude的大模型也比较友好，需要
 >
 > 免费用户无法选择模型，对话次数也比较少，如果需要升级到20刀/月的perplexity pro可以参考本教程：
 >
-> 
+> https://littlemagic8.github.io/2026/08/09/how-to-update-perplexity-pro.md/ （浏览器打开即可）
 
 ![image-20260809161438141](/img/image-20260809161438141.png)
 
