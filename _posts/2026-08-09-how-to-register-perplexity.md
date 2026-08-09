@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      【2026】一分钟教你轻松注册并使用perplexity.ai（CahtGPT、Claude平替），支持国内邮箱注册
+title:      【2026】一分钟教你轻松注册并使用perplexity.ai（ChatGPT、Claude平替），支持国内邮箱注册
 subtitle:   perplexity注册教程
 date:       2026-08-09
 author:     aicygg888

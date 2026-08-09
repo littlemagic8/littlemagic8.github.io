@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      【2026】国内用户一分钟教你如何轻松自助代升级订阅perplexity pro（CahtGPT、Claude平替），支付宝/微信均可
+title:      【2026】国内用户一分钟教你如何轻松自助代升级订阅perplexity pro（ChatGPT、Claude平替），支付宝/微信均可
 subtitle:   代充perplexity pro
 date:       2026-08-09
 author:     aicygg888
