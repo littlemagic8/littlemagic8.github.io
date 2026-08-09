@@ -171,7 +171,7 @@ ChatGPT 网页端付款不是只校验卡号，还会综合判断 IP 国家、�
 
 虚拟卡不是不能用，而是不再是“开了就必过”的方案。现在失败往往不只是卡的问题，而是卡段、账号、IP、账单信息一起被判定为高风险。
 
-如果你想看更完整的排查，可以参考：https://littlemagic8.github.io/2026/08/08/how-to-slove-chatgpt-your-card-has-been-declined/ 和 [ChatGPT 付款未获批准是什么原因](https://littlemagic8.github.io/2026/08/08/how-to-slove-gpt-payment-not-approved/)。
+如果你想看更完整的排查，可以参考：[https://littlemagic8.github.io/2026/08/08/how-to-slove-chatgpt-your-card-has-been-declined/](https://littlemagic8.github.io/2026/08/08/how-to-slove-chatgpt-your-card-has-been-declined/) 和 [ChatGPT 付款未获批准是什么原因](https://littlemagic8.github.io/2026/08/08/how-to-slove-gpt-payment-not-approved/)。
 
 ## 七、不同情况怎么选？
 
