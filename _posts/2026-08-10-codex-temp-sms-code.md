@@ -38,7 +38,7 @@ tags:
 - **节点尽量纯净**（少用万人骑机房 IP）；
 - 使用习惯相对稳定；
 
-> tips:如需订阅代充ChatGPTplus，拥有更多对话次数和codex额度，还能优先被推送新模型，如需充值请参考本充值系统：https://littlemagic8.github.io/gptplus/purchase-gpt.html (使用浏览器打开)
+> tips:如需订阅代充ChatGPTplus，拥有更多对话次数和codex额度，还能优先被推送新模型，如需充值请参考本充值系统：[https://littlemagic8.github.io/gptplus/purchase-gpt.html](https://littlemagic8.github.io/gptplus/purchase-gpt.html) (使用浏览器打开)
 
 ---
 
@@ -237,7 +237,7 @@ tags:
 
 ![Codex 使用成功示意](/img/image-20260810232858082.png)
 
-> tips:如需订阅代充ChatGPTplus，拥有更多对话次数和codex额度，还能优先被推送新模型，如需充值请参考本充值系统：https://littlemagic8.github.io/gptplus/purchase-gpt.html (使用浏览器打开)
+> tips:如需订阅代充ChatGPTplus，拥有更多对话次数和codex额度，还能优先被推送新模型，如需充值请参考本充值系统：[https://littlemagic8.github.io/gptplus/purchase-gpt.html](https://littlemagic8.github.io/gptplus/purchase-gpt.html) (使用浏览器打开)
 
 ---
 
