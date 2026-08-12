@@ -27,13 +27,17 @@ tags:
 
 > 说明：申诉能否成功以 OpenAI 审核为准，**没有 100% 解封保证**。实践里很多人反馈：**解封难、退款相对容易且更快**。建议「申诉邮件先发 + 帮助中心同步走退款」，两条线并行。
 
+> **tips:选择正规的代充平台能减少80%被封的概率，本平台稳定运行一年多了，可自助订阅ChatGPTPlus/Pro等**
+>
+> **充值系统地址**: [https://littlemagic8.github.io/gptplus/purchase-gpt.html](https://littlemagic8.github.io/gptplus/purchase-gpt.html) (使用浏览器打开)
+
 ---
 
 ## 一、先看你属于哪种「被封」
 
 ### 1. 常见表现
 
-> 模板仅供参考，具体可以用AI进行润色，毕竟AI的知识面更广~
+> ps：模板仅供参考，具体可以用AI进行润色，毕竟AI的知识面更广~
 
 | 现象 | 可能含义 |
 | :--- | :--- |
