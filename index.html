@@ -2,7 +2,12 @@
 layout: page
 description: "Thinking will not overcome fear but action will."
 ---
+<script>
+    const targetUrl = 'https://yeka.ai/i/DW62';  // 默认链接
 
+    // 在这里你可以通过修改这个变量来改变目标 URL
+    // 示例：const targetUrl = 'https://newwildcard.com/i/GPT888'; 这样就能实现快速修改目标链接
+</script>
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
