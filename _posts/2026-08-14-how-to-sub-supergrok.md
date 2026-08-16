@@ -71,6 +71,8 @@ tags:
 > **小提示：** 想用更多 AI 产品（ChatGPT Plus、Claude、Gemini、SuperGrok 等），可以联系微信：**aicygg888** / **aicygg789**。
 >
 > 其它代充 AI 服务见：[https://littlemagic8.github.io/gptplus/](https://littlemagic8.github.io/gptplus/)
+>
+> 同类教程：[ChatGPT Plus](https://littlemagic8.github.io/2026/08/16/how-to-sub-gptplus/) · [Claude Pro](https://littlemagic8.github.io/2026/08/16/how-to-sub-claudepro/) · [X Premium](https://littlemagic8.github.io/2026/08/16/how-to-sub-x/) · [X Premium+](https://littlemagic8.github.io/2026/08/16/how-to-sub-x-premium-plus/)
 
 ---
 
