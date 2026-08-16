@@ -49,13 +49,9 @@ tags:
 
 > **注意：** 帮朋友充时，请用浏览器无痕窗口，只登录要充的那个号。必须和 chatgpt.com 在同一浏览器，否则会话是空的。
 
-![验证卡密后按提示登录](/img/2026-08-16-how-to-sub-gptplus/gpt-login-tip.png)
-
 ![按页面提示复制会话信息](/img/2026-08-16-how-to-sub-gptplus/gpt-token.png)
 
-全选复制，回到充值系统粘贴，点核对账户。
-
-![粘贴会话并核对账户](/img/2026-08-16-how-to-sub-gptplus/gpt-check-account.png)
+全选复制，回到充值系统粘贴，点核对账户
 
 ---
 
@@ -82,7 +78,7 @@ tags:
 
 回到 [chatgpt.com](https://chatgpt.com) 刷新，或退出再登录。左下角 / 设置里应显示 **Plus**。
 
-![充值成功后账号显示 Plus](/img/2026-08-16-how-to-sub-gptplus/gpt-plus-done.png)
+![image-20260816115100243](/img/2026-08-16-how-to-sub-gptplus/gpt-plus-done.png)
 
 > **tips：** 设置 → 订阅 / Billing 里能看到更多账单信息。Pro / Codex 额度另购请微信 **aicygg888**。
 

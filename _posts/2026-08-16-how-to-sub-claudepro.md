@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      一分钟搞定 Claude Pro 充值，Claude Pro【代充值】自助订阅手把手教程
-subtitle:   卡密 + Organization ID，国内支付自助开通 Claude Pro
+subtitle:   卡密 + 用户 ID，国内支付自助开通 Claude Pro
 date:       2026-08-16
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
@@ -13,17 +13,15 @@ tags:
 
 ## 准备工作
 
-1. **Claude 账号**：先登录官网 [https://claude.ai](https://claude.ai)，必须是 **Free**；当前还在 Pro 有效期、或账单有 **overdue 欠款** 的号充不进去
-2. **Organization ID**：在账号设置页复制，**不要给密码**
+1. **Claude 账号**：先登录官网 [https://claude.ai](https://claude.ai)，必须是 **Free**
+2. **用户 ID**：在 [claude.ai/settings/account](https://claude.ai/settings/account) 复制，**不要给密码**，也**不要填团队 ID**
 3. **卡密**：Claude Pro 自助充值系统所需的卡密（需要卡代充联系：**aicygg888** / **aicygg789**）
 
-> **风险说明：** 近期国内不少 Claude 账号被官方风控封禁，和代充无关。封号后订阅一般不退。不能接受这个风险，请不要下单。Max 套餐本站暂不支持。
+> **风险说明：** 近期国内不少 Claude 账号被官方风控封禁，和代充无关。封号后订阅一般不退。不能接受这个风险，请不要下单。
+>
+> 自助系统只充 **Pro**。需要 **Max** 请联系客服：**aicygg888** / **aicygg789**。
 
-登录 [claude.ai](https://claude.ai) 后，免费号顶部会写 **Using limited free plan**，旁边有 **Upgrade**：
-
-![Claude 免费账号首页](/img/2026-08-16-how-to-sub-claudepro/claude-home.png)
-
-下面是买卡密、复制 Organization ID、完成代充的图文步骤。
+下面是获取卡密和用户 ID 的详细图文步骤。
 
 ---
 
@@ -31,47 +29,44 @@ tags:
 
 > **tips：卡密获取地址**：[https://littlemagic8.github.io/gptplus/purchase-claude.html](https://littlemagic8.github.io/gptplus/purchase-claude.html)
 
-打开的是 **Claude Pro 代充页**，点「选购套餐 / 立即购买」：
+打开 **Claude Pro 代充页**，点「选购套餐 / 立即购买」：
 
 ![Claude Pro 专业代充服务页](/img/2026-08-16-how-to-sub-claudepro/pro-recharge.png)
 
-选 **Claude Pro 充值**（约 ¥188/月），不要选「普通账号」：
+选 **Claude Pro 充值**，不要选「普通账号」：
 
 ![选择 Claude Pro 充值套餐](/img/2026-08-16-how-to-sub-claudepro/buy-account.png)
 
-用微信 / 支付宝付款。购买成功后系统自动发货，**包含卡密和充值系统，以每次发货的充值系统为准**。准备好卡密后进入第二步。
+用微信 / 支付宝付款。购买成功后系统自动发货（**包含卡密和充值系统，以每次发货的充值系统为准**）。
+
+准备好卡密和充值系统之后，进入第二步。
 
 ---
 
-## 第二步：准备 Organization ID
+## 第二步：准备用户 ID
 
-先确认已经登录自己的 Claude，并且当前是 **Free plan**：
+1. 登录 [https://claude.ai](https://claude.ai)
+2. 打开：[https://claude.ai/settings/account](https://claude.ai/settings/account)
+3. 复制 **Organization ID / 用户 ID**（一长串 ID，不是邮箱）
 
-![在 Claude 首页或侧栏点 Upgrade / Upgrade Plan](/img/2026-08-16-how-to-sub-claudepro/upgrade-1.png)
+> **注意：** 必须和已经登录的 claude.ai 在同一个浏览器。只要用户 ID，不要密码，不要团队 ID。
 
-然后复制账号 ID（**不要给密码**）：
-
-1. 打开：[https://claude.ai/settings/account](https://claude.ai/settings/account)
-2. 复制 **Organization ID**（一长串 ID，不是邮箱）
-
-> **注意：** 必须和已经登录的 claude.ai 在同一个浏览器。充值系统只要 Organization ID，不要把密码发给任何人。
-
-![复制 Organization ID](/img/2026-08-16-how-to-sub-claudepro/org-id.png)
-
-官方套餐里我们只充 **Pro**（不是 Max）：
-
-![官方套餐选 Pro](/img/2026-08-16-how-to-sub-claudepro/get-pro-plan.png)
+![在 Settings → Account 复制用户 ID](/img/2026-08-16-how-to-sub-claudepro/org-id.png)
 
 ---
 
 ## 第三步：打开充值系统，充值 Claude Pro
 
-1. 打开发货信息里的 **Claude 充值系统**（页面打不开先 **关掉梯子**）
+1. 打开发货信息里的 **Claude 充值系统**（页面打不开先 **关掉梯子**，有疑问联系客服）
 2. 粘贴卡密 → 验证
-3. 粘贴 Organization ID
-4. 点确认并升级，一般 **2～10 分钟** 到账
+3. 点「获取用户 ID」，再把上一步复制的 ID 贴进去
+4. 确认并升级，一般 **2～10 分钟** 到账
 
-![打开 Claude 充值系统，填写卡密和 Organization ID](/img/2026-08-16-how-to-sub-claudepro/recharge.png)
+![打开 Claude 充值系统，先验证卡密](/img/2026-08-16-how-to-sub-claudepro/recharge.png)
+
+![验证卡密后填写用户 ID](/img/2026-08-16-how-to-sub-claudepro/get-userid.png)
+
+> **tips：** 已是会员或已有团队的账号不可充值；还需要删除其他所有付款方式才能充值。否则可能充值成功但会员免费、不负责售后。确认后再操作。
 
 **充之前再确认：**
 
@@ -79,8 +74,9 @@ tags:
 | :--- | :--- |
 | 账号是 Free | 可以 |
 | 还在 Pro / 其它订阅期内 | 等过期变回 Free |
-| Billing 有 overdue 欠款 | 先取消自动续费、结清欠款 |
-| 要 Max | 本站暂不支持，别下单 |
+| 团队账号 / 填了团队 ID | 不行，要用个人用户 ID |
+| Billing 有 overdue 欠款或还绑着卡 | 先取消自动续费、删掉其它付款方式、结清欠款 |
+| 要 Max | 联系客服，不要用 Pro 卡密硬充 |
 
 ---
 
@@ -92,7 +88,7 @@ tags:
 
 ![到账后相当于开通了 Subscribe to Pro 这一档](/img/2026-08-16-how-to-sub-claudepro/upgrade-2.png)
 
-> **tips：** 重新登录后仍是 Free，拿订单号和 Organization ID 找客服 **aicygg888**。
+> **tips：** 重新登录后仍是 Free，拿订单号和用户 ID 找客服 **aicygg888**。
 
 到这里订阅就全部结束了。Claude Pro 适合长文、写代码、多轮深度对话。
 
