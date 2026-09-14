@@ -16,7 +16,7 @@ tags:
 
 ## 前言
 
-最近不少童鞋第一次打开 **Codex 桌面版 / ChatGPT 桌面应用** 时，会卡在这一步：
+最近不少童鞋第一次**安装**（适用安装了Codex桌面版需要手机短信验证的童鞋）了并**打开** **Codex 桌面版 / ChatGPT 桌面应用** 时，会卡在这一步：
 
 > **电话号码是必填项**  
 >
@@ -51,6 +51,7 @@ tags:
 | 项目 | 说明 |
 | :--- | :--- |
 | 可登录的 ChatGPT 账号 | 建议已能正常登录[网页版](https://chatgpt.com/) <br />ChatGPT官网入口：https://chatgpt.com/ |
+| 安装ChatGPT（Codex）桌面版应用 | Codex桌面版下载入口：[https://chatgpt.com/download/](https://chatgpt.com/download/) |
 | 干净一点的网络环境 | 节点尽量稳定、少用脏机房 IP，降低风控概率 |
 | HeroSMS 账户 | 自行注册登录[herosms](https://hero-sms.com/?ref=831330)，注册完成后需充值少量余额（**最低额度就可以，不要充多了！**！）<br />herosms官网入口：[https://hero-sms.com/?ref=831330](https://hero-sms.com/?ref=831330) |
 
@@ -221,6 +222,8 @@ tags:
 ### 2. 完成 Windows 权限设置
 
 若提示「完成 Windows 设置 / 允许应用更改设备」：
+
+> ps:以Windows系统为例，如果提醒**[Windows 安装未完成]**，请确保已经安装ChatGPT（Codex）桌面版应用  Codex桌面版下载入口：[https://chatgpt.com/download/](https://chatgpt.com/download/)
 
 1. 先点下方 **完成设置**；  
 2. 在 UAC 弹窗点 **是**。
