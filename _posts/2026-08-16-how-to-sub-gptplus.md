@@ -61,6 +61,9 @@ tags:
 2. 粘贴卡密 → 验证
 3. 粘贴上一步的会话信息 → 核对账户
 4. 确认并充值，一般 **5～10 分钟** 到账
+5. ![image-20260915203951822](E:\typoraPicture\image-20260915203951822.png)
+
+![image-20260915204858461](E:\typoraPicture\image-20260915204858461.png)
 
 ![打开 ChatGPT 充值系统](/img/2026-08-16-how-to-sub-gptplus/recharge-1.png)
 
