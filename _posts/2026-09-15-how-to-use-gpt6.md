@@ -162,8 +162,6 @@ GPT-6 Astra 可以出现在 ChatGPT、Codex、ChatGPT Work 和 OpenAI API 等不
 
 没有合适银行卡时，也可以先购买与 Apple ID 商店地区一致的 Apple Gift Card，兑换为账户余额后再订阅。余额要覆盖 App Store 显示的完整价格和可能产生的税费。订阅、续费、取消和退款由 Apple 管理。
 
-需要完整图文流程，可阅读：[Apple 礼品卡开通 ChatGPT Plus 教程](https://littlemagic8.github.io/2025/07/31/how-to-use-GPT-plus/)。
-
 ### 方式三：Android 和 Google Play 充值
 
 安卓用户可以在 OpenAI 官方 ChatGPT App 中查看升级入口，并使用 Google Play 账号支持的付款方式购买。若付款后没有显示套餐，先确认 ChatGPT 登录账号是否正确，再尝试恢复购买。
