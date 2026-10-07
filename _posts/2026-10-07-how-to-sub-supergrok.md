@@ -13,9 +13,9 @@ tags:
     - SuperGrok代充
 ---
 
-本文给大家介绍了国内如何订阅SuperGrok，并汇总了一下supergrok新特性、新功能，还详细介绍一下图片生成的模板实例展示
-
 **国庆假期回来，Grok 又双叒升级了！这些更新值得你立刻上手 SuperGrok**
+
+本文给大家介绍了国内如何订阅SuperGrok，并汇总了一下supergrok新特性、新功能，还详细介绍一下图片生成的模板实例展示
 
 国庆假期结束，工作节奏重新启动。如果你还在用免费版 Grok，或者还在观望，现在正是升级的好时机。最近几个月 xAI（SpaceXAI）更新密集，尤其是 **Grok 4.7** 的发布，以及 SuperGrok 套餐的持续完善，让它在编程、知识工作、图像视频生成和 Agent 协作上变得更强、更快、也更划算。
 
@@ -61,7 +61,7 @@ tags:
 
 官方直接订阅需要国外信用卡（Stripe 支付），对国内用户不够友好。推荐使用**自助代充**方式：无需账密、无需科学上网付款，全程几分钟即可完成开通。
 
-> 完整图文教程（本节截图来源）：《一分钟搞定 SuperGrok 充值，SuperGrok【代充值】自助订阅手把手教程》
+> 完整图文教程：《一分钟搞定 SuperGrok 充值，SuperGrok【代充值】自助订阅手把手教程》
 > <https://littlemagic8.github.io/2026/08/14/how-to-sub-supergrok/>
 
 #### 准备工作
@@ -133,7 +133,11 @@ tags:
 
 将照片变成你选择的风格——Q版、漫画、3D、70年代街头、80年代动漫，或者温暖的周日早晨电影风格
 
+**修改前：**
+
 ![原图](/img/2026-10-07-how-to-sub-supergrok/restyle-input.jpg)
+
+**修改后：**
 
 ![Reimagine](/img/2026-10-07-how-to-sub-supergrok/restyle-output.jpg)
 
@@ -143,7 +147,11 @@ tags:
 
 **实例3：编辑产品海报**
 
+**修改前：**
+
 ![原图](/img/2026-10-07-how-to-sub-supergrok/editorial-input.jpg)
+
+**修改后：**
 
 ![Editorial Product Poster](/img/2026-10-07-how-to-sub-supergrok/editorial-output.jpg)
 
@@ -159,13 +167,19 @@ tags:
 
 ![Smart Resize](/img/2026-10-07-how-to-sub-supergrok/smart-resize-cover.jpg)
 
+**修改前：**
+
 ![原图](/img/2026-10-07-how-to-sub-supergrok/srz-78-input.jpg)
+
+**修改后：**
 
 ![Smart Resize](/img/2026-10-07-how-to-sub-supergrok/srz-78-output.jpg)
 
-![原图](/img/2026-10-07-how-to-sub-supergrok/adr-12-input.jpg)![Smart Resize](/img/2026-10-07-how-to-sub-supergrok/adr-12-output-16x9.jpg)
+**修改前：**
 
 ![原图](/img/2026-10-07-how-to-sub-supergrok/adr-22-input.jpg)
+
+**修改后：**
 
 ![Smart Resize](/img/2026-10-07-how-to-sub-supergrok/adr-22-output-1x1.jpg)
 
@@ -179,7 +193,11 @@ tags:
 
 **实例8：UGC-照片**
 
+**修改前：**
+
 ![原图](/img/2026-10-07-how-to-sub-supergrok/ugc-input.jpg)
+
+**修改后：**
 
 ![UGC Photos](/img/2026-10-07-how-to-sub-supergrok/ugc-output.jpg)
 
@@ -193,11 +211,11 @@ tags:
 
 将你的照片、宠物照片或吉祥物照片变成配套的 Twitch/Discord 表情包——选择一个表情包和一种艺术风格；每个表情都是同一个主题，聊天大小可读。
 
-**原图**
+**修改前：**
 
 ![img](/img/2026-10-07-how-to-sub-supergrok/emoji-input.jpg)
 
-**表情包**
+**修改后：**
 
 ![Emoji Creator](/img/2026-10-07-how-to-sub-supergrok/emoji-output.jpg)
 
