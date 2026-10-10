@@ -21,9 +21,9 @@ tags:
 
 1. **Intelligent UI 是什么？** 看openai怎么说的
 
-2. **Intelligent UI 怎么用、怎么样？** 四种官方玩法 + 实测体验；
+2. **Intelligent UI 怎么用、怎么样？** 四种官方玩法 + 实测体验
 
-3. **如何订阅 GPT Plus并使用**Intelligent UI ？** 国内支付宝/微信代充自助教程（图文）；
+3. **如何订阅 GPT Plus并使用**Intelligent UI ？ **国内支付宝/微信代充自助教程（图文）**
 
 4. **如何使用 GPT-6？** 模型选择、档位区别与上手技巧
 
