@@ -68,19 +68,17 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 **第 5 步**：填写名、姓和密码，等 Cloudflare 人机验证通过后，点击【完成注册】：
 
-![填写资料完成注册](/img/2026-10-14-how-to-use-superxai/image-20261014194657785.png)
-
 ![点击完成注册](/img/2026-10-14-how-to-use-superxai/image-20261014194757574.png)
 
-**第 6 步**：确认出生年份（之后将无法更改），点击【保存】：
-
-![确认出生年份](/img/2026-10-14-how-to-use-superxai/image-20261014203514299.png)
-
-**第 7 步**：等待"正在完成登录"完成设备验证，即可进入 grok.com 主界面，注册完成：
+**第 6 步**：等待"正在完成登录"完成设备验证，即可进入 grok.com 主界面，注册完成，需要订阅，可以直接点击右小角即可：
 
 ![正在完成登录](/img/2026-10-14-how-to-use-superxai/image-20261014194959776.png)
 
 ![grok.com 主界面](/img/2026-10-14-how-to-use-superxai/image-20261014195050952.png)
+
+**第 7 步**：开始第一次对话时，需要确认出生年份（之后将无法更改，记得别写未成年，以防后续麻烦），点击【保存】：
+
+![确认出生年份](/img/2026-10-14-how-to-use-superxai/image-20261014203514299.png)
 
 ### 2. X Subscription能在哪些网站/产品使用？
 
@@ -99,23 +97,25 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 进入 grok.com 的"设置 → 账户"：点 **Grok dashboard** 的【Open】进入统一仪表盘（关联 Cursor、Grok Bot 用这一步），点 **X 账户** 的【连接】绑定个人 X 号（X Premium 权益靠这一步点亮）：
 
-![设置中关联 Cursor/Grok Bot 与 X 账号](/img/2026-10-14-how-to-use-superxai/image-20261014202822132.png)
-
-演示一下如何关联grok bot并使用grok bot
-
-**第 1 步：下载应用**
-
-登录 [grok.com/dashboard](https://grok.com/dashboard)（Grok 统一仪表盘），可以看到 API、Grok Bot、Cursor、Grok 四个入口，从 Grok Bot 页面下载桌面端（支持 macOS Apple silicon/Intel、Windows x64/Arm64、Linux x64/Arm64）；iOS 用户在 App Store 搜索"Grok Bot"（需 iOS 18+）。
-
-![grok.com/dashboard 统一仪表盘的四个入口](/img/2026-10-14-how-to-use-superxai/image-20261014203311180.png)
-
-**第 2 步：登录**
+![grok.com/dashboard 管理入口](/img/2026-10-14-how-to-use-superxai/image-20261014204053519.png)
 
 用 grok 账号登录——在 Cursor 登录页选择 Grok 图标，确认账号后点击【登录】，系统会自动创建第一个名为"Grok Bot"的 Bot：
 
 ![Cursor 登录页选择 Grok 图标](/img/2026-10-14-how-to-use-superxai/image-20261014203132975.png)
 
 ![确认登录 Cursor](/img/2026-10-14-how-to-use-superxai/image-20261014201422040.png)
+
+当前Grok关联 API 账号展示
+
+![grok.com/dashboard 统一仪表盘的四个入口](/img/2026-10-14-how-to-use-superxai/image-20261014203311180.png)
+
+演示一下如何关联grok bot并使用grok bot
+
+**第 1 步：下载应用**
+
+登录 [grok.com/dashboard](https://grok.com/dashboard)（Grok 统一仪表盘），可以看到 API、Grok Bot、Cursor、Grok 四个入口，从 Grok Bot 页面下载桌面端（支持 macOS Apple silicon/Intel、Windows x64/Arm64、Linux x64/Arm64）；iOS 用户在 App Store 搜索"Grok Bot"（需 iOS 18+）
+
+**第 2 步：登录grok bot**
 
 **第 3 步：创建你的专属 Bot**
 
@@ -149,9 +149,7 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 ![订阅成功提示](/img/2026-10-14-how-to-use-superxai/image-20261014201053153.png)
 
-5. 之后在 [grok.com/dashboard](https://grok.com/dashboard) 查看用量、账单和加购：
-
-![grok.com/dashboard 管理入口](/img/2026-10-14-how-to-use-superxai/image-20261014204053519.png)
+5. 之后在 [grok.com/dashboard](https://grok.com/dashboard) 查看用量、账单
 
 6. X Premium 权益需在"设置 → 账户 → X 账户"里**连接个人 X 账号**后才会点亮（操作见上文使用当前Grok关联 Cursor 与 X 账号展示图部分）。
 
