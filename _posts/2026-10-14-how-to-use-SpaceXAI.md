@@ -26,6 +26,8 @@ tags:
 
 ## 一、Grok + Cursor + Grok Bot 四合一的产品是什么？
 
+![Pricing](/img/2026-10-14-how-to-use-superxai/x.png)
+
 X Subscription 把四条产品线合成一个订阅体系：
 
 - **Grok**：对话、语音、Imagine 图像生成、视频生成、Build 应用构建等核心能力；
