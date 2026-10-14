@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Grok × Cursor × Grok Bot 四合一X Subscription是什么？在哪里注册？怎么使用？如何订阅会员？额度有多少？不同会员等级权益一览
+title:      X + Grok + Cursor + Grok Bot 四合一X Subscription是什么？在哪里注册？怎么使用？如何订阅X Subscription会员？额度有多少？不同会员等级权益有哪些？
 subtitle:   X Subscription 四合一保姆级教程：产品介绍、注册与跨站使用、订阅充值、额度机制与 Free/Plus/Premium/Super/Ultra 权益对比
 date:       2026-10-14
 author:     aicygg888
@@ -20,11 +20,11 @@ tags:
 
 一句话总结这次发布：
 
-> **原来分开买 SuperGrok + Cursor Pro + X Premium+ 合计约 $90/月，现在 Premium 档 $30 全包含，编程用量还至少是同档 Cursor 方案的 2 倍——对同时要 AI 聊天、任务自动化和写代码的用户，这是近期性价比最高的一次整合。**
+> **原来分开买 SuperGrok + Cursor Pro + X Premium+ 合计约 $90/月，现在 Premium 档 $30 全包含，编程用量还至少是同档 Cursor 方案的 2 倍——对同时要 AI 聊天、任务自动化和写代码的用户，这是近期性价比最高的一次整合。** 还得是马斯克！！
 
-本文围绕大家最关心的 5 个问题展开：四合一产品是什么？在哪里注册、怎么用、能在哪些网站用？如何订阅会员？哪些用户能用、额度有多少？不同等级权益有哪些？
+本文围绕童鞋们比较关心的 5 个问题展开：四合一产品分别是什么？在哪里注册、怎么用、能在哪些网站用？如何订阅会员？哪些用户能用、额度有多少？不同等级权益有哪些？
 
-## 一、Grok × Cursor × Grok Bot 四合一的产品是什么？
+## 一、Grok + Cursor + Grok Bot 四合一的产品是什么？
 
 X Subscription 把四条产品线合成一个订阅体系：
 
@@ -44,11 +44,11 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 ### 1. 在哪里注册？
 
-- **新用户（推荐）**：直接去 https://x.ai/pricing 点击free标签下的【Get started】https://grok.com/?referrer=pricing 注册 **grok账户**——X Subscription 统一走 grok 账户体系，Grok Bot、Cursor、X无需单独注册；
+- **新用户（推荐）**：点击 https://x.ai/pricing 点击free标签页下的【Get started】https://grok.com/?referrer=pricing 注册 **grok账户**——本次演示的X Subscription 统一走 grok 账户体系，Grok Bot、Cursor、X无需单独注册；
 - **老用户合并**：已在 Grok、SuperGrok 或 Cursor 有账号的，去 [cursor.com/unify](https://cursor.com/unify) 或 accounts.x.ai/unify 完成账户合并；有多个 Cursor 账号的需要指定一个主账号；
 - **团队用户**：沿用 Cursor 现有 SSO 配置。
 
-#### 注册实操（手把手版）
+#### 详细注册流程如下
 
 **第 1 步**：打开 [x.ai/pricing](https://x.ai/pricing)，随便点一个档位下的按钮（比如 Free 的【Get started】），先进注册流程：
 
@@ -82,7 +82,26 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 ![grok.com 主界面](/img/2026-10-14-how-to-use-superxai/image-20261014195050952.png)
 
-### 2. 怎么使用（以 Grok Bot 为例，6 步上手）？
+### 2. X Subscription能在哪些网站/产品使用？
+
+| 入口                           | 能干什么                                                     |
+| ------------------------------ | ------------------------------------------------------------ |
+| **grok.com**                   | Grok 聊天、Imagine 生图、视频、Build；[grok.com/dashboard](https://grok.com/dashboard) 管理账单与用量 |
+| **x.com**                      | X 上的 Grok 标签聊天；使用 X Premium 权益（需绑定个人 X 账号后生效） |
+| **cursor.com / Cursor 编辑器** | Grok 模型对话与编程、云端 Agent、Bugbot、Origin；下载 Grok Bot 客户端 |
+| **Grok Bot 桌面/iOS 应用**     | 云端计算机代你操作任意有网页界面的网站（插件优先）           |
+
+> tips：原来独立的像grok.com等会员是不会有四合一X Subscription的效果，必须到这个入口https://x.ai/pricing 注册的才行
+
+### 3. X Subscription当前Grok怎么关联其它服务
+
+当前Grok关联 Cursor 与 X 账号展示
+
+进入 grok.com 的"设置 → 账户"：点 **Grok dashboard** 的【Open】进入统一仪表盘（关联 Cursor、Grok Bot 用这一步），点 **X 账户** 的【连接】绑定个人 X 号（X Premium 权益靠这一步点亮）：
+
+![设置中关联 Cursor/Grok Bot 与 X 账号](/img/2026-10-14-how-to-use-superxai/image-20261014202822132.png)
+
+演示一下如何关联grok bot并使用grok bot
 
 **第 1 步：下载应用**
 
@@ -108,26 +127,9 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 **第 5 步：沉淀复用**
 
-把稳定的流程保存为**技能**或**例程**（定时执行）；多个 Bot 可并行、互发消息、群组协作；编程任务直接交接给 Cursor 云端 Agent。
+把稳定的流程保存为**技能**或**例程**（定时执行）；多个 Bot 可并行、互发消息、群组协作；编程任务直接交接给 Cursor 云端 Agent
 
-**第 6 步：关联 Cursor 与 X 账号**
-
-进入 grok.com 的"设置 → 账户"：点 **Grok dashboard** 的【Open】进入统一仪表盘（关联 Cursor、Grok Bot 用这一步），点 **X 账户** 的【连接】绑定个人 X 号（X Premium 权益靠这一步点亮）：
-
-![设置中关联 Cursor/Grok Bot 与 X 账号](/img/2026-10-14-how-to-use-superxai/image-20261014202822132.png)
-
-### 3. 能在哪些网站/产品使用？
-
-| 入口 | 能干什么 |
-| --- | --- |
-| **grok.com** | Grok 聊天、Imagine 生图、视频、Build；[grok.com/dashboard](https://grok.com/dashboard) 管理账单与用量 |
-| **x.com** | X 上的 Grok 标签聊天；使用 X Premium 权益（需绑定个人 X 账号后生效） |
-| **cursor.com / Cursor 编辑器** | Grok 模型对话与编程、云端 Agent、Bugbot、Origin；下载 Grok Bot 客户端 |
-| **Grok Bot 桌面/iOS 应用** | 云端计算机代你操作任意有网页界面的网站（插件优先） |
-
-注意：不是"所有网站都内置 X Subscription 登录"，而是**账户统一到 grok 账户体系**（一个 grok 账号打通 Grok、Grok Bot、Cursor 和 X），其他网站的操作由 Bot 的云端浏览器/插件代为完成。
-
-## 三、如何订阅会员？
+## 三、X Subscription如何订阅会员？
 
 ### 官方订阅流程
 
@@ -151,7 +153,7 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 ![grok.com/dashboard 管理入口](/img/2026-10-14-how-to-use-superxai/image-20261014204053519.png)
 
-6. X Premium 权益需在"设置 → 账户 → X 账户"里**连接个人 X 账号**后才会点亮（操作见上文使用部分第 6 步截图）。
+6. X Premium 权益需在"设置 → 账户 → X 账户"里**连接个人 X 账号**后才会点亮（操作见上文使用当前Grok关联 Cursor 与 X 账号展示图部分）。
 
 > **tips：老方案用户切换前必读**——从 SuperGrok、Cursor Pro 等旧方案切换到 X Subscription 是 **opt-in 且永久**的，官方明确"切换后不可撤销"。切换时旧方案剩余天数按比例折成 credit 退还，新计费周期从切换当天开始。通过 App Store / Google Play 订阅的 Cursor 旧方案，需手动去苹果/谷歌后台取消，否则会继续扣费。
 
@@ -164,7 +166,7 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 SuperGrok 卡密自助充值教程可参考：[一分钟三步搞定SuperGrok订阅充值](https://littlemagic8.github.io/2026/08/14/how-to-sub-supergrok/)，X Subscription 开放代充后会同步更新入口。
 
-## 四、哪些用户能使用？额度有多少？
+## 四、X Subscription 不同会员额度有多少？
 
 ### 谁能用？
 
@@ -201,7 +203,7 @@ X Subscription 的用量是**一个共享的每周池**，规则如下：
 
 官方还承诺：Premium 及以上档的 Grok Bot 用量，至少是旧方案的 2 倍；Cursor 中的 Grok 模型用量同样至少翻倍。
 
-## 五、不同会员等级对应的权益有哪些？
+## 五、X Subscription 不同会员等级对应的权益有哪些？
 
 | 等级 | 月费 | 年付（折合月价） | 相对用量 | 核心权益 |
 | --- | --- | --- | --- | --- |
@@ -226,7 +228,7 @@ X 平台权益部分（验证勾选、X Money APY 与返现、免广告滚动、
 - **团队版**：按席位计费，价格与个人档一致，官方称编程用量比旧 Cursor Teams 多 3 倍，支持不同席位混搭、SSO、SOC 2；
 - 价格为美元/月，未含税，以官网实时显示为准。
 
-## 六、使用建议与注意事项
+## 六、X Subscription 使用建议与注意事项
 
 - **分工推荐**：复杂编程与反复修改交给 Cursor；可明确描述结果、跨工具多步骤、可后台运行的工作交给 Grok Bot；两者之间直接交接，不用复制粘贴；
 - **额度分配**：轻度用户 Plus 够用；要玩 Grok Bot 或跑云端 Agent，直接从 Premium 起步；重度编程建议 Super 以上；
