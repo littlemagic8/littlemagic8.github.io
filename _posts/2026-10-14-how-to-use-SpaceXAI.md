@@ -133,40 +133,38 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 ### 官方订阅流程
 
-1. 打开 **[x.ai/pricing](https://x.ai/pricing)**（或 cursor.com/pricing），对比 Individual / Teams / API 各档位权益与价格：
+第一步：打开 **[x.ai/pricing](https://x.ai/pricing)**（或 cursor.com/pricing），对比 Individual / Teams / API 各档位权益与价格：
 
 ![x.ai/pricing 定价页](/img/2026-10-14-how-to-use-superxai/image-20261014191733380.png)
 
-2. 登录 grok 账户，在升级弹窗里选择 Plus / Premium / Super / Ultra 档位，点击【领取优惠】：
+第二步：登录 grok 账户，在升级弹窗里选择 Plus / Premium / Super / Ultra 档位，点击【领取优惠】：
 
 ![升级弹窗选择档位领取优惠](/img/2026-10-14-how-to-use-superxai/image-20261014195134379.png)
 
-3. 填写账单信息，绑定境外信用卡（或 Apple Pay），核对金额后点击【订阅并付款】：
+第三步：填写账单信息，绑定境外信用卡（或 Apple Pay），核对金额后点击【订阅并付款】：
 
 ![填写账单信息并付款](/img/2026-10-14-how-to-use-superxai/image-20261014201108064.png)
 
-4. 支付成功后会看到"Your Ultra subscription is now active"提示，点击 Continue 进入统一 dashboard：
+第四步：支付成功后会看到"Your Ultra subscription is now active"提示，点击 Continue 进入统一 dashboard：
 
 ![订阅成功提示](/img/2026-10-14-how-to-use-superxai/image-20261014201053153.png)
 
-5. 之后在 [grok.com/dashboard](https://grok.com/dashboard) 查看用量、账单
+第五步：之后在 [grok.com/dashboard](https://grok.com/dashboard) 查看用量、账单
 
-6. X Premium 权益需在"设置 → 账户 → X 账户"里**连接个人 X 账号**后才会点亮（操作见上文使用当前Grok关联 Cursor 与 X 账号展示图部分）。
+> tips: X Premium 权益需在"设置 → 账户 → X 账户"里**连接个人 X 账号**后才会点亮（操作见上文使用当前Grok关联 Cursor 与 X 账号展示图部分）。
 
 > **tips：老方案用户切换前必读**——从 SuperGrok、Cursor Pro 等旧方案切换到 X Subscription 是 **opt-in 且永久**的，官方明确"切换后不可撤销"。切换时旧方案剩余天数按比例折成 credit 退还，新计费周期从切换当天开始。通过 App Store / Google Play 订阅的 Cursor 旧方案，需手动去苹果/谷歌后台取消，否则会继续扣费。
 
 ### 国内用户没有境外信用卡怎么办？
 
-两条路：
-
 - **自助充值平台**：[https://littlemagic8.github.io/gptplus/](https://littlemagic8.github.io/gptplus/)（支付宝/微信付款，网站下方有购买卡密和使用教程）；
 - **人工代充**：微信联系 **aicygg888**（备注：代充）。
 
-SuperGrok 卡密自助充值教程可参考：[一分钟三步搞定SuperGrok订阅充值](https://littlemagic8.github.io/2026/08/14/how-to-sub-supergrok/)，X Subscription 开放代充后会同步更新入口。
+独立SuperGrok 卡密自助充值教程可参考：[一分钟三步搞定SuperGrok订阅充值](https://littlemagic8.github.io/2026/08/14/how-to-sub-supergrok/)，X Subscription 开放代充后会同步更新入口（**目前需要联系客服 aicygg888，给卡代充**）。
 
 ## 四、X Subscription 不同会员额度有多少？
 
-### 谁能用？
+### X Subscription不同会员能用哪些服务？
 
 | 你的身份 | 能用到什么 |
 | --- | --- |
@@ -176,7 +174,7 @@ SuperGrok 卡密自助充值教程可参考：[一分钟三步搞定SuperGrok订
 | 团队席位 | Premium/Super/Ultra 按席位订阅，每个席位有独立用量池，团队共享充值余额；Plus 档不对团队开放 |
 | 企业用户 | 目前多需候补或联系商务 |
 
-### 额度怎么算？（重点）
+### X Subscription额度怎么算？
 
 X Subscription 的用量是**一个共享的每周池**，规则如下：
 
@@ -187,7 +185,7 @@ X Subscription 的用量是**一个共享的每周池**，规则如下：
 5. **第三方模型单独计费**：在 Cursor 里用 Claude、GPT 等第三方模型，按 API 列表价从 Additional Usage 里扣，**不占用也不包含在订阅池内**；
 6. **Auto Top-up**：可开启自动加购并设置消费上限，避免超支。
 
-### 各档位相对额度倍数
+### X Subscription各档位相对额度倍数
 
 以 Plus 档为 1× 基准：
 
