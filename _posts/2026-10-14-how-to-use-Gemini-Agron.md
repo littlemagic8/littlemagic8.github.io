@@ -197,8 +197,6 @@ print(response.text)
 
 #### 实例 1：大规模代码库重构与维护（软件工程）
 
-![Google 官方真实案例：Gemini 4 Argon x Chromium 大规模代码库维护](/img/2026-10-14-how-to-use-Gemini-Agron/chromium-code-refactor.webp)
-
 Argon 的招牌场景。给它的任务描述可以是：
 
 > 把这个 C++ 视频解码模块迁移成安全的 Rust 实现，要求输出与原实现逐帧一致，跑完所有一致性测试后再提交 PR。
@@ -219,15 +217,11 @@ Argon 的招牌场景。给它的任务描述可以是：
 
 #### 实例 4：安全漏洞自主修复（网络防御）
 
-![Google 官方真实案例：Gemini 4 Argon x Wiz 网络防御](/img/2026-10-14-how-to-use-Gemini-Agron/wiz-cyber-defense.webp)
-
 > 扫描本仓库的依赖与核心模块，找出可利用漏洞，逐一验证后生成补丁，标注每个漏洞的 CWE 编号和验证证据。
 
 **官方真实案例**：Wiz 的 "Scan for Good" 公益安全项目用 Argon 保护关键基础设施：Argon 将多个复杂漏洞链式组合分析，发现并协助快速修复了一个**公开文件下载绕过漏洞**——该漏洞会暴露主密钥、可直接拿到管理员权限，涉及数十万条患者隐私记录，提前保护了医疗关键基础设施；它还帮一家联邦机构主动发现并修复了可能泄露敏感政府数据的风险缺口。Argon 在 CWE-Bench v1 上并列第一（68%）。注意：普通用户使用的是带防护的版本，无防护完整版仅向 Fairwind Program 的可信防御者开放（正在扩展至数百个合作伙伴）。
 
 #### 实例 5：长视频理解（多模态分析）
-
-![Google 官方真实案例：Gemini 4 Argon x Robotics 机器人看视频学会扔沙包](/img/2026-10-14-how-to-use-Gemini-Agron/robot-cornhole.webp)
 
 > 上传 2 小时的会议录像，要求：按议题生成带时间戳的纪要；提取所有图表数据并复核口径；标注每位发言人的承诺事项和 deadline。
 
