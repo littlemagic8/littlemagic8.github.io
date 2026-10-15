@@ -46,15 +46,15 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 > ps: 购买卡密官网传送门：https://littlemagic8.github.io/gptplus/purchase-grok.html（浏览器打开）
 
-![image-20261015231803283](E:\typoraPicture\image-20261015231803283.png)
+![image-20261015231803283](/img/2026-10-15-how-to-use-SpaceSI/image-20261015231803283.png)
 
 ### **第二步：**保存第一步购买的卡密，并点击商品说明里面的【充值网站】
 
-![image-20261015223942128](E:\typoraPicture\image-20261015223942128.png)
+![image-20261015223942128](/img/2026-10-15-how-to-use-SpaceSI/image-20261015223942128.png)
 
 ### **第三步：**输入第一步购买的卡密，并点击【验证并继续】
 
-![image-20261015224136431](E:\typoraPicture\image-20261015224136431.png)
+![image-20261015224136431](/img/2026-10-15-how-to-use-SpaceSI/image-20261015224136431.png)
 
 ### 第四步：获取Grok UserId 并点击【确认并升级】
 
@@ -62,19 +62,19 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 打开 [grok.com/api/auth/session](https://grok.com/api/auth/session)，复制 userId 或整段内容粘贴即可
 
-![image-20261015224623453](E:\typoraPicture\image-20261015224623453.png)
+![image-20261015224623453](/img/2026-10-15-how-to-use-SpaceSI/image-20261015224623453.png)
 
-![image-20261015224507111](E:\typoraPicture\image-20261015224507111.png)
+![image-20261015224507111](/img/2026-10-15-how-to-use-SpaceSI/image-20261015224507111.png)
 
 填充上图获取的Grok User ID
 
-![image-20261015225200693](E:\typoraPicture\image-20261015225200693.png)
+![image-20261015225200693](/img/2026-10-15-how-to-use-SpaceSI/image-20261015225200693.png)
 
 ### 第五步：检查Grok Id无误并点击【立即激活SuperGrok】，并等待充值完成（大概几分钟）
 
-![image-20261015225426562](E:\typoraPicture\image-20261015225426562.png)
+![image-20261015225426562](/img/2026-10-15-how-to-use-SpaceSI/image-20261015225426562.png)
 
-![image-20261015225803831](E:\typoraPicture\image-20261015225803831.png)
+![image-20261015225803831](/img/2026-10-15-how-to-use-SpaceSI/image-20261015225803831.png)
 
 ### 第六步：上号检查确认，是否三月SuperGrok成功到账 
 
@@ -83,22 +83,22 @@ X Subscription 把四条产品线合成一个订阅体系：
 
 > ps: 需要同意的服务条款:https://x.ai/legal/grok-bot-terms (感兴趣的童鞋可以看看需要授权哪些权限给Grok Bot)
 
-![image-20261015225923476](E:\typoraPicture\image-20261015225923476.png)
+![image-20261015225923476](/img/2026-10-15-how-to-use-SpaceSI/image-20261015225923476.png)
 
 这里看到，我的SuperGrok已经充值到账了
 
-![image-20261015230116861](E:\typoraPicture\image-20261015230116861.png)
+![image-20261015230116861](/img/2026-10-15-how-to-use-SpaceSI/image-20261015230116861.png)
 
 ### 第七步：使用新版  X Sub四合一产品
 
 点击Subscription栏的【管理】按钮，可以看到新版的 X Sub四合一入口
-![image-20261015230305988](E:\typoraPicture\image-20261015230305988.png)
+![image-20261015230305988](/img/2026-10-15-how-to-use-SpaceSI/image-20261015230305988.png)
 
 Grok、X、Cursor共享额度，具体详细参考官网说明：https://docs.x.ai/x-subscription/overview
 
-![image-20261015230501926](E:\typoraPicture\image-20261015230501926.png)
+![image-20261015230501926](/img/2026-10-15-how-to-use-SpaceSI/image-20261015230501926.png)
 
-![image-20261015233517226](E:\typoraPicture\image-20261015233517226.png)
+![image-20261015233517226](/img/2026-10-15-how-to-use-SpaceSI/image-20261015233517226.png)
 
 ## 总结
 
