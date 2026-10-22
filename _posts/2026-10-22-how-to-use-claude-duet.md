@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Claude Duet怎么用？哪些用户能使用？Duet怎么样？Claude Pro / Max 订阅和候补Duet手把手教程
+title:      Claude Duet怎么用？哪些用户能使用？Duet怎么样？Claude Pro / Max 代充订阅和候补Duet手把手教程
 subtitle:   Claude Duet 研究预览保姆级说明：主动干活的智能体、美国 Pro/Max 候补、额度规则，以及国内开通 Claude Pro 的代充步骤
 date:       2026-10-22
 author:     aicygg888
