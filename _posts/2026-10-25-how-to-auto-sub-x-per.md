@@ -67,23 +67,19 @@ Premium 及以上还有一件事：Grok Bot 不绑死在一个模型上。官方
 
 浏览器打开 https://littlemagic8.github.io/gptplus/purchase-grok.html ，选 Grok Premium 月卡，用支付宝或微信付款。
 
-付完打开订单。商品名称应是 **Grok Premium 月卡 | 新版多合一【质保订阅】**，卡密状态是已发货。点复制卡密。订单号、流水号和卡密本身不要外传，下图已经打码。
+付完打开订单。商品名称应是 **Grok Premium 月卡 | 新版多合一【质保订阅】**，卡密状态是已发货。点复制卡密即可
 
 ![订单里复制 Grok Premium 月卡卡密](/img/2026-10-25-how-to-auto-sub-x-per/01-order.png)
 
 ### 第二步：粘贴卡密，点击【验证卡密】
 
-进入充值系统，顶部是「AI 会员一站充值」。卡密能自动识别 ChatGPT、Claude、Grok。
-
-把卡密贴进 **CDK 卡密**，点蓝色的【验证卡密】。页面注明：校验不会占用卡密，确认订单后才进入处理队列；短时间多次校验会被临时限制。
-
-这次打开时，当前排队是 0 单，平均到账 1.2 分钟。页面也写了正常 30 分钟内到账，高峰会慢一些。以你提交时页面上的数字为准。
+进入充值系统
 
 ![输入卡密并点击验证卡密](/img/2026-10-25-how-to-auto-sub-x-per/02-verify-card.png)
 
 ### 第三步：复制 grok.com 的 sso
 
-充值页蓝框里的说明写的是登录 **grok.ai**。这次实际取 cookie 的页面是 **grok.com**。会员登录在哪个域名，就从那个域名的 Cookies 里复制 sso。下面按 grok.com 演示。
+获取grok.com 的 sso详细步骤
 
 1. 打开并登录 [grok.com](https://grok.com/)，确认右上角是要充值的账号。
 2. 按 **F12** 打开开发者工具，切到 **Application**。
@@ -96,22 +92,21 @@ Value 很长，要整段复制。图里的值已经涂掉。
 
 ### 第四步：填上 sso，点击【下一步】
 
-回到充值页，把 sso 贴进 **Grok sso Cookie**。出现绿色的「已识别：Grok 账号（提交后核验）」后，点【下一步】。
-
-系统会在备款前核验这个账号现有的会员，以及账号上的实时优惠。已经是付费会员的，先看这一步给出的提示，再决定要不要继续。
+回到充值页，把 sso 贴进 **Grok sso Cookie**。出现绿色的「已识别：Grok 账号（提交后核验）」后，点【下一步】
 
 ![填入 sso 并点击下一步](/img/2026-10-25-how-to-auto-sub-x-per/04-paste-sso.png)
 
-后面如果还有确认信息的一页，核对商品是 Premium 月卡、账号是你刚登录的那个，再提交。提交失败不消耗卡密。提示登录态失效时，回到 grok.com 重新复制一次 sso，用原卡密再交一次。
-
 ### 第五步：确认 Premium 已经到账
 
-处理完成后，打开账号菜单。到账时能看到两行：
+充值页显示处理完成后，用取 sso 的同一个账号查看。到账看的是下面两行字，不是头像和邮箱。
 
-- **Subscription Premium**
-- **Grok dashboard** 下面写着 Your Grok and Cursor accounts are linked
+1. 打开 [grok.com](https://grok.com/)，确认登录的仍是刚才充值的那个账号。
+2. 点击头像，打开标题为 **账户** 的面板。
+3. 找到 **Subscription**。这一行应是 **Premium**，右边有【管理】。
+4. 往下看 **Grok dashboard**。下面应写着 **Your Grok and Cursor accounts are linked**，表示 Grok 和 Cursor 已经连上。
+5. 两行都在，Premium 月卡就是到账了。
 
-邮箱和头像已打码。还显示 Free，或 Grok 和 Cursor 还没关联，先等几分钟再刷新。超过页面写的时间仍没有变化，把订单号发给 aicygg888，不要把 sso 发出来。
+如果充值之后，Subscription 仍是 Free，先等几分钟，刷新页面后再打开一次「账户」。超过充值页写的到账时间仍没有变化，把订单号发给客服：aicygg888。
 
 ![到账后显示 Subscription Premium，并且 Grok 与 Cursor 已关联](/img/2026-10-25-how-to-auto-sub-x-per/05-premium.png)
 
