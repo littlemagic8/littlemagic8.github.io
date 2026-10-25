@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Gemini Pro怎么订阅？Google AI Pro是什么、有哪些用处？银行卡开通和取消订阅图文教程
-subtitle:   Google AI Pro（Gemini Pro）保姆级图文教程：权益对比、绑卡订阅、取消自动续订
+subtitle:   Google AI Pro（Gemini Pro）保姆级图文教程：权益对比、绑卡订阅、取消自动续订，以及 Ultra 在 Antigravity 里使用 Claude
 date:       2026-10-20
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
@@ -49,9 +49,9 @@ Gemini 是 Google 的 AI 助手。大家口头说的 **Gemini Pro**，现在挂�
 | --- | --- | --- | --- | --- |
 | Google AI Plus | US$7.99 | 200 GB | 未订阅时的 2 倍 | Flash 思考模型 |
 | **Google AI Pro** | **US$19.99** | **5 TB** | **未订阅时的 4 倍** | **Pro 模型、Deep Research、视频生成** |
-| Google AI Ultra | US$99.99 起 | 20 TB | Pro 的 5 倍 | 更高的 Pro 权限、Deep Think |
+| Google AI Ultra | US$99.99 起 | 20 TB | Pro 的 5 倍 | 更高的 Pro 权限、Deep Think；Antigravity 里还有 Claude Opus 5.5、Sonnet 5.5 |
 
-日常要用 Pro 模型、深度研究、视频生成和 5 TB 空间，选中间的 **Google AI Pro**。只想用更快的 Flash，Plus 就够。Ultra 是用量和存储再往上加一档。
+日常要用 Pro 模型、深度研究、视频生成和 5 TB 空间，选中间的 **Google AI Pro**。只想用更快的 Flash，Plus 就够。Ultra 是用量和存储再往上加一档，并且可以在 Antigravity 里直接选 Claude，见第五节。
 
 ## **二、如何订阅 Gemini Pro（详细图文）**
 
@@ -177,11 +177,60 @@ Gemini 是 Google 的 AI 助手。大家口头说的 **Gemini Pro**，现在挂�
 
 权益页出现「您已订阅 Google AI Pro」，再到 Gemini 看账号是否带 Pro。两处都在，就是开通成功。
 
+**6. Ultra 能不能直接用 Claude？**
+
+能。2026-10-25 的官方模型表里，Google AI Ultra 在 Antigravity 里有 **Claude Sonnet 5.5 (thinking)** 和 **Claude Opus 5.5 (thinking)**。打开方式、额度和配图在第五节。gemini.google.com 的模型列表里没有 Claude。
+
+## **五、Google AI Ultra 无痛使用 Claude 模型**
+
+2026-10-25 对照了 [Antigravity 官方模型页](https://antigravity.google/docs/models)。Google AI Ultra 已经接进 Claude。入口在 **Google Antigravity**，不在 [gemini.google.com](https://gemini.google.com/) 的对话框里。
+
+这里的无痛，是不用再注册 Claude，也不用另买 Claude Pro 或 Max。用已经订了 Ultra 的那个 Google 账号登录 Antigravity，在输入框下面的模型菜单里直接选。
+
+官方表上，Ultra 这一列的 Claude 是这两个：
+
+| 模型 | Google AI Ultra |
+| --- | --- |
+| **Claude Sonnet 5.5 (thinking)** | 能用 |
+| **Claude Opus 5.5 (thinking)** | 能用 |
+| Claude Sonnet 4.6 (thinking) | 不能。这档在免费版、Plus、Pro 上，2026-11-02 移除 |
+| Claude Opus 4.6 (thinking) | 不能。移除日期同上 |
+
+表上没有 Claude Haiku，没有 Fable，也没有更早的 Sonnet。菜单里的 Claude 就是上面这两个 5.5。
+
+![Antigravity 官方模型表，Google AI Ultra 一列包含 Claude Sonnet 5.5 和 Claude Opus 5.5](/img/2026-10-20-how-to-use-gemini-pro/09-ultra-claude.png)
+
+截图来自 2026-10-25 打开的模型页。看 **Google AI Ultra** 那一列：Claude Sonnet 5.5 (thinking) 和 Claude Opus 5.5 (thinking) 是绿勾，Claude Sonnet 4.6 和 Claude Opus 4.6 是红叉。
+
+> 这篇前面订的是 Google AI Pro。直接扣费、已经过了试用的 Pro，同一张表上也能用这两个 5.5。脚注写明，试用版 Pro 没有。要先取消试用、换成付费版，才按付费 Pro 计算。Ultra 一列没有这条试用限制。
+
+企业版那一列官方也打了勾。企业账号另看 [Gemini Enterprise 支持的模型](https://antigravity.google/docs/enterprise)，和个人 Ultra 不是同一套开通。
+
+### 怎么打开
+
+1. 账号先是 **Google AI Ultra**。绑卡步骤和第二节一样，在 [Google One](https://one.google.com/) 里选 Ultra。第二节截图是 Pro，US$19.99。2026-10-20 那次页面上 Ultra 是 US$99.99 起，以你自己打开的价格为准。
+2. 打开 [antigravity.google/download](https://antigravity.google/download)，下载并安装 Antigravity。
+3. 打开 Antigravity，点 **Sign in**。浏览器里用这个 Ultra 的 Google 账号完成登录。官方写个人账号覆盖 Free、Pro、Ultra。登录说明在 [Authenticate](https://antigravity.google/docs/install)。
+4. 回到对话，在输入框下面的模型菜单选择 **Claude Sonnet 5.5 (Thinking)** 或 **Claude Opus 5.5 (Thinking)**。
+5. 这次选择会留在同一段对话里。Agent 正在跑的时候改模型，这一轮仍用原来的模型，下一轮才换。
+
+App、CLI 和 IDE 扩展都能选这两个 Claude。
+
+### 额度
+
+[计划页](https://antigravity.google/docs/plans) 写的是：Ultra 有最高额度，每 5 小时刷新一次，周额度也是最高，并包含第三方模型。模型页把用量分成两块，Gemini 一块，Claude 和 GPT 一块，各有自己的五小时额度和周额度。用 Claude 走的是后面这一块。
+
+额度用完之后，Pro 和 Ultra 可以在设置里选择是否用已购买的 AI credits 继续。官方写这笔消耗按 Gemini Enterprise 的标准计价。目前不支持把自己的 Claude API key 接进来加额度。
+
+> tips：gemini.google.com 里选模型，列表还是 Gemini 自己的。要用 Claude，去 Antigravity。
+
 ## **总结**
 
 Google AI Pro 就是现在的 Gemini Pro，月费在本次页面上是 US$19.99，带 4 倍 Gemini 用量、Pro 模型、Deep Research、视频生成和 5 TB 存储。
 
 有银行卡的话，打开 Google One，订阅 Google AI Pro，添加卡，保存卡，再点一次订阅。开通之后如果只想用完这一个周期，记得去 Google Play 的订阅列表里取消。
+
+要在同一个 Google 账号里用 Claude，订的是 Google AI Ultra，然后在 Antigravity 里选 Claude Sonnet 5.5 (thinking) 或 Claude Opus 5.5 (thinking)。直接扣费的 Pro 也能用这两个，试用版 Pro 不能。详见第五节。
 
 没有卡、或者想直接要成品号，联系客服 aicygg888，或打开 https://littlemagic8.github.io/gptplus/purchase-gemini.html 。
 
