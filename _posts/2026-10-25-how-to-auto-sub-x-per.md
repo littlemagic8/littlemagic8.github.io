@@ -57,9 +57,8 @@ Premium 及以上还有一件事：Grok Bot 不绑死在一个模型上。官方
 
 1. 先登录要充值的那个 Grok 账号。卡密充进哪个号，取决于你提交的 sso，和付款时的支付宝账号无关。
 2. 想要 Grok Bot 和 Claude Opus 5.5 的自动路由，买 **Premium 或更高**。Plus 月卡走同一套步骤，但没有 Grok Bot。
-3. 这次图文买的是 **Grok Premium 月卡 | 新版多合一【质保订阅】**。Super、Ultra 以购买页当时列出的商品为准。
-4. **sso 是登录凭证。** 只贴进本站充值页，不要发到群里或别的网站。充完可以在 grok.com 退出登录，旧的 sso 就会失效。
-5. 页面写明：校验卡密不会占用卡密，提交失败不消耗卡密。确认订单之后才进入处理队列。
+3. **sso 是登录凭证。** 只贴进本站充值页，不要发到群里或别的网站。充完可以在 grok.com 退出登录，旧的 sso 就会失效。
+5. 校验卡密不会占用卡密，提交失败不消耗卡密。确认订单之后才进入处理队列。
 
 ## 三、自助充值步骤
 
@@ -67,7 +66,7 @@ Premium 及以上还有一件事：Grok Bot 不绑死在一个模型上。官方
 
 浏览器打开 https://littlemagic8.github.io/gptplus/purchase-grok.html ，选 Grok Premium 月卡，用支付宝或微信付款。
 
-付完打开订单。商品名称应是 **Grok Premium 月卡 | 新版多合一【质保订阅】**，卡密状态是已发货。点复制卡密即可
+付完打开订单。商品名称应是 **Grok Premium 月卡 新版多合一【质保订阅】**，图片展示的是卡密状态是已发货。点复制卡密即可
 
 ![订单里复制 Grok Premium 月卡卡密](/img/2026-10-25-how-to-auto-sub-x-per/01-order.png)
 
@@ -131,6 +130,10 @@ Plus 不含 Grok Bot，也就没有 Claude Opus 5.5 的自动路由。要四合�
 **5. 原来的 X Premium、SuperGrok 或 Cursor 怎么办？**
 
 官方允许符合条件的旧订阅并进 The X Subscription，合并不能撤销。自助充值会在备款前核验现有会员。已经在 App Store 或 Google Play 扣费的，合并后还要到原来的商店里看是否仍会续费。官网合并步骤见 [四合一订阅教程](https://littlemagic8.github.io/2026/10/20/how-to-sub-x-grok-cursor-grok-bot/)。
+
+## 总结：
+
+目前用grok bot，感觉非常良好，还能被路由Claude opus5.5，大家需要AI代理的都可以赶快去试试grok bot~
 
 ## 联系我们
 
