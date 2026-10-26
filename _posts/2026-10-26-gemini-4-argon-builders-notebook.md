@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Gemini 4 Argon怎么样？Argon社区爆款玩法：官方精选 5 个 3D 和游戏作品，聊天里还能 @Gemini Notebook
+title:      Gemini 4 Argon怎么样？怎么使用？Argon社区爆款玩法：官方精选 5 个 3D 和游戏作品，聊天里还能 @Gemini Notebook
 subtitle:   水上飞机、火点与地震地球、涡扇发动机、哥特马车、多人夺旗，以及 DeepMind 的哥特大教堂；Gemini Notebook 连接应用怎么用，附 Gemini Pro 代充
 date:       2026-10-26
 author:     aicygg888
@@ -29,11 +29,11 @@ Google 在 24 日凌晨发了一篇 [《5 位创作者用 Argon 做了什么》]
 
 | 作者 | 作品 | 原帖 |
 | --- | --- | --- |
-| [@LuminaBench](https://x.com/LuminaBench) | 水上飞机 3D 模拟，有光照、倒影和水波 | [LuminaBench](https://x.com/LuminaBench) |
-| [@maxescu](https://x.com/maxescu) | 把 NASA 实时火点和美国地质调查局地震数据放进同一个可交互 3D 地球，带冲击波动画 | [maxescu](https://x.com/maxescu) |
-| [@ai_for_success](https://x.com/ai_for_success) | 用 Blender 和 Three.js 做涡扇喷气发动机的分件交互模型 | [ai_for_success](https://x.com/ai_for_success) |
-| [@thebuggeddev](https://x.com/thebuggeddev) | 一张哥特式马车图片生成可交互 3D 场景 | [thebuggeddev](https://x.com/thebuggeddev) |
-| [@chongdashu](https://x.com/chongdashu) | 浏览器多人夺旗游戏「Backyard Rascals」 | [chongdashu](https://x.com/chongdashu) |
+| @LuminaBench | 水上飞机 3D 模拟，有光照、倒影和水波 | [LuminaBench](https://x.com/LuminaBench) |
+| @maxescu | 把 NASA 实时火点和美国地质调查局地震数据放进同一个可交互 3D 地球，带冲击波动画 | [maxescu](https://x.com/maxescu) |
+| @ai_for_success | 用 Blender 和 Three.js 做涡扇喷气发动机的分件交互模型 | [ai_for_success](https://x.com/ai_for_success) |
+| @thebuggeddev | 一张哥特式马车图片生成可交互 3D 场景 | [thebuggeddev](https://x.com/thebuggeddev) |
+| @chongdashu | 浏览器多人夺旗游戏「Backyard Rascals」 | [chongdashu](https://x.com/chongdashu) |
 
 ### 1. 水上飞机
 
@@ -49,7 +49,7 @@ Google 在 24 日凌晨发了一篇 [《5 位创作者用 Argon 做了什么》]
 
 ### 3. 涡扇喷气发动机
 
-[@ai_for_success](https://x.com/ai_for_success)（Ashutosh Shrivastava）用 Argon，配合 Blender 和 Three.js，做了一台高涵道比涡扇发动机。官方标题就叫可交互的喷气发动机：先逐个零件建模，再合到同一个 3D 场景里，并带上实时测量和分件参数。
+@ai_for_success（Ashutosh Shrivastava）用 Argon，配合 Blender 和 Three.js，做了一台高涵道比涡扇发动机。官方标题就叫可交互的喷气发动机：先逐个零件建模，再合到同一个 3D 场景里，并带上实时测量和分件参数。
 
 ![涡扇发动机拆开后的分件模型，旁边是实时参数](/img/2026-10-26-gemini-4-argon-builders-notebook/03-engine.jpg)
 
@@ -95,7 +95,9 @@ Google 在 24 日凌晨发了一篇 [《5 位创作者用 Argon 做了什么》]
 
 模型表还有一条补充：付费 Pro 可以用；符合条件的高端设备上的试用也可以用。要改成付费 Pro，按 [one.google.com/support](https://one.google.com/support) 提交。
 
-免费账号和 Google AI Plus 不在这份名单里。代充和成品号也是把账号开通到 Pro（或你另外买到的 Ultra），不会单独把免费或 Plus 变成能用 Argon 的档位。
+> 免费账号和 Google AI Plus 暂时都不能用Argon高级模型
+>
+> 代充和成品号都可以代升级到 Pro（或代升级到 Ultra）
 
 ## 四、Gemini Notebook 成了「连接的应用」
 
