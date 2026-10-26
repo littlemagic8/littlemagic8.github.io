@@ -37,13 +37,13 @@ Google 在 24 日凌晨发了一篇 [《5 位创作者用 Argon 做了什么》]
 
 ### 1. 水上飞机
 
-[@LuminaBench](https://x.com/LuminaBench) 用 Argon 做了一个水上飞机的 3D 模拟。官方写到：光照、倒影和水的运动都在，飞机和水面的动作是一起算的。官方把这件事归到 Argon 在空间推理、数学精度和视觉编程上的提升。
+@LuminaBench 用 Argon 做了一个水上飞机的 3D 模拟。官方写到：光照、倒影和水的运动都在，飞机和水面的动作是一起算的。官方把这件事归到 Argon 在空间推理、数学精度和视觉编程上的提升。
 
 ![水上飞机在水面上滑行，水面有倒影和尾迹](/img/2026-10-26-gemini-4-argon-builders-notebook/01-seaplane.jpg)
 
 ### 2. 火点与地震，同一颗 3D 地球
 
-[@maxescu](https://x.com/maxescu)（Alex Patrascu）在 Antigravity 里用 Argon，把 NASA 的全球野火实时数据和美国地质调查局的地震数据放进同一个可交互 3D 地球。官方写到：Argon 负责解析数据、对上坐标，再画出冲击波和热点动画。
+@maxescu（Alex Patrascu）在 Antigravity 里用 Argon，把 NASA 的全球野火实时数据和美国地质调查局的地震数据放进同一个可交互 3D 地球。官方写到：Argon 负责解析数据、对上坐标，再画出冲击波和热点动画。
 
 ![可交互 3D 地球，亮点对应火点和地震数据](/img/2026-10-26-gemini-4-argon-builders-notebook/02-globe.jpg)
 
@@ -55,13 +55,13 @@ Google 在 24 日凌晨发了一篇 [《5 位创作者用 Argon 做了什么》]
 
 ### 4. 一张图变成哥特式马车
 
-[@thebuggeddev](https://x.com/thebuggeddev) 只给了一张哥特维多利亚风格的马车图片，让 Argon 做成可交互的 3D 场景。官方写到的效果是：门窗能开，油灯会闪，过颠簸时底盘有反应。
+@thebuggeddev 只给了一张哥特维多利亚风格的马车图片，让 Argon 做成可交互的 3D 场景。官方写到的效果是：门窗能开，油灯会闪，过颠簸时底盘有反应。
 
 ![哥特式马车的可交互 3D 模型，左侧可以开门窗和油灯](/img/2026-10-26-gemini-4-argon-builders-notebook/04-carriage.jpg)
 
 ### 5. 多人在线夺旗：Backyard Rascals
 
-[@chongdashu](https://x.com/chongdashu)（Chong-U）用 Argon 做了浏览器游戏「Backyard Rascals」。卡通动物分组去抢对方的旗。官方写到：角色能跑、会碰撞、会互相拍打，进球时会欢呼，多名玩家同时在线。
+@chongdashu（Chong-U）用 Argon 做了浏览器游戏「Backyard Rascals」。卡通动物分组去抢对方的旗。官方写到：角色能跑、会碰撞、会互相拍打，进球时会欢呼，多名玩家同时在线。
 
 ![Backyard Rascals 对局，动物角色在抢旗并互相拍打](/img/2026-10-26-gemini-4-argon-builders-notebook/05-game.jpg)
 
@@ -81,9 +81,9 @@ Google 在 24 日凌晨发了一篇 [《5 位创作者用 Argon 做了什么》]
 
 > 按这张图搭建可交互 3D 场景，逐步优化几何、材质和光照。
 
-> tips：2026-10-26 的 [Antigravity 模型表](https://antigravity.google/docs/models) 写明，Gemini 4 Argon 不在 Antigravity IDE 里。能选它的是 **Antigravity App、Antigravity CLI、IDE 扩展**。
+> tips：2026-10-26 的 Antigravity 模型表 说，Gemini 4 Argon 不在 Antigravity IDE 里。能选它的是 **Antigravity App、Antigravity CLI、IDE 扩展**。
 
-### 哪里能用 Argon
+### 怎么能用上 Argon
 
 同一篇官方文章的结尾写了现在的开放范围：
 
