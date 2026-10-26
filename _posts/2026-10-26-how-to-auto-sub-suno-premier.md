@@ -45,27 +45,25 @@ token 是登录凭证。只贴进购买页的充值框，不要发到群里，�
 
 用要充值的那个账号操作。token 属于哪一个号，充值就进哪一个号。
 
-1. 浏览器打开 [suno.com](https://suno.com/)，登录要充值的账号。确认已经进到登录后的页面。
+**第一步：**浏览器打开 [suno.com](https://suno.com/)，登录要充值的账号。确认已经进到登录后的页面。
 
 ![第一步：登录 suno.com，确认是要充值的账号](/img/2026-10-26-how-to-auto-sub-suno-premier/01-login.png)
 
-2. **还是这个浏览器**，打开下面这个地址：
+**第二步：**还是这个浏览器**，打开下面这个地址：
 
 ```
 https://auth.suno.com/v1/client?__clerk_api_version=2025-11-10&_clerk_js_version=5.117.0
 ```
 
-3. 页面上就是 token。复制完整的账户 ID（UUID）就可以，整段 token 也可以。不要只抄半截，也不要自己删改。
+**第三步：**页面上就是 token。复制完整的账户 ID（UUID）就可以，整段 token 也可以。不要只抄半截，也不要自己删改。
 
 ![第二步：打开 auth.suno.com 的 client 页面，复制 UUID 或整段 token](/img/2026-10-26-how-to-auto-sub-suno-premier/02-copy-token.png)
 
-4. 回到购买页的充值框，把刚才复制的内容贴进去，按页面按钮提交。
+**第四步：**回到购买页的充值框，把刚才复制的内容贴进去，按页面按钮提交。
 
 ![第三步：把 UUID 或整段 token 贴进充值框](/img/2026-10-26-how-to-auto-sub-suno-premier/03-paste.png)
 
-这个地址必须在已经登录 Suno 的同一个浏览器里打开。换一个没登录的浏览器，页面上不会有这个账号的 token。
-
-页面是空的，或者看不到 token：回到 [suno.com](https://suno.com/) 看是否仍登录着，登录后再打开一次上面的地址。
+> ps: 这个地址必须在已经登录 Suno 的同一个浏览器里打开。换一个没登录的浏览器，token页面内容是空的，或者看不到 token：回到 [suno.com](https://suno.com/) 看是否仍登录着，登录后再打开一次上面的地址。
 
 > tips：账户 ID 是 UUID，形如 `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`。充值认的是刚才复制的整段 token，整段里对应的就是这个账号。不确定是不是这个号，先别提交，联系客服 aicygg888。跟客服核对时发订单号，不要把 token 原文发到微信。
 
