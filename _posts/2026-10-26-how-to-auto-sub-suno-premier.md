@@ -37,9 +37,7 @@ token 是登录凭证。只贴进购买页的充值框，不要发到群里，�
 
 ## 二、购买 Suno Premier
 
-浏览器打开 https://aigpt8.xyz/shop/W3JEJKNX/uygiv3 ，选 Suno Premier，用页面上的方式付款。
-
-付完先不要关订单。下一步复制的 token，要贴回这个充值流程。商品名和金额以购买页当时的文字为准。
+浏览器打开 https://aigpt8.xyz/shop/W3JEJKNX/uygiv3 ，选 Suno Premier，用页面上的方式付款
 
 ## 三、登录 Suno，复制整段 token
 
@@ -49,7 +47,7 @@ token 是登录凭证。只贴进购买页的充值框，不要发到群里，�
 
 ![第一步：登录 suno.com，确认是要充值的账号](/img/2026-10-26-how-to-auto-sub-suno-premier/01-login.png)
 
-**第二步：**还是这个浏览器**，打开下面这个地址：
+**第二步：**还是这个浏览器，打开下面这个地址：
 
 ```
 https://auth.suno.com/v1/client?__clerk_api_version=2025-11-10&_clerk_js_version=5.117.0
@@ -65,7 +63,7 @@ https://auth.suno.com/v1/client?__clerk_api_version=2025-11-10&_clerk_js_version
 
 > ps: 这个地址必须在已经登录 Suno 的同一个浏览器里打开。换一个没登录的浏览器，token页面内容是空的，或者看不到 token：回到 [suno.com](https://suno.com/) 看是否仍登录着，登录后再打开一次上面的地址。
 
-> tips：账户 ID 是 UUID，形如 `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`。充值认的是刚才复制的整段 token，整段里对应的就是这个账号。不确定是不是这个号，先别提交，联系客服 aicygg888。跟客服核对时发订单号，不要把 token 原文发到微信。
+> tips：账户 ID 是 UUID，形如 `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`。充值认的是刚才复制的整段 token，整段里对应的就是这个账号。不确定是不是这个号，先别提交，联系客服 aicygg888
 
 ## 四、确认 Premier 已经到账
 
