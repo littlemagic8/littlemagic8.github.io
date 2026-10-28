@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Grok Bot Director 怎么用：一句话做短片，以及怎么选代理机器人、怎么订阅
+title:      Grok Bot Director 怎么用：一句话做短片，除了Director还有哪些机器人、怎么订阅使用 Grok Bot
 subtitle:   Marketplace 上的视频导演 Bot。导入后用大白话提需求，Premium 及以上才能用 Grok Bot
 date:       2026-10-28
 author:     aicygg888
@@ -56,7 +56,7 @@ Director 有直达页，打开就能导入：[https://x.ai/bot/marketplace/bots/
 
 ![Director 页面，黑按钮是 Import Bot](/img/2026-10-28-how-to-use-grok-director/06-import-bot.png)
 
-商店列表的 **Product** 里也能看到它，第一行是 Director by Xi Yan，右边是 **Add**。点 Add 和点页面上的 **Import Bot**，都是把这份 Bot 导入你的账号。
+商店列表的 **Product** 里也能看到它，第一行是 Director by Xi Yan，右边是 **Add**。点 Add 之后再点页面上的 **Import Bot**，都是把这份 Bot 导入你的账号。
 
 ![Product 分类里，Director 这一行右边是 Add](/img/2026-10-28-how-to-use-grok-director/05-director-list.png)
 
@@ -75,6 +75,8 @@ Director 有直达页，打开就能导入：[https://x.ai/bot/marketplace/bots/
 Director 挂在 Grok Bot 上。Plus 用不了 Grok Bot，也就用不了 Director。
 
 需要订阅的童鞋，可以使用充值系统：[https://littlemagic8.github.io/gptplus/purchase-grok.html](https://littlemagic8.github.io/gptplus/purchase-grok.html)（浏览器打开）
+
+![充值页上，Grok Bot 选 Premium、Super、Ultra](/img/2026-10-28-how-to-use-grok-director/07-grok-plans.png)
 
 1. 打开充值系统，选 **Premium、Super 或 Ultra**。不要选 Plus。
 2. 支付宝或微信付款，按页面提示操作。密码不要发给客服。
@@ -148,7 +150,157 @@ AskGrok（@GrokAsk）用 Director 做了竖屏短剧 DUST WAR 第一集，59 秒
 
 ---
 
+### 五、商店列表还有哪些机器人
+
+商店页在这里：[https://x.ai/bot/marketplace](https://x.ai/bot/marketplace)
+
+分类是 Engineering、Sales、Marketing、Design、Personal、Recruiting & People、Product、Operations。首页推荐是 dr eggbot、Overheard、Tradbot、Projects Manager。同一个 Bot 会出现在两个分类里，下面每个只记一次。导入方式和 Director 一样：打开它的页面点 **Import Bot**，或在列表上点 **Add**。
+
+和做视频挨在一起的，可以按用途汇总如下：
+
+| Bot                 | 干什么                                                       |
+| ------------------- | ------------------------------------------------------------ |
+| Director            | 一份需求做成短片、广告、讲解、音乐视频、微短剧               |
+| Video Editor        | 把口播原片剪成竖屏短片。先给你剪辑计划，再加字幕、B-roll 和音乐，不代发 |
+| Clip Bot            | 从一条长录像里挑片段，切成带字幕和时间点的短片               |
+| Video Edit Desk     | 把上传的素材剪成带字幕的成片，按平台尺寸导出，不覆盖原片     |
+| Stills & Clips Desk | 从成片里抽静帧、封面和短片段，并写说明文字                   |
+
+要一条新片子，用 Director。已经有素材、只要剪，用后面四个。
+
+首页推荐这四个：
+
+| Bot              | 干什么                                                       |
+| ---------------- | ------------------------------------------------------------ |
+| dr eggbot        | 问几个问题，然后做出一个只干一件事的 Bot                     |
+| Overheard        | 工作日收集别人在 Reddit、Hacker News、新闻和 X 上提到你的内容，够得上才发简报，不代发 |
+| Tradbot          | 看个人邮箱和日历，学校表格、账单、接送和 RSVP 不漏，回复先起草 |
+| Projects Manager | 用 Notion 管项目，专门的 Bot 领任务，它自己不代做            |
+
+**Product**
+
+| Bot                      | 干什么                                                       |
+| ------------------------ | ------------------------------------------------------------ |
+| Proto Bot                | 把想法做成可分享的原型，草稿 PR，带点击路径截图和短视频      |
+| Startup QA Bot           | 每个工作日用测试账号走一遍产品，报告上线、下线和坏掉的地方   |
+| PM bot                   | 写清这一版做什么、不做什么、怎么算做完，你点头工程才开始     |
+| Stalk Bot                | 用自己的研究邮箱注册竞品，看上手流程、定价、更新和招聘       |
+| last30days               | 汇总最近 30 天别人在 Reddit、X、YouTube 等上面怎么说一个话题 |
+| Competitor Watch         | 盯你贴来的竞品页面，定价、产品和招聘有变化再简报             |
+| Product Idea Stress Test | 压测一个产品想法，写出要成立的前提，以及下一步怎么验证       |
+
+**Marketing**
+
+| Bot                     | 干什么                                                       |
+| ----------------------- | ------------------------------------------------------------ |
+| SEO & AEO Desk          | 把关键词做成搜索和 AI 回答用的选题和写作简报                 |
+| Copy Humanizer          | 改草稿、邮件和网页，保留你的口气，改动和理由都列出来         |
+| AI Search Visibility    | 查 AI 助手和 Google 会不会推荐你，以及它们提了谁             |
+| Distro Bot              | 管广告、素材、渠道和触达，改花费、发帖、外发都要你点头       |
+| Project Manager         | 市场项目经理，协调调研、定位、落地页、广告和数据             |
+| Marketing Analyst       | 用 Google Ads 数据做周报和月报，不代改广告                   |
+| Performance Marketer    | 把广告文案做成暂停中的 Google 搜索广告壳，你说开始才花钱     |
+| Website Ops             | 改网站走 PR，并做 SEO、速度、无障碍这些检查                  |
+| Product Marketer        | 按你的产品和定位写文案，再交给落地页和广告                   |
+| Market Researcher       | 定期看竞品的网站、广告、定价和定位                           |
+| Apple Search Ads Review | 按安装成本看 Apple Search Ads，起草关键词和出价，不进你的账户改 |
+| Writing Bot             | 起草和修改文章、邮件、文档，保住原意和事实                   |
+| Lead Pipeline Desk      | 给进来的线索打分、合并重复、分负责人，不代发                 |
+| Paid Media Report Desk  | 把 Google、Meta、LinkedIn 的导出合成一份周报                 |
+| Luma Pages              | 给线下活动做和改 Luma 活动页                                 |
+| WTD                     | 管营销活动的计划和进度，销售负责邀客人                       |
+| Event Producer          | 把活动做成流程、嘉宾名单和当天清单，不代发消息               |
+| Site Audit              | 给网站打 SEO、内容、速度、无障碍这些分，并标出依据链接       |
+| X Brief                 | 把你指定的 X 账号和话题收成一份每日短报，不代发              |
+| Ad Spend Watch          | 看广告花费，出问题先标出来，不代停广告                       |
+
+**Engineering**
+
+| Bot                    | 干什么                                                     |
+| ---------------------- | ---------------------------------------------------------- |
+| Researchy              | 用最新的 Grok 加网页搜索做核对，每条都带来源和日期         |
+| Lingxi's Engineer Bot  | 把活派到你指定的仓库，盯 PR，只在要合并时叫你              |
+| tinkabot               | 把一个 API 包成 Cursor 插件，先在本地跑通                  |
+| QA bot                 | 在线上环境按验收清单跑，上线前给过或不过                   |
+| Engineering Lead       | 把活拆给云端代理，工作日追 CI 和评审，卡住或能合并时才叫你 |
+| Nightly Audit Engineer | 夜里通读代码库，每个区域交一个清理用的 PR                  |
+| SWE                    | Cursor 的软件工程师 Bot，写代码、分拣问题、看线上          |
+
+**Sales**
+
+| Bot                             | 干什么                                                       |
+| ------------------------------- | ------------------------------------------------------------ |
+| Outbound Prospecting            | 按理想客户找人，起草第一封，查过公开网页，不代发             |
+| GTM Loop Closer                 | 从会议、邮件、Slack、CRM 里把没跟完的承诺找出来，备好回复    |
+| Sales Call Coach                | 给销售电话打分，告诉你下一通改什么                           |
+| Meeting Recap Deck              | 把会议记录做成回顾幻灯片，不编引用                           |
+| Pitch Deck Coach                | 看融资幻灯片，写出投资人会信什么、会问什么                   |
+| Cooper                          | 每天早上 8 点用 Slack 发一份 AI、科技、风投和商业简报，工作日中午只在竞品真有大事时再报 |
+| Sell Bot                        | 从触达、约电话、方案到售后，每条都先给你看，一次只发你点头的那条 |
+| Sequencer                       | 管外发序列，草稿放在表里，由你发出去                         |
+| EBR & Value Deck Builder        | 给指定客户做业务回顾或价值幻灯片，不编数字，不直接给客户     |
+| Signal Prospector               | 从 CRM 和产品数据里找刚有意向的人和公司，起草第一次接触      |
+| Call Follow-Ups                 | 把录下的电话变成跟进邮件、下一步和 CRM 更新，不代发、不代存  |
+| Hiring Signals                  | 盯选定公司的招聘变化，对上客户和负责人                       |
+| GTM Connections                 | 找进一家目标公司的熟路，起草介绍请求                         |
+| Pipeline Pulse                  | 扫整条管道里的变化、过期下一步和预测风险                     |
+| Deal Inspector                  | 用电话记录核对刚换阶段的单子，建议推进或关掉                 |
+| GTM Prospecting                 | 按理想客户做出名单，起草邮件和 LinkedIn，先给你看            |
+| GTM Account Research            | 见客户前研究这一家，公司变化、关键人和出处放在一起           |
+| Company Docs Q&A                | 先查现成文档再回答产品问题，每条带来源                       |
+| Product Support Inbox Assistant | 帮你找和起草产品问题的回复，不代发邮件                       |
+| Customer Call Coach & Assistant | 客户电话前给你简报，打完再按表现辅导                         |
+| Account Research Desk           | 研究你要卖给的公司，写通话前简报和客户计划                   |
+| Customer Proof Desk             | 把通话记录做成案例和评价，引语按原文，不代发                 |
+| Partnerships Call Coach         | 看合作、赞助这些重要电话的记录，指出哪里该改、怎么说         |
+
+**Design**
+
+| Bot               | 干什么                                                       |
+| ----------------- | ------------------------------------------------------------ |
+| Imogen            | 给图片写短的替代文字，方便读屏                               |
+| figma bro         | 把 Figma 画板做成开发说明，也检查组件和动效                  |
+| Critiquito        | 把截图或 Figma 链接做成设计意见，按优先级给改法，不改你的文件 |
+| Game Art Director | 把游戏概念做成风格指南、色板和提示词，并检查色板和网格有没有漂 |
+
+**Personal**
+
+| Bot                   | 干什么                                                       |
+| --------------------- | ------------------------------------------------------------ |
+| Credit Card Max       | 按积分、返现、航司酒店等级告诉你刷哪张卡，不做预算           |
+| Home robots           | 在对话里控制割草机、扫地机这些家用机器人                     |
+| Flora                 | 记家里的植物，每周提醒                                       |
+| Pfp Bot               | 把头像、自拍或宠物照片做成 Grok Bot 那种小图标               |
+| Import Bot            | 把 Claude、Codex、ChatGPT 等里面的配置搬进 Grok Bot，密钥会先清掉 |
+| The Morning Newspaper | 按你的邮件和日历排一份报纸，你可以在睡觉时打印               |
+| dial bot              | 你要求时打出电话，打完汇报。第一次要 Bland 的密钥和声音      |
+| skippy                | 贴旧金山的地址，告诉你这条路边下一次清扫时间                 |
+| Tech Demos            | 工作日从 X 收藏里挑一个库来做演示，先问你同不同意            |
+| Chief Health Officer  | 每天问训练做了没有，读已连接的运动和体检数据，不诊断、不开药 |
+| Deal Hunting          | 比到手价，含运费和税，你不叫它买它就不买                     |
+| Webby                 | 管个人网站和通讯，新建内容，不删                             |
+| NYC Parent            | 给纽约家长管学校、日历和家里的安排，花钱和发消息仍由大人决定 |
+| Love                  | 提醒、查约会和礼物，预订和购买留给你自己                     |
+
+**Recruiting & People**
+
+| Bot                    | 干什么                                                     |
+| ---------------------- | ---------------------------------------------------------- |
+| Recruiting Coordinator | 排面试、给面试官准备材料、追卡住的环节，不擅自给候选人发信 |
+| Talent Discovery       | 按条件找还没进招聘系统的候选人                             |
+
+**Operations**
+
+| Bot                 | 干什么                                                       |
+| ------------------- | ------------------------------------------------------------ |
+| Office Ops Desk     | 跟办公室快递、设施问题和生日，写简报，不代发                 |
+| Event Request Desk  | 给活动、赞助和演讲邀请打分，起草答应或拒绝，不代发           |
+| Executive Assistant | 管会议室、面试准备、对外联络、表格和日历核对                 |
+| Alfred              | 检查你的 Bot 编制，建议最小够用的结构，没你明确点头就不新建、不改 |
+
 ## 最后
+
+总结一下本文内容：
 
 - Director 是 Xi Yan 做的视频导演 Bot，一份需求走完策划、拍摄、剪辑和交付。
 - 用在 Grok Bot 里。Premium、Super、Ultra 有 Grok Bot，Plus 用不了。
@@ -156,10 +308,13 @@ AskGrok（@GrokAsk）用 Director 做了竖屏短剧 DUST WAR 第一集，59 秒
 - 已经发出去的成片里，有新闻栏目、色点跨场景还在的艺术短片，还有竖屏短剧。
 - 介绍帖关注的人多。也有人觉得慢、不好一次做到位。先做 30 秒。
 
-需要订阅的童鞋，可以使用充值系统：[https://littlemagic8.github.io/gptplus/purchase-grok.html](https://littlemagic8.github.io/gptplus/purchase-grok.html)（浏览器打开）
+大家也赶快去试试Grok bot吧，我明天让他盯新闻，定时干活，真的蛮好用的，而且30刀的会员（现在还有半价优惠~），对于我来说刚刚够用，大家按需订阅！早用早享受，真的不错！！！
+
+> 需要订阅的童鞋，可以使用充值系统：[https://littlemagic8.github.io/gptplus/purchase-grok.html](https://littlemagic8.github.io/gptplus/purchase-grok.html)（浏览器打开）
 
 ## 参考资料
 
+- [Grok Bot 商店](https://x.ai/bot/marketplace)
 - [Director 商店页](https://x.ai/bot/marketplace/bots/video-director)
 - [Grok Bot 入门](https://docs.x.ai/grok-bot/get-started)
 - [Grok Bot 在 The X Subscription 里的档位](https://docs.x.ai/x-subscription/grok-bot)
