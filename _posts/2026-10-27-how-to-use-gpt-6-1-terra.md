@@ -20,13 +20,13 @@ tags:
 本文主要包含：
 
 1. **GPT-6.1 Terra 是什么**
-2. **哪些用户能用**，需要订阅的用充值系统：https://littlemagic8.github.io/gptplus/purchase-gpt.html（浏览器打开）
+2. **哪些用户能用**，需要订阅的用充值系统：[https://littlemagic8.github.io/gptplus/purchase-gpt.html](https://littlemagic8.github.io/gptplus/purchase-gpt.html)（浏览器打开）
 3. **能做什么，什么场景用？什么时候选择 Sol 或 Astra**
 4. **官网测评展示**
 5. **网上的真实场景和第三方测评**
 6. **价格和调用时要看的几条**
 
-> ps：Terra 只有 Plus 会员以上的用户可以用。需要订阅 GPT Plus 的童鞋，可以使用充值系统：https://littlemagic8.github.io/gptplus/purchase-gpt.html（浏览器打开）
+> ps：Terra 只有 Plus 会员以上的用户可以用。需要订阅 GPT Plus 的童鞋，可以使用充值系统：[https://littlemagic8.github.io/gptplus/purchase-gpt.html](https://littlemagic8.github.io/gptplus/purchase-gpt.html)（浏览器打开）
 
 ---
 
@@ -75,7 +75,7 @@ GitHub 早期测试里，Terra 完成的终端任务和 C# 编程任务明显多
 
 ## 三、国内怎么开通：GPT Plus 代充
 
-想要使用 GPT-6.1 Terra，必须是 **Plus** 以上会员（Enterprise、Edu 也可以）。需要订阅 GPT Plus 的童鞋，可以使用充值系统：https://littlemagic8.github.io/gptplus/purchase-gpt.html（浏览器打开）
+想要使用 GPT-6.1 Terra，必须是 **Plus** 以上会员（Enterprise、Edu 也可以）。需要订阅 GPT Plus 的童鞋，可以使用充值系统：[https://littlemagic8.github.io/gptplus/purchase-gpt.html](https://littlemagic8.github.io/gptplus/purchase-gpt.html)（浏览器打开）
 
 1. 打开上面的充值系统，支付宝或微信付款。
 2. 页面发货卡密。一般几分钟到账，按页面提示操作，不需要把密码发给客服。
@@ -275,7 +275,7 @@ Intelligence Index 上，**GPT-6.1 Terra（max）是 48**，**GPT-5.6 Terra（ma
 - 命令行编程从 21.5% 到 50.3%。最复杂的编程用 Sol 或 Astra。
 - 公开测评里它通常又快又便宜：Plotly 40/43，Browser Use 78.5 对 Sol 的 79.7。会计准确率，以及把推理调离 max 之后的修 bug，没有一起站上第一。
 
-需要订阅 GPT Plus 的童鞋，可以使用充值系统：https://littlemagic8.github.io/gptplus/purchase-gpt.html（浏览器打开）
+需要订阅 GPT Plus 的童鞋，可以使用充值系统：[https://littlemagic8.github.io/gptplus/purchase-gpt.html](https://littlemagic8.github.io/gptplus/purchase-gpt.html)（浏览器打开）
 
 ## 参考资料
 
