@@ -17,8 +17,8 @@ Grok Bot Marketplace 上新了一个 Bot，名字是 **Director**，作者 Xi Ya
 
 本文主要包含：
 
-1. **Director 是什么，什么时候选它**
-2. **怎么用**
+1. **Director 是什么，什么时候使用**
+2. **怎么导入Grok Bot**
 3. **怎么订阅 Grok Bot**
 4. **应用实例**
 
@@ -26,7 +26,7 @@ Grok Bot Marketplace 上新了一个 Bot，名字是 **Director**，作者 Xi Ya
 
 ---
 
-## 一、Director 是什么，什么时候选它
+## 一、Director 是什么，什么时候使用
 
 官网是这样说的：Your video director。一份 brief 就能做成短片、广告、讲解、音乐视频、微短剧，从策划、拍摄、剪辑到交付。
 
@@ -42,15 +42,15 @@ Grok Bot 这些机器人可以按用途汇总如下：
 | 新建时那个 Grok Bot | 查资料、改文件、操作云电脑，一件事一个 Bot |
 | Cooper | 每天一份 AI、科技和商业简报 |
 
-选的时候看交付物。要的是一条视频，导入 Director。要的是查资料或改文件，用一个只干这件事的 Bot。一个 Bot 只给一件主业，上下文比「什么都干」的助手更有用。
+选的时候看交付物。要的是一条视频，导入 Director。要的是查资料或改文件，用一个只干这件事的 Bot。一个 Bot 只干一件事，比「什么都干」的bot助手更有强。
 
 第一次不要把长片、广告、系列剧一起塞给它。先交一条短需求，看画面和时长，再加长。
 
 ---
 
-## 二、怎么用
+## 二、怎么导入Grok Bot
 
-想用 Director，必须有 Grok Bot。个人套餐里，Grok Bot 在 **Premium、Super、Ultra**。安装包在 [https://x.ai/bot](https://x.ai/bot)，桌面端支持 macOS、Windows 和 Linux，手机用 App Store 或 Google Play，登录的是 Cursor 账号，没有另一套 Grok Bot 账号。
+想用 Director，必须有 Grok Bot。个人套餐里，Grok Bot 在 **Premium、Super、Ultra**。安装包在 [https://x.ai/bot](https://x.ai/bot)，桌面端支持 macOS、Windows 和 Linux，手机用 App Store 或 Google Play，登录Cursor/grok/x 账号即可，不需要额外的Grok Bot账号。
 
 Director 有直达页，打开就能导入：[https://x.ai/bot/marketplace/bots/video-director](https://x.ai/bot/marketplace/bots/video-director)
 
