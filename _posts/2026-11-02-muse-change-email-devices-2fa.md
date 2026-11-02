@@ -17,6 +17,8 @@ Muse 的登录、联系邮箱和安全设置由 **Meta Account** 管理。更换
 
 本文以网页版界面为例。不同地区和版本的菜单名称可能略有变化；操作前请确认登录的是需要管理的 Muse 账号，并确保新邮箱和验证器都由自己控制。
 
+> **需要开通其他 AI 服务？**可访问我们的 [AI 服务自助平台](https://littlemagic8.github.io/gptplus/)，查看可购买的充值商品和使用说明；开通自己的 ChatGPT Plus 可直接前往 [ChatGPT Plus 自助充值商品](https://littlemagic8.github.io/gptplus/purchase-gpt.html)。
+
 > **重要：**更换邮箱时，先添加并验证新邮箱，再删除旧邮箱；开启 2FA 后请妥善保存恢复代码。不要把密码、恢复代码或验证器密钥提交到陌生网页。
 
 ## 一、查看 Muse 账号额度并进入 Meta Account
