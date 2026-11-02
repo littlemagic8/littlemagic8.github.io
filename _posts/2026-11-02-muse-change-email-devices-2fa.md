@@ -19,11 +19,17 @@ Muse 的登录、联系邮箱和安全设置由 **Meta Account** 管理。更换
 
 > **重要：**更换邮箱时，先添加并验证新邮箱，再删除旧邮箱；开启 2FA 后请妥善保存恢复代码。不要把密码、恢复代码或验证器密钥提交到陌生网页。
 
-## 一、从 Muse 进入 Meta Account
+## 一、查看 Muse 账号额度并进入 Meta Account
 
-在 Muse 左下角打开 **Settings（设置）**，停留在 **General（通用）** 页面，就能看到 **Meta Account** 入口。点击后会在新窗口打开账户设置。
+### 查看账号拥有的额度
 
-![Muse 设置中的 Meta Account 入口](/img/2026-11-02-muse-account-security/10亿token查看.png)
+在 Muse 左下角打开 **Settings（设置）**，停留在 **General（通用）** 页面。在 **Usage（用量）** 区域可以查看免费套餐的重置时间，以及账号已拥有的额外 Token 余额；图中箭头标注的位置显示为 **1B tokens left**。
+
+![查看 Muse 账号拥有的 Token 额度](/img/2026-11-02-muse-account-security/10亿token查看.png)
+
+### 进入 Meta Account
+
+同一页面顶部的 **Meta Account** 入口用于管理登录邮箱、设备和账户安全。点击后会在新窗口打开账户设置。
 
 如果界面是英文，可以先在 **Language（语言）** 中切换为简体中文，后面的菜单更容易对应。
 
