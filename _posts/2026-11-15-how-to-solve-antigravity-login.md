@@ -26,7 +26,7 @@ Google 的 **Antigravity（反重力）** 是谷歌新一代 Agent 开发平台�
 
 这篇手把手图文教程把这些坑一次性讲清楚：**为什么会触发风控 → 先自查什么 → 每种报错怎么一步步解**，全部基于官方 FAQ 和社区实测方案整理。
 
-> tips: Antigravity 目前对**个人 Gmail 账号免费开放**，但账号"国家/地区归属"必须在支持列表内（中国大陆不在列表中），这也是大部分风控的根源。不想折腾账号和网络的，可以直接充值 Gemini 会员：https://littlemagic8.github.io/gptplus/purchase-gemini.html
+> tips: Antigravity 目前对**个人 Gmail 账号免费开放**，但账号"国家/地区归属"必须在支持列表内（中国大陆不在列表中），这也是大部分风控的根源。不想折腾账号和网络的，可以直接购买 Gemini 会员成品号：https://littlemagic8.github.io/gptplus/purchase-gemini.html
 >
 > 遇到问题联系微信：aicygg888
 
