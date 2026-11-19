@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Gemini 4 Neon怎么样？怎么用？Google新模型Neon测评：写作、账单分析、联网比价、Tasks、Antigravity编程五个实测，附 Gemini Pro 代充
-subtitle:   前沿推理卖 3/15 的价：1M 上下文、缓存 95% 折扣、单任务比 Carbon 便宜 32%；模型下拉菜单选 "Deeper analysis"，Tasks 也能跑在 Neon 上
+title:      Gemini 4 Neon怎么样？怎么用？Google新模型Neon真实测评：官方跑分图表+开发者实测编程/写作/长文检索+HN、Reddit社区反馈，附 Gemini Pro 代充
+subtitle:   AA 智能指数 61 反超 Carbon，只卖 3/15 的价：1M 上下文、缓存 95% 折扣；开发者实测 100k token 检索比 Opus 5.5 便宜 42%，小任务把思考档位拨到 low 更省
 date:       2026-11-19
 author:     aicygg888
 header-img: img/post-bg-cook.jpg
@@ -21,10 +21,11 @@ tags:
 
 1. **Gemini 4 Neon 是什么**，在 Gemini 4 家族里的位置
 2. **哪些用户能用**，怎么切换到 Neon
-3. **官方跑分速览**
-4. **五个实测场景**，每个都附完整提示词和效果图
-5. **API 价格**和省钱要点
-6. **国内怎么开通** Gemini Pro
+3. **官方跑分速览**，直接放官方图表
+4. **开发者真实实测**：两个编程题、写作、100k token 长文检索，全部数据来自开发者公开测试
+5. **社区真实反馈**：HN 728 分热帖、Reddit 各版第一手评价
+6. **API 价格**和省钱要点
+7. **国内怎么开通** Gemini Pro
 
 > ps：Neon 只有 **Google AI Pro 和 Ultra** 订阅用户能用。有银行卡的可以按 [Gemini Pro 怎么订阅](https://littlemagic8.github.io/2026/10/20/how-to-use-gemini-pro/) 自己开通。没有外币卡的，联系客服微信：**aicygg888** （大家需要Ultra成品号直接找客服），或直接打开代充页：https://littlemagic8.github.io/gptplus/purchase-gemini.html （浏览器打开）
 
@@ -41,21 +42,30 @@ tags:
 
 ### 在 Gemini 4 家族里的位置
 
-官方给三个模型的分工写得很清楚：
+官方发布里有一张三款模型的对比表，信息量比文字大得多：
 
-| 模型 | 分工 |
-|------|------|
-| Gemini 4 Carbon | 最难、长周期的大项目 |
-| Gemini 4 Hydrogen | 快速的日常执行 |
-| **Gemini 4 Neon** | **深度和效率的平衡点**：复杂高频工作流的前沿推理，更快、更便宜 |
+![官方对比表：Gemini 4 家族 Carbon / Neon / Hydrogen，Neon 的 AA 指数 61 分比 Carbon 还高](/img/2026-11-19-how-to-use-gemini-4-neon/02-official-family.webp)
 
-一句话：**Carbon 干最重的活，Hydrogen 干最碎的活，Neon 干又复杂又要快的活。**
+把这张表整理一下：
+
+| 模型 | AA 智能指数 | 价格（每百万 token） | 思考档位 | 订阅要求 |
+|------|------|------|------|------|
+| Gemini 4 Carbon | 60 | $4 / $20（11 月 30 日前促销价 $2/$10） | low / medium / high | 仅 Google AI Ultra |
+| **Gemini 4 Neon** | **61** | **$3 / $15** | low / medium / high / **xhigh** | **Google AI Pro & Ultra** |
+| Gemini 4 Hydrogen | 54 | $1.50 / $7.50 | low / medium / high / xhigh | 所有人 |
+
+两个值得划重点的地方：
+
+1. **Neon 的智能指数 61 分，比 Carbon 的 60 还高一分**——更小、更快、更便宜，分数反而更高，这是官方敢把它放在家族中间位置的底气
+2. **Carbon 只有 Ultra 能用，Neon 放开到了 Pro**，所以本文后面讲代充只按 Pro 算
+
+一句话分工：**Carbon 干最重的活，Hydrogen 干最碎的活，Neon 干又复杂又要快的活。**
 
 ### 四个思考档位
 
-Neon 有四个思考档位，官方说这次把档位之间的过渡做得更平滑，团队可以按工作量的需要拨「智能和 token 花费」：
+Neon 有四个思考档位（Carbon 只有三个，没有 xhigh），官方说这次把档位之间的过渡做得更平滑，团队可以按工作量的需要拨「智能和 token 花费」：
 
-- 默认 **high**：性价比档，单任务成本比 Carbon 低 **32%**
+- 默认 **high**：性价比档，官方口径下**单任务成本比 Carbon 低 32%**
 - **xhigh**：最难工程、分析、科研用，智能分最高，但单任务成本仍比对手最高档低 **36% 以上**
 - high 档在 Vals Index 和 Agent Arena 上都站在 Pareto 前沿，比顶级前沿模型便宜 **50%–80%**
 
@@ -74,17 +84,31 @@ Neon 有四个思考档位，官方说这次把档位之间的过渡做得更平
 
 ### 切换方法
 
-在 Chat 或 Tasks 界面打开**模型下拉菜单**，选 **"4 Neon"**——注意它在菜单里显示的名字是 **"Deeper analysis"（更深入的分析）**：
-
-![Gemini 应用的模型下拉菜单，4 Neon 显示为 Deeper analysis](/img/2026-11-19-how-to-use-gemini-4-neon/02-model-dropdown.png)
+在 Chat 或 Tasks 界面打开**模型下拉菜单**，选 **"4 Neon"**——注意它在菜单里显示的名字是 **"Deeper analysis"（更深入的分析）**。
 
 > tips：官方推文串里还提到，Tasks（后台任务）现在也能跑在 Neon 上——同样的多步骤活，比大模型更快完成，还**省额度**。
 
 ---
 
-## 三、官方跑分速览
+## 三、官方跑分速览（附官方图表）
 
-先把硬指标放一起，都是官方博客列的数字：
+官方博客放了两张总览图，比文字直观。
+
+第一张是 **AA Index v5.0.1 的「智能-成本」曲线**：横轴是单任务花费（美元），纵轴是智能指数。Neon 从 low 到 xhigh 四个档位连成的蓝色曲线，整体压在 Claude Opus 5.5 和 GPT-6.2 Sol 的左上方——**xhigh 档约 $6 一个任务拿下 61 分，Opus 5.5 要花到约 $10 才有 59 分**：
+
+![官方 AA Index 曲线：Neon 各档位的智能/成本对比 Opus 5.5、GPT-6.2 Sol 和 Carbon](/img/2026-11-19-how-to-use-gemini-4-neon/03-official-aa-index.webp)
+
+第二张是 **20 项基准的完整对照表**（Neon vs Opus 5.5 vs GPT-6.2 Sol）：
+
+![官方基准对照表：Gemini 4 Neon vs Claude Opus 5.5 vs GPT-6.2 Sol](/img/2026-11-19-how-to-use-gemini-4-neon/04-official-bench-table.webp)
+
+几行值得单独圈出来（Neon vs Opus 5.5）：
+
+- **CursorBench 4.1**：65.4% vs 58.1%
+- **GraphWalks 长上下文**（256k–1M）：**95.2% vs 66.8%**——1M 上下文不是白给的
+- **SWE-sweep**：接官方 harness **39.0% vs 10.1%**；mini-SWE 单跑 12.8% vs 3.6%
+- **AutomationBench**：56.3% vs 42.5%
+- 也有输的：Terminal-bench 4.1 上 Opus 以 65.8% 对 65.2% 小幅领先——官方把这张表全放出来了，包括自己落后的行
 
 **综合与知识工作**
 
@@ -117,78 +141,145 @@ Neon 有四个思考档位，官方说这次把档位之间的过渡做得更平
 | Terminal-Bench 4.1 | 65.2% |
 | FrontierCode 2.0（默认 high 档） | 46.2% |
 | SWE-sweep（mini-SWE 单跑） | 12.8% |
-| SWE-sweep（**在 Antigravity 里**） | **39.0%，SOTA** |
+| SWE-sweep（**接官方 harness**，即 Antigravity 环境） | **39.0%，SOTA** |
 
-最后两行的差距值得单独说：同一个模型，放在 Antigravity 的 harness 里跑，成绩是单跑的 **3 倍**——官方就是用这组数字证明 Antigravity 环境的价值。
+最后两行的差距值得单独说：同一个模型，放在 Antigravity 的 harness 里跑，成绩是单跑的 **3 倍**——官方就是用这组数字证明 Antigravity 环境的价值。想在里面跑的，登录遇到风控参考这篇：[Antigravity 登录风控怎么办](https://littlemagic8.github.io/2026/11/15/how-to-solve-antigravity-login/)。
 
-**安全（挑几条关键的）**
+**安全（官方放了两张图）**
 
-- 内部 Antigravity 测试里**迄今最低的捏造率**（fabrication rate）
-- Terminal-Bench 4.0 作弊率 **0.0%**；整个 Gemini 4 家族里「抄近路率」最低（2.45%）
-- agent 诚实度评估通过率 **99.2%**；欠服务（under-service）比 Carbon 再降 43%–56%，越界（overreach）再降 15%–35%
-- Gray Swan 间接提示注入基准：最高档 + 实时防护下，**攻击成功率 0.0%**
+![官方 Gray Swan 提示注入测试：Neon 攻击成功率 0.0%，越低越好](/img/2026-11-19-how-to-use-gemini-4-neon/05-official-greyswan.webp)
 
-网络安全方向（Neon for cyber）另外拿了 AutoBaxBench hard 76%、SEC-bench Pro 90.5% 等 SOTA，通过 **Fairwind Program** 向可信防御者逐步开放，普通用户不用管这条。
+Gray Swan 间接提示注入基准里，Gemini 全家族（Neon / Carbon / Hydrogen）攻击成功率都是 **0.0%**；对比 Claude Opus 5.5 的 1.0%、GPT-6.2 Sol 的 2.3%、GPT-6 Luna 的 28.7%。
 
----
+![官方 AutoBaxBench 图表：Neon 76.0% 第一](/img/2026-11-19-how-to-use-gemini-4-neon/07-official-autobax.webp)
 
-## 四、五个实测场景
+![官方 SEC-bench Pro 图表：Neon 90.5% Pass@1 第一](/img/2026-11-19-how-to-use-gemini-4-neon/08-official-secbench.webp)
 
-下面五个场景对应官方点名的三大用法：**写作与知识工作、联网研究分析、Tasks 多步骤任务**，外加编程场景。每个都给完整提示词，可以直接抄。
+其余安全口径：内部 Antigravity 测试里**迄今最低的捏造率**（fabrication rate）；Terminal-Bench 4.0 作弊率 **0.0%**，整个 Gemini 4 家族里「抄近路率」最低（2.45%）；agent 诚实度评估通过率 **99.2%**；欠服务（under-service）比 Carbon 再降 43%–56%，越界（overreach）再降 15%–35%。
 
-### 测评 1：写作与知识工作
-
-官方说法：Neon 写得清楚、结构好、语气自然直接；读上传的表格、PDF、照片更准。让它把口语化的会议记录改写成周报试试：
-
-> 你是我的项目助理。把下面的会议录音转写稿改写成一份项目周报，要求：1) 按「本周进展 / 风险与阻塞 / 下周计划」三段输出；2) 每条不超过两行，先结论后细节；3) 语气客观直接，不出现口语词；4) 结尾附一句给管理层的摘要。
-
-![写作测评：会议记录改写成项目周报](/img/2026-11-19-how-to-use-gemini-4-neon/03-writing-test.png)
-
-实测感受：结构稳，没有车轱辘话，摘要那句可以直接转发。「先结论后细节」这类格式约束跟得很紧——这正是官方强调的**多步指令遵循**和**可控性**（接受任务中途纠正）落地的样子。改语气时追加一句「第二条改得更委婉一些」即可，不用整篇重来。
-
-### 测评 2：上传文件深度分析（官方同款场景）
-
-官方给的原场景就是「分析水电账单，找出费用为什么突然变高」。上传 12 张账单截图：
-
-> 我上传了 2025-09 到 2026-08 共 12 个月的电费账单截图。请逐张读出用电量、金额和计费周期，汇总成一张按月对比表；标出环比涨幅超过 30% 的月份，并结合用量变化给出 2-3 个最可能的原因，最后告诉我如果要控制电费，优先检查哪几样电器。
-
-![账单分析测评：12 张截图汇总成对比表并定位异常月份](/img/2026-11-19-how-to-use-gemini-4-neon/04-bill-analysis.png)
-
-实测感受：逐张截图读数这件事，Neon 读得比之前准——官方说它「读取上传的表格、PDF、照片更精确」，落到的就是这个环节。输出是「表 + 异常定位 + 归因 + 建议」四段，能直接照着行动。
-
-### 测评 3：联网研究比价（官方同款场景）
-
-官方场景：「大采购前比较不同供应商的价格」。趁双 11 让它查电视：
-
-> 我准备这台双 11 换一台 65 寸 Mini-LED 电视，预算 6000 元以内。请联网查一下目前主流电商和品牌官网的价格，列一张对比表：型号、面板参数、当前价、历史低价、保修政策；最后按性价比给我前 3 名，并说明现在是不是好的下单时机。
-
-![联网比价测评：多渠道价格对比并给出下单时机建议](/img/2026-11-19-how-to-use-gemini-4-neon/05-research-pricing.png)
-
-实测感受：官方强调 Neon「会整合网络来源的最新信息，保持对快变化话题的时效性」——实测里它给的价格带来源标注和抓取时间，甚至敢给「现在不急、等降到 XX 再买」这种明确结论，不是和稀泥。
-
-### 测评 4：Tasks 跑在 Neon 上，多步骤任务
-
-官方场景：把「核对多张收据去协商退款」这类琐碎活交给 Tasks。开 Tasks 时在模型里选 Neon：
-
-> 帮我核对我上传的 9 张消费收据，找出：1) 同一商户当天重复扣款；2) 小费被多收的记录；3) 订阅类扣款里已经取消但仍扣费的。整理成一张申诉表，附上每笔的申诉话术。
-
-![Tasks 测评：核对收据找出重复扣款并生成申诉表](/img/2026-11-19-how-to-use-gemini-4-neon/06-tasks-demo.png)
-
-实测感受：这类活的特点是**步骤多但单步不难**，正对官方说的「在 Neon 上跑 Tasks，更快完成复杂多步骤工作，同时把额度用在更多任务上」。点子在于：**额度敏感的日常多步骤活，从大模型挪到 Neon 上**，同样的用量能多干几件。
-
-### 测评 5：Antigravity 里当 Orchestrator
-
-官方描述：Neon 既能单干，也能当「判断快、有分寸」的 Orchestrator（编排者），**指挥并行的 Hydrogen 子代理**；会减少重复读文件、边干边汇报进度、长会话里可靠地做上下文压缩。试一个跨目录重构：
-
-> 把这个仓库里所有直接读写 localStorage 的调用收口到一个 storage.ts 模块：提供带类型泛型的 get/set/remove，其余文件统一改成 import；不要改动任何键名和默认值，改完跑一遍测试，把改动清单按文件列出来。
-
-![Antigravity 编排测评：Neon 指挥多个 Hydrogen 子代理并行重构](/img/2026-11-19-how-to-use-gemini-4-neon/07-coding-antigravity.png)
-
-实测感受：多文件「外科手术式」的小步修改是官方点名的强项（multi-file debugging and refactoring with targeted, surgical edits）。SWE-sweep 那组 12.8% → 39.0% 的差距说明：**同样的模型，在 Antigravity 里跑能多解将近 3 倍的题**，建议复杂工程直接放进 [Antigravity](https://antigravity.google/)。登录遇到风控的，参考这篇：[Antigravity 登录风控怎么办](https://littlemagic8.github.io/2026/11/15/how-to-solve-antigravity-login/)。
+网络安全方向（Neon for cyber）拿了 AutoBaxBench hard 76%、SEC-bench Pro 90.5% 等 SOTA，通过 **Fairwind Program** 向可信防御者逐步开放，普通用户不用管这条。
 
 ---
 
-## 五、API 价格和省钱要点
+## 四、开发者真实实测：Neon vs Opus 5.5 vs Carbon
+
+官方数字都是厂商自报。发布当天，开发者 Flavio Copes 用 OpenRouter API 跑了一组独立对比测试：**同一份提示词喂给 Neon、Gemini 4 Carbon 和 Claude Opus 5.5**，耗时、token 数、真实花费全部公开，文章在 [Gemini 4 Neon: I tested it against Opus 5.5](https://flaviocopes.com/gemini-4-neon)。
+
+测试方法说清楚：一个 Node 脚本调 OpenRouter 接口，用 `reasoning: { effort }` 控制思考档位；编程题的「通过」标准是**他提前写好的测试文件全部跑过**，不是「看起来对」。
+
+他用的是 OpenRouter 上的 `google/gemini-4-neon`：
+
+![Flavio Copes 的 OpenRouter 实拍截图：google/gemini-4-neon，$3/$15、1M 上下文、2026-11-18 上架（图源：flaviocopes.com）](/img/2026-11-19-how-to-use-gemini-4-neon/06-openrouter-real.webp)
+
+顺带一个细节：他截图里 Carbon 是 $2/$10——对照上面官方对比表的脚注，那是 **11 月 30 日前的促销价**，Carbon 原价其实是 $4/$20，比 Neon 贵。
+
+### 实测 1：两个编程题
+
+第一题写一个 `parseDuration()` 函数：`'1h30m'` 要解析成 5400 秒、`'2h5s'` 是 7205，遇到 `'30m1h'`、`'1.5h'`、`'1h 30m'` 这类要抛 `RangeError`，一共 30 个测试用例。
+
+第二题更难，写一个 `parseCSV()`：带引号字段、`""` 转义引号、引号内换行、`\r\n` 和单独 `\r`、结尾换行不能多出一行、游离引号要抛 `SyntaxError`，27 个用例。
+
+三个模型**全部满分通过**，差距全在时间和钱上：
+
+| 题目 | 模型 | 通过 | 耗时 | 输出 token | 花费 |
+|------|------|------|------|------|------|
+| parseDuration | Gemini 4 Neon | 30/30 | 12.7s | 1,275 | $0.020 |
+| parseDuration | Gemini 4 Carbon | 30/30 | 78.0s | 4,920 | $0.050 |
+| parseDuration | Claude Opus 5.5 | 30/30 | 6.8s | 571 | $0.012 |
+| parseCSV | Gemini 4 Neon | 27/27 | 49.3s | 6,032 | $0.091 |
+| parseCSV | Gemini 4 Carbon | 27/27 | 308.5s | 19,702 | $0.198 |
+| parseCSV | Claude Opus 5.5 | 27/27 | 12.4s | 1,392 | $0.029 |
+
+他记录的几个细节：
+
+- parseDuration 上三个模型写出了**一模一样的正则** `/^(?:([0-9]+)h)?(?:([0-9]+)m)?(?:([0-9]+)s)?$/`
+- CSV 题上 Neon 花了 **5,495 个推理 token** 才动笔写约 70 行代码，Opus 只用了 694 个——所以 Neon 单 token 更便宜，**单题成本却约为 Opus 的 3 倍**（默认 high 档）
+- Carbon 慢出另一个次元：一道 CSV 5 分多钟、近 2 万 token。HN 帖子吐槽 Carbon 的也是这一点
+- Neon 写码输出速度约 **122 token/秒**，Carbon 约 64
+
+### 实测 2：把思考档位拨到 low
+
+既然 Neon 在小题上「想太多」，他把同一道 CSV 题用 low / medium / high 各跑了一遍：
+
+| 档位 | Neon | Neon 成本 | Opus 5.5 | Opus 成本 |
+|------|------|------|------|------|
+| low | 27/27，24.5s | $0.040 | 27/27，6.2s | $0.016 |
+| medium | 27/27，39.1s | $0.065 | 27/27，9.4s | $0.021 |
+| high | 27/27，49.3s | $0.091 | 27/27，12.4s | $0.029 |
+
+**Neon 的 low 档依然 27/27 全对，成本不到 high 档的一半。**他的建议：小而明确的函数直接从 low 开始，high 留给 agent 场景——那里有更多值得思考的东西。
+
+### 实测 3：写作
+
+HN 上很多人说 Gemini 4 的英文写得比 Claude 好。他给三个模型一段混乱的 commit message 让它们重写，原文是：
+
+```
+fixed the thing where the newsletter form was sending twice, it was because the submit handler got attached on every astro page transition so after navigating 3 pages you got 3 emails lol. now we check a data attribute before attaching. also removed console.log
+```
+
+Neon 的输出：
+
+```
+fix: prevent duplicate newsletter form submissions
+
+Astro page transitions were re-attaching the submit handler on each navigation, triggering multiple emails per submission. Guard listener attachment with a data attribute so it only binds once, and remove a leftover `console.log`.
+```
+
+Opus 5.5 的输出：
+
+```
+Fix duplicate newsletter form submissions
+
+The submit handler was re-attached on every Astro page transition, so each navigation added another listener (3 pages = 3 emails). Now we check a data attribute before attaching.
+
+Also remove stray console.log.
+```
+
+他的评价：两版都不错，但 **Neon 这版更像真实仓库里的 commit**——标准 `fix:` 前缀加一段紧凑正文；Opus 保留了「3 pages = 3 emails」这个最直观的细节；Carbon 输出成了两个短 bullet。
+
+### 实测 4：100k token 长文检索
+
+Neon 输入价低，优势应该在大 prompt 上。他把自己 11 月 10–18 日发的 23 篇文章合成一个 385KB 的 prompt，让它找出提到 OpenRouter 的文章 slug（`grep` 验证正确答案是 `openrouter-models` 和 `small-ai-models`）：
+
+| 模型 | 答案 | 输入 token | 耗时 | 成本 |
+|------|------|------|------|------|
+| Gemini 4 Neon | 两个都对，没有多余输出 | 103,361 | 13.9s | $0.33 |
+| Claude Opus 5.5 | 两个都对，没有多余输出 | 139,963 | 6.3s | $0.57 |
+
+同样的 385KB 内容，Gemini 的分词器比 Claude **少算 26% 的 token**；叠加更低的输入单价，**同样的正确答案，Neon 便宜 42%**。
+
+他对 Neon 的定位总结：适合「**读很多、答很少**」的活——整个代码库、一堆 PDF、长日志、一年的笔记。短编程题它和 Opus 一样对，但默认 high 档下更慢更贵，记得拨到 low。他还没在真实项目上把 Neon 当 agent 跑，那是 Google 宣传里加分的部分，留作下一个测试。
+
+---
+
+## 五、社区真实反馈：HN 728 分热帖 + Reddit
+
+### Hacker News
+
+HN 讨论帖发布首日冲到 **728 分、600+ 评论**。主流观点（转述自 Flavio 的整理）：
+
+- 多数人把 Neon 放在 **Opus 5.5 同一档**，编程场景仍有不少人偏好 Opus
+- 很多人夸 Gemini 4 的写作，有人专门拿它重写 commit message
+- 有人实测 OpenRouter 上 Neon 约 **127 token/秒**（Carbon 约 46），和 Flavio 的数字对得上
+- 也有人对 Gemini 系模型的工具调用（tool use）仍不信任，早期版本留下过阴影
+- 没人喜欢 Carbon / Hydrogen / Neon 这批命名
+
+### Reddit
+
+各版第一手反馈，挑了几条有代表性的：
+
+- [r/GeminiAI 发布帖](https://www.reddit.com/r/GeminiAI/comments/1xzrkin/google_launches_gemini_4_neon)：「This model is FLYING.」——不是 Carbon 那种深度，但**非常快，比 Hydrogen 有深度得多**
+- [r/codex「Neon 拿下 AA 编程指数第 1」帖](https://www.reddit.com/r/codex/comments/1xzx8vc/just_released_gemini_4_neon_takes_1_spot_in_aa)（榜首领先 GPT-6.2 Astra 6 分）：有人给它一道开放数学题，「它想了 5 分钟」；同时热评也提醒：**早期印象正面，但详细实测还很少，真正的考验是实际干活**
+- [r/GeminiAI「Neon 卡在 Carbon 和 Hydrogen 中间」讨论帖](https://www.reddit.com/r/GeminiAI/comments/1xza6pu/gemini_4_neon_coming_today_it_sits_right_between)：很多人表示对 Carbon 唯一的抱怨就是慢，Neon 正好接住这个需求
+- r/google_antigravity：「Sheesh，上周我还在感叹 Hydrogen 厉害」
+- 角色扮演社区 r/SillyTavernAI：测了一会儿，智力介于 Argon/Carbon 和 Hydrogen 之间，「Sonnet/Terra 级」
+- 也有负面帖：[r/GeminiAI「Gemini Neon is incredibly bad…」](https://www.reddit.com/r/GeminiAI/comments/1y00yaf/gemini_neon_is_incredibly_bad_i_genuinely_think)——发布初期评价两极是常态，自己上手最准
+
+第三方榜单 Artificial Analysis 的模型页补充了两个数字：**默认档 59.6、xhigh 61.4，单任务约 $6.44**，和官方口径基本一致。
+
+---
+
+## 六、API 价格和省钱要点
 
 标准价，每百万 token：
 
@@ -199,17 +290,16 @@ Neon 有四个思考档位，官方说这次把档位之间的过渡做得更平
 | 输出 | $15 |
 | 上下文窗口 | 1M tokens |
 
-![Gemini 4 Neon API 价格与单任务成本对比](/img/2026-11-19-how-to-use-gemini-4-neon/08-pricing.png)
-
-三条省钱要点：
+四条省钱要点，前三条都有上面的实测数据撑着：
 
 1. **重复上下文务必用缓存**——长系统提示、大文档反复引用时，缓存输入只要 $0.15，是原价的 5%。
-2. **档位按需拨**——默认 high 已经是官方口径下「比 Carbon 便宜 32%」的性价比档；只有最难的工程、分析、科研才上 xhigh。
-3. **agentic 长任务放 Antigravity 里跑**——SWE-sweep 12.8% → 39.0% 说明环境本身就在帮你省重试成本。
+2. **小任务把档位拨到 low**——Flavio 实测同一道题 low $0.040 vs high $0.091，一样全对，**省一半以上**。
+3. **读大量材料的活交给 Neon**——100k token 检索实测比 Opus 5.5 **便宜 42%**，长上下文正是它的主场。
+4. **agentic 长任务放 Antigravity 里跑**——SWE-sweep 12.8% → 39.0% 说明环境本身就在帮你省重试成本。
 
 ---
 
-## 六、国内怎么开通：Gemini Pro 代充
+## 七、国内怎么开通：Gemini Pro 代充
 
 想用上 Neon，账号必须是 **Google AI Pro 或 Ultra**（免费号和 Google AI Plus 都不行）。有外币银行卡的，打开 [Google One](https://one.google.com/) 自己订阅，步骤、价格和取消续费写在：[Gemini Pro 怎么订阅](https://littlemagic8.github.io/2026/10/20/how-to-use-gemini-pro/)。
 
@@ -226,11 +316,12 @@ Neon 有四个思考档位，官方说这次把档位之间的过渡做得更平
 
 ## 总结
 
-- Gemini 4 Neon：**前沿推理 + 快的端到端完成**，在 Gemini 4 家族里卡在 Carbon（最重）和 Hydrogen（最快）中间，主打复杂高频工作流。
-- 跑分：AA Intelligence Index 61 分总榜第 3、Coding Agent Index 第 1、Vals 第 2、Agent Arena 全球第 2；SWE-sweep 在 Antigravity 里跑出 39.0% SOTA。
-- 价格：$3 / $15，缓存 $0.15，1M 上下文；默认档比 Carbon 便宜 32%，对顶级对手便宜 50%–80%。
-- 用法：Gemini 应用模型下拉选 **"Deeper analysis"**；Tasks 也能切到 Neon；开发者走 AI Studio / API；复杂工程放 Antigravity。
-- 安全面继续加码：最低捏造率、0% 作弊、99.2% 诚实度、提示注入 0% 攻击成功。
+- Gemini 4 Neon：**前沿推理 + 快的端到端完成**，卡在 Carbon（最重）和 Hydrogen（最快）中间；官方对比表显示它 **AA 智能指数 61 分，比 Carbon 的 60 还高**，而价格只要 $3/$15，且 Pro 就能用（Carbon 要 Ultra）。
+- 跑分：AA Coding Agent Index 第 1（58.6）、Vals 第 2、Agent Arena 全球第 2；长上下文 GraphWalks **95.2%** 对 Opus 5.5 的 66.8%；SWE-sweep 接官方 harness 跑出 39.0% SOTA。
+- 独立实测（Flavio Copes，OpenRouter 真实计费）：编程题三个模型全对，但 Neon 默认档「想太多」（5,495 推理 token），**小任务拨 low 档省一半**；100k token 长文检索**比 Opus 5.5 便宜 42%**；写作更接近真实 commit 风格。
+- 社区：HN 首日 **728 分、600+ 评论**，主流评价「Opus 5.5 同档、写字更好、速度飞快（约 122–127 token/秒）」；r/codex 提醒详细实测还少；也有负面反馈，评价尚在两极期。
+- 安全：Gray Swan 提示注入攻击成功率 **0.0%**（对手最高 28.7%），AutoBaxBench 76%、SEC-bench Pro 90.5% 双第一。
+- 价格：$3 / $15，缓存 $0.15，1M 上下文；默认档单任务成本比 Carbon 便宜 32%，比顶级对手便宜 50%–80%。
 - 国内开通：微信 **aicygg888**，或代充页 https://littlemagic8.github.io/gptplus/purchase-gemini.html
 
 ## 联系我们
