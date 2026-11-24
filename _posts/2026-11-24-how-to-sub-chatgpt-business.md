@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      ChatGPT Business双倍用量活动来了！11月30日前新建工作区额度翻倍用到12月31日，Business权益价格一览+国内国际卡代充订阅图文教程
+title:      ChatGPT Business双倍用量活动来了！11月30日前新建工作区额度翻倍用到12月31日，Business权益价格一览+ ChatGPT Business卡代充订阅图文教程
 subtitle:   ChatGPT Business 2x用量活动解读 + 国际卡代充订阅教程
 date:       2026-11-24
 author:     aicygg888
@@ -142,8 +142,6 @@ Business 只支持**国际主流信用卡**支付（Visa/Mastercard 等），国
 
 ![OpenAI Business 绑卡支付页：填卡号/有效期/CVV、持卡人姓名和美国账单地址](/img/2026-11-24-how-to-sub-chatgpt-business/business-checkout.png)
 
-![绑卡表单填写示意（卡号/有效期/安全码/邮编）](/img/x-premium-plus-03-fill-card.png)
-
 **第 3 步：确认开通，邀请成员开用**
 
 支付成功后工作区即创建完成——**11 月 30 日前创建即自动享受双倍用量（至 12 月 31 日）**，不需要任何兑换码。点击头像就能看到新工作区，菜单里的【添加团队成员】和【工作空间设置】就是接下来的入口：
@@ -152,9 +150,11 @@ Business 只支持**国际主流信用卡**支付（Visa/Mastercard 等），国
 
 到【工作空间设置 → Members】邀请成员、分配 Standard/Premium 席位即可开用。
 
+直达链接：[https://chatgpt.com/admin](https://chatgpt.com/admin)（登录管理员账号打开，左侧 Members 页签邀请成员，Manage seats 分配 Standard/Premium 席位）。
+
 ### 开通后记得做的三件事
 
-1. 管理后台 → Billing/结算：确认账单金额、席位数无误；
+1. 管理后台 → Billing/结算：确认账单金额、席位数无误；直达链接：[https://chatgpt.com/admin](https://chatgpt.com/admin)；
 2. 邀请成员并分配席位类型（重度用户给 Premium）；
 3. 蹲 12 月两件事：官方"老用户礼物"官宣、**ChatGPT/Codex 共享额度**上线。
 
